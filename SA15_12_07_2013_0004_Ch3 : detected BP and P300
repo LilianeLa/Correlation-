@@ -1,0 +1,961 @@
+>> init
+ Path loaded ! :)
+>> principal(SA15_12_07_2013_0004_Ch3.values, ttl.times);
+ 
+*********************************************************************************************************
+                                       I. DETECTION OF ARTIFACTS                                         
+*********************************************************************************************************
+ 
+A1 begins at 5e-005s;   0.00105s: end of fast comp.;           ?: end of first slow comp. (no ZC found)
+                                                           2.0011s: real end (arbitrary as no ZC has been found with def.endslow)
+                                                           Perhaps SW after. Sth above diapason (2.0011s to 2.6511s)
+ 
+A2 begins at 23.5777s;    24.7545s: end of fast comp.;    25.4334s: end of first slow comp.
+                                                           25.9694s: end of total slow comp.
+                                                           Sth above diapason (25.4334s to 26.0834s)
+ 
+A3 begins at 41.5163s;    41.5199s: end of fast comp.;    42.6658s: end of first slow comp.
+                                                           42.6658s: end of total slow comp.
+                                                           Nothing above diapason from 42.6658s to 43.3158s
+ 
+A4 begins at 69.8592s;    70.8859s: end of fast comp.;            (there's no slow comp.)
+                                                           70.8859s: end of total slow comp.
+                                                           Nothing above diapason from 70.8859s to 71.5359s
+ 
+A5 begins at 122.2651s;    122.4325s: end of fast comp.;    122.8981s: end of first slow comp.
+                                                           123.4173s: end of total slow comp.
+                                                           Sth above diapason (122.8981s to 123.5481s)
+ 
+A6 begins at 173.3387s;    173.4294s: end of fast comp.;    173.482s: end of first slow comp.
+                                                           173.972s: end of total slow comp.
+                                                           Sth above diapason (173.482s to 174.132s)
+ 
+A7 begins at 212.1927s;    212.1933s: end of fast comp.;    212.6414s: end of first slow comp.
+                                                           212.6414s: end of total slow comp.
+                                                           Nothing above diapason from 212.6414s to 213.2914s
+ 
+A8 begins at 221.4519s;    221.9327s: end of fast comp.;    222.0628s: end of first slow comp.
+                                                           224.0062s: end of total slow comp.
+                                                           Sth above diapason (222.0628s to 222.7128s)
+ 
+A9 begins at 261.4846s;    261.4977s: end of fast comp.;    262.098s: end of first slow comp.
+                                                           262.098s: end of total slow comp.
+                                                           Nothing above diapason from 262.098s to 262.748s
+ 
+A10 begins at 276.8378s;    276.8379s: end of fast comp.;    277.6585s: end of first slow comp.
+                                                           277.6585s: end of total slow comp.
+                                                           Nothing above diapason from 277.6585s to 278.3085s
+ 
+A11 begins at 398.3872s;    398.3884s: end of fast comp.;            (there's no slow comp.)
+                                                           398.706s: end of total slow comp.
+                                                           Sth above diapason (398.3884s to 399.0384s)
+ 
+A12 begins at 426.4551s;    426.4559s: end of fast comp.;            (there's no slow comp.)
+                                                           426.5793s: end of total slow comp.
+                                                           Sth above diapason (426.4559s to 427.1058s)
+ 
+A13 begins at 461.1843s;    461.1849s: end of fast comp.;    462.1506s: end of first slow comp.
+                                                           462.1506s: end of total slow comp.
+                                                           Nothing above diapason from 462.1506s to 462.8007s
+ 
+A14 begins at 481.0364s;    481.0367s: end of fast comp.;    481.3453s: end of first slow comp.
+                                                           481.4631s: end of total slow comp.
+                                                           Sth above diapason (481.3453s to 481.9953s)
+ 
+A15 begins at 504.007s;    504.0093s: end of fast comp.;            (there's no slow comp.)
+                                                           504.0093s: end of total slow comp.
+                                                           Nothing above diapason from 504.0093s to 504.6594s
+ 
+A16 begins at 509.1323s;    509.1327s: end of fast comp.;    509.7979s: end of first slow comp.
+                                                           509.7979s: end of total slow comp.
+                                                           Nothing above diapason from 509.7979s to 510.4479s
+ 
+A17 begins at 539.1075s;    539.1077s: end of fast comp.;    539.2749s: end of first slow comp.
+                                                           539.2749s: end of total slow comp.
+                                                           Nothing above diapason from 539.2749s to 539.9249s
+ 
+A18 begins at 589.4884s;    589.4885s: end of fast comp.;            (there's no slow comp.)
+                                                           589.4885s: end of total slow comp.
+                                                           Nothing above diapason from 589.4885s to 590.1385s
+ 
+A19 begins at 613.1722s;    613.1723s: end of fast comp.;            (there's no slow comp.)
+                                                           613.1723s: end of total slow comp.
+                                                           Nothing above diapason from 613.1723s to 613.8223s
+ 
+A20 begins at 618.7499s;    618.7949s: end of fast comp.;    618.8245s: end of first slow comp.
+                                                           618.8665s: end of total slow comp.
+                                                           Sth above diapason (618.8245s to 619.4745s)
+ 
+A21 begins at 627.3989s;    627.3995s: end of fast comp.;            (there's no slow comp.)
+                                                           627.972s: end of total slow comp.
+                                                           Sth above diapason (627.3995s to 628.0495s)
+ 
+A22 begins at 635.5499s;    635.7853s: end of fast comp.;            (there's no slow comp.)
+                                                           636.1034s: end of total slow comp.
+                                                           Sth above diapason (635.7853s to 636.4353s)
+ 
+A23 begins at 654.9192s;    654.9192s: end of fast comp.;            (there's no slow comp.)
+                                                           654.9192s: end of total slow comp.
+                                                           Nothing above diapason from 654.9192s to 655.5692s
+ 
+A24 begins at 692.4257s;    692.4261s: end of fast comp.;            (there's no slow comp.)
+                                                           692.4261s: end of total slow comp.
+                                                           Nothing above diapason from 692.4261s to 693.0761s
+ 
+A25 begins at 694.3542s;    694.3615s: end of fast comp.;    695.1974s: end of first slow comp.
+                                                           695.1974s: end of total slow comp.
+                                                           Nothing above diapason from 695.1974s to 695.8474s
+ 
+A26 begins at 700.4645s;    700.4659s: end of fast comp.;            (there's no slow comp.)
+                                                           700.4659s: end of total slow comp.
+                                                           Nothing above diapason from 700.4659s to 701.1159s
+ 
+A27 begins at 706.9119s;    706.9122s: end of fast comp.;    707.3737s: end of first slow comp.
+                                                           707.4094s: end of total slow comp.
+                                                           Sth above diapason (707.3737s to 708.0237s)
+ 
+A28 begins at 789.7902s;    789.7903s: end of fast comp.;    789.9357s: end of first slow comp.
+                                                           789.9656s: end of total slow comp.
+                                                           Sth above diapason (789.9357s to 790.5857s)
+ 
+A29 begins at 837.4393s;    837.4393s: end of fast comp.;    837.7958s: end of first slow comp.
+                                                           837.7958s: end of total slow comp.
+                                                           Nothing above diapason from 837.7958s to 838.4458s
+ 
+A30 begins at 839.5943s;    839.5943s: end of fast comp.;    839.8207s: end of first slow comp.
+                                                           839.8207s: end of total slow comp.
+                                                           Nothing above diapason from 839.8207s to 840.4707s
+ 
+A31 begins at 843.734s;    843.734s: end of fast comp.;    844.1512s: end of first slow comp.
+                                                           844.2233s: end of total slow comp.
+                                                           Sth above diapason (844.1512s to 844.8012s)
+ 
+A32 begins at 863.5494s;    863.5499s: end of fast comp.;    863.9108s: end of first slow comp.
+                                                           864.8774s: end of total slow comp.
+                                                           Sth above diapason (863.9108s to 864.5607s)
+ 
+A33 begins at 951.9687s;    951.9697s: end of fast comp.;            (there's no slow comp.)
+                                                           951.9697s: end of total slow comp.
+                                                           Nothing above diapason from 951.9697s to 952.6197s
+ 
+A34 begins at 993.3903s;    994.1708s: end of fast comp.;    995.517s: end of first slow comp.
+                                                           995.517s: end of total slow comp.
+                                                           Nothing above diapason from 995.517s to 996.167s
+ 
+A35 begins at 1014.7876s;    1015.8241s: end of fast comp.;            (there's no slow comp.)
+                                                           1017.6818s: end of total slow comp.
+                                                           Sth above diapason (1015.8241s to 1016.4741s)
+ 
+A36 begins at 1023.511s;    1023.5114s: end of fast comp.;            (there's no slow comp.)
+                                                           1023.5114s: end of total slow comp.
+                                                           Nothing above diapason from 1023.5114s to 1024.1614s
+ 
+A37 begins at 1075.1731s;    1075.1734s: end of fast comp.;    1076.4931s: end of first slow comp.
+                                                           1076.4931s: end of total slow comp.
+                                                           Nothing above diapason from 1076.4931s to 1077.1431s
+ 
+A38 begins at 1164.8276s;    1164.8277s: end of fast comp.;    1165.7826s: end of first slow comp.
+                                                           1166.0284s: end of total slow comp.
+                                                           Sth above diapason (1165.7826s to 1166.4326s)
+ 
+A39 begins at 1184.2728s;    1184.2829s: end of fast comp.;    1184.6122s: end of first slow comp.
+                                                           1184.6122s: end of total slow comp.
+                                                           Nothing above diapason from 1184.6122s to 1185.2623s
+ 
+A40 begins at 1200.8481s;    1200.8485s: end of fast comp.;    1201.3699s: end of first slow comp.
+                                                           1201.6447s: end of total slow comp.
+                                                           Sth above diapason (1201.3699s to 1202.0198s)
+ 
+A41 begins at 1204.3504s;    1204.3513s: end of fast comp.;            (there's no slow comp.)
+                                                           1204.3513s: end of total slow comp.
+                                                           Nothing above diapason from 1204.3513s to 1205.0013s
+ 
+A42 begins at 1257.2079s;    1259.3171s: end of fast comp.;            (there's no slow comp.)
+                                                           1259.5022s: end of total slow comp.
+                                                           Sth above diapason (1259.3171s to 1259.9671s)
+ 
+A43 begins at 1267.2595s;    1267.2599s: end of fast comp.;    1267.6855s: end of first slow comp.
+                                                           1268.1636s: end of total slow comp.
+                                                           Sth above diapason (1267.6855s to 1268.3356s)
+ 
+A44 begins at 1293.0959s;    1293.3412s: end of fast comp.;    1294.1536s: end of first slow comp.
+                                                           1294.1536s: end of total slow comp.
+                                                           Nothing above diapason from 1294.1536s to 1294.8036s
+ 
+A45 begins at 1341.5059s;    1341.5065s: end of fast comp.;    1341.9676s: end of first slow comp.
+                                                           1341.9676s: end of total slow comp.
+                                                           Nothing above diapason from 1341.9676s to 1342.6176s
+ 
+A46 begins at 1349.3752s;    1349.3776s: end of fast comp.;    1350.2285s: end of first slow comp.
+                                                           1351.8834s: end of total slow comp.
+                                                           Sth above diapason (1350.2285s to 1350.8785s)
+ 
+A47 begins at 1359.0549s;    1359.7124s: end of fast comp.;    1360.6592s: end of first slow comp.
+                                                           1360.6592s: end of total slow comp.
+                                                           Nothing above diapason from 1360.6592s to 1361.3092s
+ 
+A48 begins at 1365.8276s;    1365.8276s: end of fast comp.;            (there's no slow comp.)
+                                                           1365.8276s: end of total slow comp.
+                                                           Nothing above diapason from 1365.8276s to 1366.4777s
+ 
+A49 begins at 1391.9741s;    1391.9746s: end of fast comp.;    1392.1374s: end of first slow comp.
+                                                           1392.1374s: end of total slow comp.
+                                                           Nothing above diapason from 1392.1374s to 1392.7874s
+ 
+A50 begins at 1444.0241s;    1444.1469s: end of fast comp.;    1444.6641s: end of first slow comp.
+                                                           1444.6641s: end of total slow comp.
+                                                           Nothing above diapason from 1444.6641s to 1445.3141s
+ 
+A51 begins at 1565.0637s;    1565.0638s: end of fast comp.;    1565.5719s: end of first slow comp.
+                                                           1566.5482s: end of total slow comp.
+                                                           Sth above diapason (1565.5719s to 1566.2219s)
+ 
+A52 begins at 1580.8715s;    1580.872s: end of fast comp.;    1581.3901s: end of first slow comp.
+                                                           1581.3901s: end of total slow comp.
+                                                           Nothing above diapason from 1581.3901s to 1582.0402s
+ 
+A53 begins at 1598.8873s;    1598.8874s: end of fast comp.;            (there's no slow comp.)
+                                                           1599.0728s: end of total slow comp.
+                                                           Sth above diapason (1598.8874s to 1599.5374s)
+ 
+A54 begins at 1714.7081s;    1714.7081s: end of fast comp.;            (there's no slow comp.)
+                                                           1714.7081s: end of total slow comp.
+                                                           Nothing above diapason from 1714.7081s to 1715.3581s
+ 
+A55 begins at 1733.4472s;    1734.3449s: end of fast comp.;    1734.5068s: end of first slow comp.
+                                                           1734.9043s: end of total slow comp.
+                                                           Sth above diapason (1734.5068s to 1735.1568s)
+ 
+A56 begins at 1802.1749s;    1802.3232s: end of fast comp.;    1802.9119s: end of first slow comp.
+                                                           1803.2355s: end of total slow comp.
+                                                           Sth above diapason (1802.9119s to 1803.5619s)
+ 
+A57 begins at 1817.1495s;    1817.1569s: end of fast comp.;    1818.5635s: end of first slow comp.
+                                                           1818.5635s: end of total slow comp.
+                                                           Nothing above diapason from 1818.5635s to 1819.2135s
+ 
+A58 begins at 1826.3209s;    1826.4901s: end of fast comp.;    1827.3555s: end of first slow comp.
+                                                           1827.6193s: end of total slow comp.
+                                                           Sth above diapason (1827.3555s to 1828.0055s)
+ 
+A59 begins at 1863.2115s;    1863.2269s: end of fast comp.;    1863.4526s: end of first slow comp.
+                                                           1864.093s: end of total slow comp.
+                                                           Sth above diapason (1863.4526s to 1864.1027s)
+ 
+A60 begins at 1912.5672s;    1912.5676s: end of fast comp.;           ?: end of first slow comp. (no ZC found)
+                                                           1914.4349s: end of total slow comp.
+                                                           Nothing above diapason from 1914.4349s to 1915.0849s
+ 
+A61 begins at 1919.1438s;    1919.1438s: end of fast comp.;    1920.044s: end of first slow comp.
+                                                           1920.044s: end of total slow comp.
+                                                           Nothing above diapason from 1920.044s to 1920.694s
+ 
+A62 begins at 1921.2811s;    1921.5449s: end of fast comp.;            (there's no slow comp.)
+                                                           1921.5449s: end of total slow comp.
+                                                           Nothing above diapason from 1921.5449s to 1922.1949s
+ 
+A63 begins at 1930.4769s;    1931.7081s: end of fast comp.;    1932.7562s: end of first slow comp.
+                                                           1933.8747s: end of total slow comp.
+                                                           Sth above diapason (1932.7562s to 1933.4062s)
+ 
+A64 begins at 1940.9108s;    1942.2129s: end of fast comp.;    1943.3731s: end of first slow comp.
+                                                           1943.3731s: end of total slow comp.
+                                                           Nothing above diapason from 1943.3731s to 1944.0231s
+ 
+A65 begins at 1952.5339s;    1952.5342s: end of fast comp.;    1952.8721s: end of first slow comp.
+                                                           1953.1943s: end of total slow comp.
+                                                           Sth above diapason (1952.8721s to 1953.5222s)
+ 
+A66 begins at 1956.3061s;    1956.8744s: end of fast comp.;            (there's no slow comp.)
+                                                           1956.8744s: end of total slow comp.
+                                                           Nothing above diapason from 1956.8744s to 1957.5243s
+ 
+A67 begins at 1969.5599s;    1971.0769s: end of fast comp.;    1971.3711s: end of first slow comp.
+                                                           1972.9862s: end of total slow comp.
+                                                           Sth above diapason (1971.3711s to 1972.0211s)
+ 
+A68 begins at 1980.8934s;    1982.5012s: end of fast comp.;            (there's no slow comp.)
+                                                           1982.5012s: end of total slow comp.
+                                                           Nothing above diapason from 1982.5012s to 1983.1511s
+ 
+A69 begins at 2004.3555s;    2004.3556s: end of fast comp.;            (there's no slow comp.)
+                                                           2004.3556s: end of total slow comp.
+                                                           Nothing above diapason from 2004.3556s to 2005.0056s
+ 
+A70 begins at 2021.5336s;    2021.5336s: end of fast comp.;            (there's no slow comp.)
+                                                           2021.5336s: end of total slow comp.
+                                                           Nothing above diapason from 2021.5336s to 2022.1836s
+ 
+A71 begins at 2026.9523s;    2026.9523s: end of fast comp.;            (there's no slow comp.)
+                                                           2026.9523s: end of total slow comp.
+                                                           Nothing above diapason from 2026.9523s to 2027.6023s
+ 
+A72 begins at 2072.0483s;    2072.8173s: end of fast comp.;            (there's no slow comp.)
+                                                           2073.346s: end of total slow comp.
+                                                           Sth above diapason (2072.8173s to 2073.4673s)
+ 
+A73 begins at 2077.7842s;    2078.4705s: end of fast comp.;            (there's no slow comp.)
+                                                           2078.55s: end of total slow comp.
+                                                           Sth above diapason (2078.4705s to 2079.1205s)
+ 
+A74 begins at 2088.334s;    2089.1532s: end of fast comp.;            (there's no slow comp.)
+                                                           2089.2054s: end of total slow comp.
+                                                           Sth above diapason (2089.1532s to 2089.8032s)
+ 
+A75 begins at 2098.3425s;    2099.6498s: end of fast comp.;            (there's no slow comp.)
+                                                           2099.6498s: end of total slow comp.
+                                                           Nothing above diapason from 2099.6498s to 2100.2998s
+ 
+A76 begins at 2105.3863s;    2106.3074s: end of fast comp.;            (there's no slow comp.)
+                                                           2106.3074s: end of total slow comp.
+                                                           Nothing above diapason from 2106.3074s to 2106.9574s
+ 
+A77 begins at 2157.3915s;    2157.3917s: end of fast comp.;    2157.6529s: end of first slow comp.
+                                                           2157.6529s: end of total slow comp.
+                                                           Nothing above diapason from 2157.6529s to 2158.3029s
+ 
+A78 begins at 2231.7585s;    2231.7622s: end of fast comp.;    2232.0239s: end of first slow comp.
+                                                           2232.0239s: end of total slow comp.
+                                                           Nothing above diapason from 2232.0239s to 2232.6739s
+ 
+A79 begins at 2465.1215s;    2465.7982s: end of fast comp.;            (there's no slow comp.)
+                                                           2465.7982s: end of total slow comp.
+                                                           Nothing above diapason from 2465.7982s to 2466.4482s
+ 
+A80 begins at 2467.7884s;    2467.8336s: end of fast comp.;            (there's no slow comp.)
+                                                           2467.8336s: end of total slow comp.
+                                                           Nothing above diapason from 2467.8336s to 2468.4836s
+ 
+A81 begins at 2471.8369s;    2472.9963s: end of fast comp.;    2473.327s: end of first slow comp.
+                                                           2474.8251s: end of total slow comp.
+                                                           Sth above diapason (2473.327s to 2473.977s)
+ 
+A82 begins at 2513.9275s;    2513.9276s: end of fast comp.;            (there's no slow comp.)
+                                                           2513.9276s: end of total slow comp.
+                                                           Nothing above diapason from 2513.9276s to 2514.5776s
+ 
+A83 begins at 2524.6561s;    2525.2232s: end of fast comp.;            (there's no slow comp.)
+                                                           2525.2232s: end of total slow comp.
+                                                           Nothing above diapason from 2525.2232s to 2525.8732s
+ 
+A84 begins at 2527.2347s;    2527.243s: end of fast comp.;           ?: end of first slow comp. (no ZC found)
+                                                        2528.4527s: end of total slow comp.
+                                                        Nothing above diapason from 2528.4527s to 2529.1028s
+ 
+ 
+*********************************************************************************************************
+                                      II. DETECTION OF SLOW WAVES                                        
+*********************************************************************************************************
+ 
+ 
+SW1:    -25.7507 microV at 39.6934s;    18.4057 microV at 40.1483s
+ 
+SW2:    -61.2014 microV at 44.2993s;    14.4253 microV at 44.5567s
+ 
+SW3:    -31.0403 microV at 55.6587s;    11.5117 microV at 55.7849s
+ 
+SW4:    -61.5574 microV at 60.993s;    43.8359 microV at 61.4138s
+ 
+SW5:    -32.1293 microV at 61.5665s;    16.6487 microV at 61.7419s
+ 
+SW6:    -62.5872 microV at 83.505s;    22.7496 microV at 84.1464s
+ 
+SW7:    -26.1335 microV at 85.3483s;    14.3737 microV at 85.4789s
+ 
+SW8:    -39.3718 microV at 87.1757s;    17.688 microV at 87.4276s
+ 
+SW9:    -39.4241 microV at 129.5258s;    10.4197 microV at 129.6909s
+ 
+SW10:    -24.8753 microV at 157.9282s;    16.3448 microV at 158.0623s
+ 
+SW11:    -25.4412 microV at 177.9597s;    23.5292 microV at 178.1055s
+ 
+SW12:    -40.6718 microV at 196.1083s;    15.2348 microV at 196.2589s
+ 
+SW13:    -30.96 microV at 227.9426s;    15.2348 microV at 228.2585s
+ 
+SW14:    -21.8546 microV at 252.4617s;    28.4938 microV at 253.3211s
+ 
+SW15:    -25.9482 microV at 253.4396s;    17.5518 microV at 253.6395s
+ 
+SW16:    -30.4862 microV at 270.4242s;    14.0898 microV at 270.7745s
+ 
+SW17:    -26.7921 microV at 303.436s;    19.7934 microV at 303.7853s
+ 
+SW18:    -53.5985 microV at 304.464s;    15.5685 microV at 304.7766s
+ 
+SW19:    -56.0754 microV at 318.4003s;    11.39 microV at 318.5902s
+ 
+SW20:    -88.3469 microV at 322.6345s;    23.0984 microV at 322.863s
+ 
+SW21:    -31.2366 microV at 347.2265s;    12.4349 microV at 347.7653s
+ 
+SW22:    -29.2726 microV at 353.5712s;    14.1053 microV at 353.7509s
+ 
+SW23:    -23.1803 microV at 363.2304s;    16.9484 microV at 363.5315s
+ 
+SW24:    -28.1848 microV at 374.6192s;    15.4464 microV at 374.8528s
+ 
+SW25:    -31.7108 microV at 389.399s;    10.6606 microV at 389.7967s
+ 
+SW26:    -51.2047 microV at 407.7689s;    21.3591 microV at 407.9871s
+ 
+SW27:    -25.0582 microV at 431.3693s;    16.0514 microV at 431.5333s
+ 
+SW28:    -49.4493 microV at 456.515s;    57.1527 microV at 457.0655s
+ 
+SW29:    -60.4832 microV at 458.6415s;    19.9011 microV at 458.8615s
+ 
+SW30:    -49.3412 microV at 459.8793s;    4.428 microV at 460.243s
+ 
+SW31:    -30.4123 microV at 469.8166s;    13.9436 microV at 469.9217s
+ 
+SW32:    -32.1127 microV at 474.7235s;    15.4626 microV at 474.8897s
+ 
+SW33:    -76.183 microV at 480.6533s;    25.9607 microV at 480.9323s
+ 
+SW34:    -31.0809 microV at 492.5247s;    16.2218 microV at 493.313s
+ 
+SW35:    -39.1115 microV at 494.5881s;    14.6165 microV at 494.7384s
+ 
+SW36:    -52.0561 microV at 503.4715s;    14.5856 microV at 503.6568s
+ 
+SW37:    -75.1878 microV at 505.5304s;    12.4486 microV at 505.8745s
+ 
+SW38:    -29.3785 microV at 560.8479s;    12.9708 microV at 561.1037s
+ 
+SW39:    -45.7791 microV at 565.4435s;    46.9066 microV at 565.683s
+ 
+SW40:    -24.0961 microV at 566.3668s;    28.8301 microV at 566.8302s
+ 
+SW41:    -29.2209 microV at 612.448s;    17.0919 microV at 612.5187s
+ 
+SW42:    -42.0818 microV at 664.692s;    8.6357 microV at 664.9914s
+ 
+SW43:    -34.9515 microV at 712.7622s;    12.3623 microV at 713.0819s
+ 
+SW44:    -69.9016 microV at 775.0053s;    11.0327 microV at 775.1311s
+ 
+SW45:    -33.0951 microV at 803.4983s;    12.7162 microV at 803.7418s
+ 
+SW46:    -32.9154 microV at 829.5523s;    9.44 microV at 829.8529s
+ 
+SW47:    -76.226 microV at 846.292s;    27.9312 microV at 846.4717s
+ 
+SW48:    -41.4072 microV at 898.9045s;    55.7156 microV at 899.0669s
+ 
+SW49:    -48.0807 microV at 912.6422s;    19.2375 microV at 912.8049s
+ 
+SW50:    -26.1866 microV at 914.7443s;    21.753 microV at 914.9552s
+ 
+SW51:    -63.5111 microV at 923.8579s;    21.8658 microV at 924.5186s
+ 
+SW52:    -40.0539 microV at 947.5866s;    20.9475 microV at 947.8537s
+ 
+SW53:    -39.2904 microV at 948.3909s;    19.925 microV at 948.9326s
+ 
+SW54:    -75.0197 microV at 949.2542s;    9.15 microV at 949.9611s
+ 
+SW55:    -45.2025 microV at 949.6757s;    35.3272 microV at 950.3706s
+ 
+SW56:    -41.63 microV at 959.5348s;    11.0333 microV at 959.8282s
+ 
+SW57:    -87.2664 microV at 975.9881s;    34.3984 microV at 976.3682s
+ 
+SW58:    -55.6545 microV at 1083.2093s;    18.005 microV at 1083.5287s
+ 
+SW59:    -30.3021 microV at 1174.4315s;    16.3286 microV at 1174.7439s
+ 
+SW60:    -49.9179 microV at 1190.2266s;    30.3697 microV at 1190.3862s
+ 
+SW61:    -25.0259 microV at 1199.0748s;    30.6113 microV at 1199.5668s
+ 
+SW62:    -55.9206 microV at 1243.4237s;    22.1633 microV at 1243.6808s
+ 
+SW63:    -27.9152 microV at 1244.2626s;    26.0728 microV at 1245.2419s
+ 
+SW64:    -75.4972 microV at 1256.596s;    101.0015 microV at 1257.0046s
+ 
+SW65:    -34.03 microV at 1266.0402s;    26.5946 microV at 1266.5773s
+ 
+SW66:    -39.9687 microV at 1284.3344s;    9.3748 microV at 1284.5826s
+ 
+SW67:    -39.4731 microV at 1295.3934s;    22.8209 microV at 1295.4869s
+ 
+SW68:    -33.6033 microV at 1301.5968s;    29.61 microV at 1301.6673s
+ 
+SW69:    -45.9985 microV at 1304.1007s;    15.1989 microV at 1304.6791s
+ 
+SW70:    -70.0182 microV at 1307.5556s;    58.8034 microV at 1308.7511s
+ 
+SW71:    -33.9707 microV at 1311.1684s;    12.785 microV at 1312.1915s
+ 
+SW72:    -91.3054 microV at 1312.0251s;    39.1061 microV at 1312.5827s
+ 
+SW73:    -21.3852 microV at 1315.1229s;    45.9192 microV at 1315.5013s
+ 
+SW74:    -49.8872 microV at 1318.6705s;    13.8533 microV at 1319.351s
+ 
+SW75:    -36.8862 microV at 1329.9571s;    30.5859 microV at 1330.6666s
+ 
+SW76:    -31.1113 microV at 1330.7733s;    18.217 microV at 1331.044s
+ 
+SW77:    -129.0422 microV at 1331.5846s;    17.3039 microV at 1331.763s
+ 
+SW78:    -37.2735 microV at 1340.1573s;    15.1909 microV at 1340.7344s
+ 
+SW79:    -36.5085 microV at 1372.4438s;    77.1168 microV at 1372.8263s
+ 
+SW80:    -47.4623 microV at 1373.2366s;    25.0335 microV at 1373.6706s
+ 
+SW81:    -59.596 microV at 1380.222s;    30.8088 microV at 1380.991s
+ 
+SW82:    -76.1251 microV at 1381.2091s;    18.2503 microV at 1381.3387s
+ 
+SW83:    -24.8223 microV at 1410.382s;    19.3748 microV at 1410.523s
+ 
+SW84:    -36.7962 microV at 1433.9732s;    10.1075 microV at 1434.0345s
+ 
+SW85:    -49.7457 microV at 1434.3286s;    23.6243 microV at 1434.6088s
+ 
+SW86:    -60.7608 microV at 1459.7812s;    18.8287 microV at 1460.2371s
+ 
+SW87:    -112.1039 microV at 1500.6816s;    13.6703 microV at 1501.4061s
+ 
+SW88:    -67.9453 microV at 1503.1488s;    15.2643 microV at 1503.2855s
+ 
+SW89:    -45.1788 microV at 1574.8161s;    19.8631 microV at 1575.0744s
+ 
+SW90:    -30.7214 microV at 1575.5575s;    25.8454 microV at 1576.6647s
+ 
+SW91:    -43.7793 microV at 1576.9253s;    14.6523 microV at 1577.0458s
+ 
+SW92:    -62.1859 microV at 1578.054s;    8.0555 microV at 1578.3764s
+ 
+SW93:    -38.0634 microV at 1601.0868s;    25.6873 microV at 1601.4224s
+ 
+SW94:    -66.0585 microV at 1607.7505s;    10.2767 microV at 1607.8717s
+ 
+SW95:    -55.0205 microV at 1623.2574s;    20.6959 microV at 1623.8192s
+ 
+SW96:    -30.3206 microV at 1624.0992s;    15.5868 microV at 1624.3657s
+ 
+SW97:    -61.1011 microV at 1633.3745s;    15.2558 microV at 1634.0747s
+ 
+SW98:    -51.8735 microV at 1640.6342s;    17.9383 microV at 1640.9941s
+ 
+SW99:    -98.9147 microV at 1746.267s;    35.7713 microV at 1746.5372s
+ 
+SW100:    -22.1676 microV at 1746.6394s;    28.8145 microV at 1746.9434s
+ 
+SW101:    -31.7419 microV at 1747.1293s;    23.7931 microV at 1747.2947s
+ 
+SW102:    -20.6263 microV at 1751.7731s;    19.3762 microV at 1752.0268s
+ 
+SW103:    -25.5263 microV at 1770.3259s;    21.5619 microV at 1770.7729s
+ 
+SW104:    -44.2991 microV at 1771.1384s;    16.9224 microV at 1771.3005s
+ 
+SW105:    -30.5738 microV at 1773.3365s;    13.463 microV at 1773.4753s
+ 
+SW106:    -55.3961 microV at 1774.2936s;    19.6473 microV at 1774.4742s
+ 
+SW107:    -110.8646 microV at 1777.7806s;    11.9573 microV at 1778.2389s
+ 
+SW108:    -60.4792 microV at 1799.4823s;    15.5566 microV at 1799.5689s
+ 
+SW109:    -23.1237 microV at 1808.1851s;    19.0273 microV at 1808.7504s
+ 
+SW110:    -31.1634 microV at 1825.142s;    11.8917 microV at 1825.3044s
+ 
+SW111:    -30.0467 microV at 1829.0717s;    16.8764 microV at 1829.1601s
+ 
+SW112:    -40.8385 microV at 1829.8295s;    21.6972 microV at 1829.9129s
+ 
+SW113:    -25.5275 microV at 1838.6621s;    16.7076 microV at 1838.7545s
+ 
+SW114:    -60.6984 microV at 1839.0106s;    77.4925 microV at 1839.3415s
+ 
+SW115:    -81.7351 microV at 1839.6035s;    28.6177 microV at 1840.0494s
+ 
+SW116:    -30.2475 microV at 1852.2057s;    31.4937 microV at 1852.6339s
+ 
+SW117:    -107.8932 microV at 1852.8494s;    20.3683 microV at 1853.0309s
+ 
+SW118:    -30.4242 microV at 1866.3492s;    23.2885 microV at 1866.6611s
+ 
+SW119:    -32.9927 microV at 1867.2906s;    25.4797 microV at 1867.6949s
+ 
+SW120:    -122.0107 microV at 1893.8914s;    22.7302 microV at 1894.1505s
+ 
+SW121:    -68.8161 microV at 1900.665s;    23.1636 microV at 1901.2832s
+ 
+SW122:    -62.4926 microV at 1924.018s;    20.6247 microV at 1924.3007s
+ 
+SW123:    -53.3666 microV at 1936.0043s;    19.6121 microV at 1936.2591s
+ 
+SW124:    -60.5076 microV at 1954.294s;    10.5872 microV at 1954.5558s
+ 
+SW125:    -46.3345 microV at 1984.8333s;    12.2786 microV at 1985.0148s
+ 
+SW126:    -52.2561 microV at 2121.0105s;    21.9746 microV at 2121.4354s
+ 
+SW127:    -52.1291 microV at 2122.722s;    16.4558 microV at 2122.8794s
+ 
+SW128:    -55.7922 microV at 2142.2961s;    62.9374 microV at 2143.4223s
+ 
+SW129:    -21.6863 microV at 2155.1398s;    21.7768 microV at 2155.3665s
+ 
+SW130:    -49.0558 microV at 2168.3897s;    7.7225 microV at 2168.6743s
+ 
+SW131:    -48.0547 microV at 2208.5484s;    1.8953 microV at 2208.6717s
+ 
+SW132:    -48.8472 microV at 2208.9513s;    22.669 microV at 2209.7955s
+ 
+SW133:    -60.7054 microV at 2210.8739s;    21.8047 microV at 2211.044s
+ 
+SW134:    -108.1337 microV at 2222.7679s;    24.9108 microV at 2222.9818s
+ 
+SW135:    -87.7508 microV at 2246.033s;    9.9643 microV at 2246.2903s
+ 
+SW136:    -57.6787 microV at 2246.5876s;    31.5737 microV at 2247.3866s
+ 
+SW137:    -22.8703 microV at 2293.0517s;    20.0018 microV at 2293.1237s
+ 
+SW138:    -21.5354 microV at 2298.4191s;    23.4832 microV at 2298.5367s
+ 
+SW139:    -33.7328 microV at 2329.3372s;    7.2371 microV at 2329.696s
+ 
+SW140:    -43.7416 microV at 2330.4864s;    28.275 microV at 2330.7854s
+ 
+SW141:    -41.1812 microV at 2333.0932s;    11.6763 microV at 2333.3805s
+ 
+SW142:    -62.3108 microV at 2334.447s;    10.3345 microV at 2334.6586s
+ 
+SW143:    -21.2937 microV at 2339.0449s;    43.1177 microV at 2339.3402s
+ 
+SW144:    -61.5509 microV at 2339.561s;    14.3108 microV at 2339.9013s
+ 
+SW145:    -30.5035 microV at 2349.7818s;    18.7094 microV at 2350.2609s
+ 
+SW146:    -22.134 microV at 2429.7908s;    26.5697 microV at 2429.8799s
+ 
+SW147:    -43.4487 microV at 2463.1631s;    6.955 microV at 2463.3846s
+ 
+SW148:    -43.2899 microV at 2463.9586s;    27.5084 microV at 2464.3273s
+ 
+SW149:    -35.8469 microV at 2476.5273s;    11.4187 microV at 2476.7523s
+ 
+----> 149 slow waves detected
+ 
+ 
+*********************************************************************************************************
+              III. DETECTION OF SLOW WAVES OCCURRING JUST BEFORE AND AFTER OPERANT ACTIONS               
+*********************************************************************************************************
+ 
+OA1 occurs at 31.6399s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA2 occurs at 42.4197s
+     -> Possible BP:    negative peak at 39.6934s;    positive peak at 40.1483s
+     -> Possible P3:    negative peak at 44.2993s;    positive peak at 44.5567s
+ 
+OA3 occurs at 63.4892s
+     -> Possible BP:    negative peak at 60.993s;    positive peak at 61.4138s
+                        negative peak at 61.5665s;    positive peak at 61.7419s
+     -> No P3 detected
+ 
+OA4 occurs at 72.309s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA5 occurs at 76.9988s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA6 occurs at 87.5185s
+     -> Possible BP:    negative peak at 83.505s;    positive peak at 84.1464s
+                        negative peak at 85.3483s;    positive peak at 85.4789s
+                        negative peak at 87.1757s;    positive peak at 87.4276s
+     -> No P3 detected
+ 
+OA7 occurs at 101.3082s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA8 occurs at 111.1479s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA9 occurs at 133.927s
+     -> Possible BP:    negative peak at 129.5258s;    positive peak at 129.6909s
+     -> No P3 detected
+ 
+OA10 occurs at 156.6764s
+     -> No BP detected
+     -> Possible P3:    negative peak at 157.9282s;    positive peak at 158.0623s
+ 
+OA11 occurs at 203.5352s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA12 occurs at 260.623s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA13 occurs at 303.7014s
+     -> Possible BP:    negative peak at 303.436s;    positive peak at 303.7853s
+     -> Possible P3:    negative peak at 304.464s;    positive peak at 304.7766s
+ 
+OA14 occurs at 315.1411s
+     -> No BP detected
+     -> Possible P3:    negative peak at 318.4003s;    positive peak at 318.5902s
+ 
+OA15 occurs at 322.431s
+     -> Possible BP:    negative peak at 318.4003s;    positive peak at 318.5902s
+     -> Possible P3:    negative peak at 322.6345s;    positive peak at 322.863s
+ 
+OA16 occurs at 347.4603s
+     -> Possible BP:    negative peak at 347.2265s;    positive peak at 347.7653s
+     -> No P3 detected
+ 
+OA17 occurs at 430.8382s
+     -> No BP detected
+     -> Possible P3:    negative peak at 431.3693s;    positive peak at 431.5333s
+ 
+OA18 occurs at 453.6976s
+     -> No BP detected
+     -> Possible P3:    negative peak at 456.515s;    positive peak at 457.0655s
+                        negative peak at 458.6415s;    positive peak at 458.8615s
+ 
+OA19 occurs at 470.8472s
+     -> Possible BP:    negative peak at 469.8166s;    positive peak at 469.9217s
+     -> Possible P3:    negative peak at 474.7235s;    positive peak at 474.8897s
+ 
+OA20 occurs at 493.9065s
+     -> Possible BP:    negative peak at 492.5247s;    positive peak at 493.313s
+     -> Possible P3:    negative peak at 494.5881s;    positive peak at 494.7384s
+ 
+OA21 occurs at 507.1563s
+     -> Possible BP:    negative peak at 503.4715s;    positive peak at 503.6568s
+                        negative peak at 505.5304s;    positive peak at 505.8745s
+     -> No P3 detected
+ 
+OA22 occurs at 515.2652s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA23 occurs at 553.7346s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA24 occurs at 655.6416s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA25 occurs at 708.1403s
+     -> No BP detected
+     -> Possible P3:    negative peak at 712.7622s;    positive peak at 713.0819s
+ 
+OA26 occurs at 732.4897s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA27 occurs at 774.2986s
+     -> No BP detected
+     -> Possible P3:    negative peak at 775.0053s;    positive peak at 775.1311s
+ 
+OA28 occurs at 806.9478s
+     -> Possible BP:    negative peak at 803.4983s;    positive peak at 803.7418s
+     -> No P3 detected
+ 
+OA29 occurs at 844.4868s
+     -> No BP detected
+     -> Possible P3:    negative peak at 846.292s;    positive peak at 846.4717s
+ 
+OA30 occurs at 874.321s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA31 occurs at 886.6058s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA32 occurs at 924.4543s
+     -> Possible BP:    negative peak at 923.8579s;    positive peak at 924.5186s
+     -> No P3 detected
+ 
+OA33 occurs at 934.8941s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA34 occurs at 950.3137s
+     -> No P3 detected
+ 
+OA35 occurs at 1004.7522s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA36 occurs at 1075.4597s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA37 occurs at 1165.3273s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA38 occurs at 1200.4864s
+     -> Possible BP:    negative peak at 1199.0748s;    positive peak at 1199.5668s
+     -> No P3 detected
+ 
+OA39 occurs at 1248.7556s
+     -> Possible BP:    negative peak at 1244.2626s;    positive peak at 1245.2419s
+     -> No P3 detected
+ 
+OA40 occurs at 1251.2156s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA41 occurs at 1256.735s
+     -> Possible BP:    negative peak at 1256.596s;    positive peak at 1257.0046s
+     -> No P3 detected
+ 
+OA42 occurs at 1284.5642s
+     -> Possible BP:    negative peak at 1284.3344s;    positive peak at 1284.5826s
+     -> No P3 detected
+ 
+OA43 occurs at 1315.1835s
+     -> Possible BP:    negative peak at 1311.1684s;    positive peak at 1312.1915s
+                        negative peak at 1312.0251s;    positive peak at 1312.5827s
+                        negative peak at 1315.1229s;    positive peak at 1315.5013s
+     -> Possible P3:    negative peak at 1318.6705s;    positive peak at 1319.351s
+ 
+OA44 occurs at 1333.893s
+     -> Possible BP:    negative peak at 1329.9571s;    positive peak at 1330.6666s
+                        negative peak at 1330.7733s;    positive peak at 1331.044s
+                        negative peak at 1331.5846s;    positive peak at 1331.763s
+     -> No P3 detected
+ 
+OA45 occurs at 1349.5926s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA46 occurs at 1372.102s
+     -> No BP detected
+     -> Possible P3:    negative peak at 1372.4438s;    positive peak at 1372.8263s
+                        negative peak at 1373.2366s;    positive peak at 1373.6706s
+ 
+OA47 occurs at 1380.4518s
+     -> Possible BP:    negative peak at 1380.222s;    positive peak at 1380.991s
+     -> Possible P3:    negative peak at 1381.2091s;    positive peak at 1381.3387s
+ 
+OA48 occurs at 1443.7202s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA49 occurs at 1463.1697s
+     -> Possible BP:    negative peak at 1459.7812s;    positive peak at 1460.2371s
+     -> No P3 detected
+ 
+OA50 occurs at 1502.4987s
+     -> Possible BP:    negative peak at 1500.6816s;    positive peak at 1501.4061s
+     -> Possible P3:    negative peak at 1503.1488s;    positive peak at 1503.2855s
+ 
+OA51 occurs at 1548.9075s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA52 occurs at 1576.1268s
+     -> Possible BP:    negative peak at 1574.8161s;    positive peak at 1575.0744s
+                        negative peak at 1575.5575s;    positive peak at 1576.6647s
+     -> Possible P3:    negative peak at 1576.9253s;    positive peak at 1577.0458s
+                        negative peak at 1578.054s;    positive peak at 1578.3764s
+ 
+OA53 occurs at 1606.8859s
+     -> No BP detected
+     -> Possible P3:    negative peak at 1607.7505s;    positive peak at 1607.8717s
+ 
+OA54 occurs at 1733.8927s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA55 occurs at 1770.4118s
+     -> Possible BP:    negative peak at 1770.3259s;    positive peak at 1770.7729s
+     -> Possible P3:    negative peak at 1771.1384s;    positive peak at 1771.3005s
+                        negative peak at 1773.3365s;    positive peak at 1773.4753s
+                        negative peak at 1774.2936s;    positive peak at 1774.4742s
+ 
+OA56 occurs at 1798.8047s
+     -> No BP detected
+     -> Possible P3:    negative peak at 1799.4823s;    positive peak at 1799.5689s
+ 
+OA57 occurs at 1829.3839s
+     -> Possible BP:    negative peak at 1825.142s;    positive peak at 1825.3044s
+                        negative peak at 1829.0717s;    positive peak at 1829.1601s
+     -> Possible P3:    negative peak at 1829.8295s;    positive peak at 1829.9129s
+ 
+OA58 occurs at 1852.3133s
+     -> Possible BP:    negative peak at 1852.2057s;    positive peak at 1852.6339s
+     -> Possible P3:    negative peak at 1852.8494s;    positive peak at 1853.0309s
+ 
+OA59 occurs at 1872.8422s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA60 occurs at 1901.2621s
+     -> Possible BP:    negative peak at 1900.665s;    positive peak at 1901.2832s
+     -> No P3 detected
+ 
+OA61 occurs at 1933.4412s
+     -> No BP detected
+     -> Possible P3:    negative peak at 1936.0043s;    positive peak at 1936.2591s
+ 
+OA62 occurs at 1951.9414s
+     -> No BP detected
+     -> Possible P3:    negative peak at 1954.294s;    positive peak at 1954.5558s
+ 
+OA63 occurs at 1954.6507s
+     -> Possible BP:    negative peak at 1954.294s;    positive peak at 1954.5558s
+     -> No P3 detected
+ 
+OA64 occurs at 1971.6502s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA65 occurs at 2122.0764s
+     -> Possible BP:    negative peak at 2121.0105s;    positive peak at 2121.4354s
+     -> Possible P3:    negative peak at 2122.722s;    positive peak at 2122.8794s
+ 
+OA66 occurs at 2143.3658s
+     -> Possible BP:    negative peak at 2142.2961s;    positive peak at 2143.4223s
+     -> No P3 detected
+ 
+OA67 occurs at 2168.6252s
+     -> Possible BP:    negative peak at 2168.3897s;    positive peak at 2168.6743s
+     -> No P3 detected
+ 
+OA68 occurs at 2209.9341s
+     -> Possible BP:    negative peak at 2208.5484s;    positive peak at 2208.6717s
+                        negative peak at 2208.9513s;    positive peak at 2209.7955s
+     -> Possible P3:    negative peak at 2210.8739s;    positive peak at 2211.044s
+ 
+OA69 occurs at 2333.4504s
+     -> Possible BP:    negative peak at 2329.3372s;    positive peak at 2329.696s
+                        negative peak at 2330.4864s;    positive peak at 2330.7854s
+                        negative peak at 2333.0932s;    positive peak at 2333.3805s
+     -> Possible P3:    negative peak at 2334.447s;    positive peak at 2334.6586s
+ 
+OA70 occurs at 2464.1371s
+     -> Possible BP:    negative peak at 2463.1631s;    positive peak at 2463.3846s
+                        negative peak at 2463.9586s;    positive peak at 2464.3273s
+     -> No P3 detected
+ 
+OA71 occurs at 2473.0269s
+     -> No BP detected
+     -> Possible P3:    negative peak at 2476.5273s;    positive peak at 2476.7523s
+ 
+For a total of 71 operant actions,
+ - 34 operant actions show at least one BP.
+ - 28 operant actions show at least one P3.
+>> 
