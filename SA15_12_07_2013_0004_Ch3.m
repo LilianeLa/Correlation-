@@ -1,4 +1,4 @@
->> principal(SA15_12_07_2013_0004_Ch3.values, ttl.times);
+>> SW = principal(SA15_12_07_2013_0004_Ch3.values, ttl.times);
  
 *********************************************************************************************************
                                        I. DETECTION OF ARTIFACTS                                         
@@ -953,7 +953,163 @@ OA71 occurs at 2475.7741s
      -> No BP detected
      -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
  
+ 
+Random window 1: [1718s, 1728s]
+     -> No SW detected
+Random window 2: [179s, 189s]
+     -> Random SW:      -25.4412 microV at 180.707s;    23.5292 microV at 180.8527s
+Random window 3: [1699s, 1709s]
+     -> No SW detected
+Random window 4: [1055s, 1065s]
+     -> No SW detected
+Random window 5: [232s, 242s]
+     -> No SW detected
+Random window 6: [1425s, 1435s]
+     -> No SW detected
+Random window 7: [620s, 630s]
+     -> No SW detected
+Random window 8: [411s, 421s]
+     -> No SW detected
+Random window 9: [675s, 685s]
+     -> No SW detected
+Random window 10: [573s, 583s]
+     -> No SW detected
+Random window 11: [641s, 651s]
+     -> No SW detected
+Random window 12: [221s, 231s]
+     -> Random SW:      -30.96 microV at 230.6899s;    15.2348 microV at 231.0057s
+Random window 13: [1983s, 1993s]
+     -> Random SW:      -46.3345 microV at 1987.5805s;    12.2786 microV at 1987.7621s
+Random window 14: [981s, 991s]
+     -> No SW detected
+Random window 15: [1646s, 1656s]
+     -> No SW detected
+Random window 16: [2058s, 2068s]
+     -> No SW detected
+Random window 17: [1526s, 1536s]
+     -> No SW detected
+Random window 18: [1636s, 1646s]
+     -> Random SW:      -61.1011 microV at 1636.1218s;    15.2558 microV at 1636.822s
+                        -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
+Random window 19: [1297s, 1307s]
+     -> Random SW:      -39.4731 microV at 1298.1407s;    22.8209 microV at 1298.2342s
+                        -33.6033 microV at 1304.3441s;    29.61 microV at 1304.4145s
+                        -45.9985 microV at 1306.8479s;    15.1989 microV at 1307.4264s
+Random window 20: [480s, 490s]
+     -> Random SW:      -76.183 microV at 483.4006s;    25.9607 microV at 483.6795s
+Random window 21: [1489s, 1499s]
+     -> No SW detected
+Random window 22: [2344s, 2354s]
+     -> Random SW:      -30.5035 microV at 2352.5291s;    18.7094 microV at 2353.0082s
+Random window 23: [2367s, 2377s]
+     -> No SW detected
+Random window 24: [897s, 907s]
+     -> Random SW:      -41.4072 microV at 901.6517s;    55.7156 microV at 901.8142s
+Random window 25: [690s, 700s]
+     -> No SW detected
+Random window 26: [1686s, 1696s]
+     -> No SW detected
+Random window 27: [2004s, 2014s]
+     -> No SW detected
+Random window 28: [1182s, 1192s]
+     -> No SW detected
+Random window 29: [667s, 677s]
+     -> Random SW:      -42.0818 microV at 667.4393s;    8.6357 microV at 667.7387s
+Random window 30: [2445s, 2455s]
+     -> No SW detected
+Random window 31: [357s, 367s]
+     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
+Random window 32: [385s, 395s]
+     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
+Random window 33: [567s, 577s]
+     -> Random SW:      -45.7791 microV at 568.1908s;    46.9066 microV at 568.4302s
+                        -24.0961 microV at 569.1141s;    28.8301 microV at 569.5775s
+Random window 34: [605s, 615s]
+     -> No SW detected
+Random window 35: [1989s, 1999s]
+     -> No SW detected
+Random window 36: [1745s, 1755s]
+     -> Random SW:      -98.9147 microV at 1749.0142s;    35.7713 microV at 1749.2845s
+                        -22.1676 microV at 1749.3867s;    28.8145 microV at 1749.6906s
+                        -31.7419 microV at 1749.8766s;    23.7931 microV at 1750.0419s
+                        -20.6263 microV at 1754.5204s;    19.3762 microV at 1754.774s
+Random window 37: [242s, 252s]
+     -> No SW detected
+Random window 38: [2423s, 2433s]
+     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
+Random window 39: [2108s, 2118s]
+     -> No SW detected
+Random window 40: [2183s, 2193s]
+     -> No SW detected
+Random window 41: [281s, 291s]
+     -> No SW detected
+Random window 42: [2315s, 2325s]
+     -> No SW detected
+Random window 43: [2429s, 2439s]
+     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
+Random window 44: [2513s, 2523s]
+     -> No SW detected
+Random window 45: [2290s, 2300s]
+     -> Random SW:      -22.8703 microV at 2295.7989s;    20.0018 microV at 2295.8709s
+Random window 46: [2221s, 2231s]
+     -> Random SW:      -108.1337 microV at 2225.5151s;    24.9108 microV at 2225.729s
+Random window 47: [1480s, 1490s]
+     -> No SW detected
+Random window 48: [635s, 645s]
+     -> No SW detected
+Random window 49: [1133s, 1143s]
+     -> No SW detected
+Random window 50: [539s, 549s]
+     -> No SW detected
+Random window 51: [120s, 130s]
+     -> No SW detected
+Random window 52: [2409s, 2419s]
+     -> No SW detected
+Random window 53: [1023s, 1033s]
+     -> No SW detected
+Random window 54: [1016s, 1026s]
+     -> No SW detected
+Random window 55: [1090s, 1100s]
+     -> No SW detected
+Random window 56: [1409s, 1419s]
+     -> Random SW:      -24.8223 microV at 1413.1293s;    19.3748 microV at 1413.2703s
+Random window 57: [1996s, 2006s]
+     -> No SW detected
+Random window 58: [13s, 23s]
+     -> No SW detected
+Random window 59: [2272s, 2282s]
+     -> No SW detected
+Random window 60: [1664s, 1674s]
+     -> No SW detected
+Random window 61: [2284s, 2294s]
+     -> No SW detected
+Random window 62: [1100s, 1110s]
+     -> No SW detected
+Random window 63: [1268s, 1278s]
+     -> Random SW:      -34.03 microV at 1268.7874s;    26.5946 microV at 1269.3245s
+Random window 64: [275s, 285s]
+     -> No SW detected
+Random window 65: [718s, 728s]
+     -> No SW detected
+Random window 66: [2023s, 2033s]
+     -> No SW detected
+Random window 67: [1042s, 1052s]
+     -> No SW detected
+Random window 68: [2381s, 2391s]
+     -> No SW detected
+Random window 69: [526s, 536s]
+     -> No SW detected
+Random window 70: [2519s, 2529s]
+     -> No SW detected
+Random window 71: [1626s, 1636s]
+     -> Random SW:      -55.0205 microV at 1626.0047s;    20.6959 microV at 1626.5665s
+                        -30.3206 microV at 1626.8465s;    15.5868 microV at 1627.113s
+ 
+*********************************************************************************************************
 For a total of 71 operant actions,
  - 34 operant actions show at least one BP.
  - 28 operant actions show at least one P3.
+ - 20 of the 71 random windows show at least one SW (which is neither BP or P3).
+*********************************************************************************************************
+ 
 >> 
