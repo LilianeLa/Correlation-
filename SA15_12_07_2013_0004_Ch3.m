@@ -1112,4 +1112,4 @@ For a total of 71 operant actions,
  - 20 of the 71 random windows show at least one SW (which is neither BP or P3).
 *********************************************************************************************************
  
->> 
+>>  
