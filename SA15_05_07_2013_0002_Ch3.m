@@ -568,4 +568,4 @@ OA8 occurs at 5195.0701s
 For a total of 8 operant actions,
  - No operant action shows at least one BP.
  - No operant action shows at least one P3.
->> 
+>>  
