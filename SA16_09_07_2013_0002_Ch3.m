@@ -22,7 +22,7 @@ A4 begins at 45.6454s;    47.3328s: end of fast comp.;            (there's no sl
                                                            Perhaps SW after. Sth above diapason (47.3328s to 47.9828s)
  
 A5 begins at 111.3187s;    111.6136s: end of fast comp.;    112.0096s: end of first slow comp.
-                                                           112.4711s: end of total slow comp.
+                                                           112.4711s: end of total slow comp. 
                                                            Sth above diapason (112.0096s to 112.6596s)
  
 A6 begins at 115.195s;    115.195s: end of fast comp.;    115.9961s: end of first slow comp.
