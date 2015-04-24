@@ -21,7 +21,7 @@ Random window 2: [127s, 137s]
      -> Random SW:      -30.3955 microV at 128.2198s;    23.953 microV at 128.4214s
                         -25.2857 microV at 129.3655s;    31.8818 microV at 129.5808s
                         -29.3761 microV at 129.8121s;    28.6547 microV at 130.3546s
-                        -45.6527 microV at 134.896s;    20.6607 microV at 135.331s
+                        -45.6527 microV at 134.896s;    20.6607 microV at 135.331s  
  
 Random window 3: [170s, 180s]
      -> Random SW:      -65.4076 microV at 177.0544s;    7.0273 microV at 177.3047s
