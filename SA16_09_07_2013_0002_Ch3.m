@@ -1,5 +1,5 @@
 >> clear all
->> principal(SA16_09_07_2013_0002_Ch3.values, ttl.times);
+>> SW = principal(SA16_09_07_2013_0002_Ch3.values, ttl.times);
  
 *********************************************************************************************************
                                        I. DETECTION OF ARTIFACTS                                         
@@ -22,7 +22,7 @@ A4 begins at 45.6454s;    47.3328s: end of fast comp.;            (there's no sl
                                                            Perhaps SW after. Sth above diapason (47.3328s to 47.9828s)
  
 A5 begins at 111.3187s;    111.6136s: end of fast comp.;    112.0096s: end of first slow comp.
-                                                           112.4711s: end of total slow comp. 
+                                                           112.4711s: end of total slow comp.
                                                            Sth above diapason (112.0096s to 112.6596s)
  
 A6 begins at 115.195s;    115.195s: end of fast comp.;    115.9961s: end of first slow comp.
@@ -602,42 +602,17 @@ OA2 occurs at 256.9751s
      -> No BP detected
      -> Possible P3:    -27.8605 microV at 257.7471s;    37.3374 microV at 258.0581s
  
-OA3 occurs at 402.5761s
-     -> No BP detected
-     -> No P3 detected
  
-OA4 occurs at 1021.9489s
-     -> No BP detected
-     -> No P3 detected
- 
-OA5 occurs at 2418.6938s
-     -> Possible BP:    -22.3193 microV at 2416.1673s;    23.3101 microV at 2417.0457s
-     -> No P3 detected
- 
-OA6 occurs at 3403.903s
-     -> No BP detected
-     -> No P3 detected
- 
- 
-Random window 1: [695s, 705s]
-     -> Random SW:      -57.4586 microV at 704.386s;    5.2171 microV at 704.6588s
-Random window 2: [524s, 534s]
-     -> Random SW:      -32.5699 microV at 528.0692s;    16.7468 microV at 528.5417s
-                        -110.8647 microV at 531.0624s;    2.7096 microV at 531.6301s
-Random window 3: [2038s, 2048s]
-     -> Random SW:      -22.137 microV at 2047.5785s;    20.8188 microV at 2048.0467s
-Random window 4: [3872s, 3882s]
+Random window 1: [3207s, 3217s]
      -> No SW detected
-Random window 5: [1418s, 1428s]
+Random window 2: [1277s, 1287s]
      -> No SW detected
-Random window 6: [2378s, 2388s]
-     -> Random SW:      -23.5326 microV at 2379.8237s;    18.8709 microV at 2380.5284s
  
 *********************************************************************************************************
-For a total of 6 operant actions,
- - 1 operant action shows at least one BP.
+For a total of 2 operant actions,
+ - No operant action shows at least one BP.
  - 1 operant action shows at least one P3.
- - 4 of the 6 random windows show at least one SW (which is neither BP or P3).
+ - 0 of the 2 random windows shows at least one SW.
 *********************************************************************************************************
  
 >> 
