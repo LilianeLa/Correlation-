@@ -203,6 +203,8 @@ SW37:    -30.3209 microV at 975.8175s;    13.8998 microV at 976.1405s
               III. DETECTION OF SLOW WAVES OCCURRING JUST BEFORE AND AFTER OPERANT ACTIONS               
 *********************************************************************************************************
  
+>> find_BP_P300_randSW_modifOA(SA16_09_07_2013_0002_0to1_db2bd4c5790bf8797103__Ch11.times, SW_SA16_09_07_2013_0002_0to1_db2bd4c5790bf8797103__Ch3,SA16_09_07_2013_0002_0to1_db2bd4c5790bf8797103__Ch3.values)
+ 
 OA1 occurs at 196.3567s
      -> No BP detected
      -> No P3 detected
@@ -211,23 +213,16 @@ OA2 occurs at 256.9751s
      -> No BP detected
      -> Possible P3:    -27.8605 microV at 257.7471s;    37.3374 microV at 258.0581s
  
-OA3 occurs at 402.5761s
-     -> No BP detected
-     -> No P3 detected
  
- 
-Random window 1: [915s, 925s]
+Random window 1: [151s, 161s]
      -> No SW detected
-Random window 2: [645s, 655s]
-     -> No SW detected
-Random window 3: [84s, 94s]
-     -> Random SW:      -35.4163 microV at 91.3962s;    22.3132 microV at 91.9577s
+Random window 2: [108s, 118s]
+     -> Random SW:      -25.275 microV at 110.3314s;    16.1692 microV at 110.5602s
  
 *********************************************************************************************************
-For a total of 3 operant actions,
+For a total of 2 operant actions,
  - No operant action shows at least one BP.
  - 1 operant action shows at least one P3.
- - 1 of the 3 random windows shows at least one SW (which is neither BP or P3).
+ - 1 of the 2 random windows shows at least one SW (which is neither BP or P3).
 *********************************************************************************************************
  
->> 
