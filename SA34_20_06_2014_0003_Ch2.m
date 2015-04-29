@@ -760,49 +760,30 @@ SW30:    -27.15 microV at 4566.9847s;    26.8447 microV at 4567.4602s
               III. DETECTION OF SLOW WAVES OCCURRING JUST BEFORE AND AFTER OPERANT ACTIONS               
 *********************************************************************************************************
  
-OA1 occurs at 26.0841s
+>> clear all
+>> find_BP_P300_randSW_new(SA34_20_06_2014_0003_Ch11.times, SW_SA34_20_06_2014_0003_Ch2, SA34_20_06_2014_0003_Ch2.values)
+ 
+OA1: [26.0841s, 32.0842s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA2 occurs at 342.7961s
+OA2: [2073.5323s, 2079.5323s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA3 occurs at 2073.5323s
-     -> No BP detected
-     -> No P3 detected
+*********************************************************************************************************
  
-OA4 occurs at 2279.535s
-     -> No BP detected
-     -> No P3 detected
- 
-OA5 occurs at 3615.2404s
-     -> No BP detected
-     -> No P3 detected
- 
-OA6 occurs at 3616.2004s
-     -> No BP detected
-     -> No P3 detected
- 
- 
-Random window 1: [1303s, 1313s]
-     -> Random SW:      -28.868 microV at 1305.0597s;    12.0942 microV at 1305.8725s
-Random window 2: [2570s, 2580s]
-     -> Random SW:      -20.7834 microV at 2571.2472s;    397.8253 microV at 2571.6966s
-Random window 3: [4452s, 4462s]
-     -> No SW detected
-Random window 4: [4486s, 4496s]
-     -> No SW detected
-Random window 5: [747s, 757s]
-     -> No SW detected
-Random window 6: [4512s, 4522s]
+Random window 1: [1251s, 1261s]
+     -> Random SW:      -26.2275 microV at 1252.1846s;    29.9224 microV at 1252.7148s
+                        -29.6186 microV at 1260.6829s;    14.4375 microV at 1261.6071s
+Random window 2: [489s, 499s]
      -> No SW detected
  
 *********************************************************************************************************
-For a total of 6 operant actions,
+For a total of 2 operant actions,
  - No operant action shows at least one BP.
  - No operant action shows at least one P3.
- - 2 of the 6 random windows show at least one SW (which is neither BP or P3).
+ - 1 of the 2 random windows shows at least one SW (which is neither BP or P3).
 *********************************************************************************************************
  
 >> 
