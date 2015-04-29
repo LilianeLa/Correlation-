@@ -1,4192 +1,4705 @@
->> find_BP_P300_randSW(ttl.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
+
+>> find_BP_P300_randSW_new(SA15_12_07_2013_0004_Ch11.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
  
-OA1 occurs at 34.3872s
+OA1: [34.3872s, 37.3873s];  duration: 3.0001s
      -> No BP detected
      -> No P3 detected
  
-OA2 occurs at 45.167s
+OA2: [45.167s, 51.167s];  duration: 6.0001s
      -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
      -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
  
-OA3 occurs at 66.2364s
+OA3: [66.2364s, 72.2364s];  duration: 6s
      -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
                         -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
      -> No P3 detected
  
-OA4 occurs at 75.0562s
+OA4: [75.0562s, 78.0563s];  duration: 3.0001s
      -> No BP detected
      -> No P3 detected
  
-OA5 occurs at 79.7461s
+OA5: [79.7461s, 85.7461s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA6 occurs at 90.2657s
+OA6: [90.2657s, 96.2658s];  duration: 6s
      -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
                         -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
                         -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
      -> No P3 detected
  
-OA7 occurs at 104.0554s
+OA7: [104.0554s, 110.0554s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA8 occurs at 113.8952s
+OA8: [113.8952s, 119.8952s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA9 occurs at 136.6743s
+OA9: [136.6743s, 142.6743s];  duration: 6s
      -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
      -> No P3 detected
  
-OA10 occurs at 159.4237s
+OA10: [159.4237s, 165.4237s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
  
-OA11 occurs at 206.2825s
+OA11: [206.2825s, 212.2825s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA12 occurs at 263.3702s
+OA12: [263.3702s, 269.3698s];  duration: 5.9997s
      -> No BP detected
      -> No P3 detected
  
-OA13 occurs at 306.4487s
+OA13: [306.4487s, 312.4487s];  duration: 6s
      -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
      -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
  
-OA14 occurs at 317.8884s
+OA14: [317.8884s, 320.8885s];  duration: 3.0001s
      -> No BP detected
      -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
  
-OA15 occurs at 325.1782s
+OA15: [325.1782s, 328.1783s];  duration: 3.0001s
      -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
      -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
  
-OA16 occurs at 350.2075s
+OA16: [350.2075s, 356.2075s];  duration: 6s
      -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
      -> No P3 detected
  
-OA17 occurs at 433.5854s
+OA17: [433.5854s, 439.5855s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
  
-OA18 occurs at 456.4449s
+OA18: [456.4449s, 462.4449s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
                         -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
  
-OA19 occurs at 473.5944s
+OA19: [473.5944s, 476.5945s];  duration: 3.0001s
      -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
      -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
  
-OA20 occurs at 496.6538s
+OA20: [496.6538s, 502.6539s];  duration: 6.0001s
      -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
      -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
  
-OA21 occurs at 509.9035s
+OA21: [509.9035s, 515.9036s];  duration: 6s
      -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
                         -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
      -> No P3 detected
  
-OA22 occurs at 518.0125s
+OA22: [556.4819s, 562.4819s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA23 occurs at 556.4819s
+OA23: [658.3889s, 664.3889s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA24 occurs at 658.3889s
-     -> No BP detected
-     -> No P3 detected
- 
-OA25 occurs at 710.8876s
+OA24: [710.8876s, 716.8875s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
  
-OA26 occurs at 735.237s
+OA25: [735.237s, 741.237s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA27 occurs at 777.0458s
+OA26: [777.0458s, 783.0459s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
  
-OA28 occurs at 809.695s
+OA27: [809.695s, 812.6951s];  duration: 3s
      -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
      -> No P3 detected
  
-OA29 occurs at 847.2341s
+OA28: [847.2341s, 853.2341s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
  
-OA30 occurs at 877.0683s
+OA29: [889.353s, 895.353s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA31 occurs at 889.353s
-     -> No BP detected
-     -> No P3 detected
- 
-OA32 occurs at 927.2016s
+OA30: [927.2016s, 933.2016s];  duration: 6.0001s
      -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
      -> No P3 detected
  
-OA33 occurs at 937.6413s
+OA31: [937.6413s, 943.6413s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA34 occurs at 953.0609s
+OA32: [953.0609s, 959.0609s];  duration: 6s
      -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
                         -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
                         -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
                         -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
      -> No P3 detected
  
-OA35 occurs at 1007.4995s
+OA33: [1007.4995s, 1013.4995s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA36 occurs at 1078.207s
+OA34: [1078.207s, 1084.207s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA37 occurs at 1168.0746s
+OA35: [1168.0746s, 1174.0746s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA38 occurs at 1203.2337s
+OA36: [1203.2337s, 1209.2337s];  duration: 6s
      -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
      -> No P3 detected
  
-OA39 occurs at 1251.5028s
-     -> Possible BP:    -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
-     -> No P3 detected
- 
-OA40 occurs at 1253.9628s
-     -> No BP detected
-     -> No P3 detected
- 
-OA41 occurs at 1259.4822s
+OA37: [1259.4822s, 1265.4822s];  duration: 6s
      -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
      -> No P3 detected
  
-OA42 occurs at 1287.3115s
+OA38: [1287.3115s, 1293.3116s];  duration: 6.0001s
      -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
      -> No P3 detected
  
-OA43 occurs at 1317.9308s
+OA39: [1317.9308s, 1323.9307s];  duration: 5.9999s
      -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
                         -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
                         -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
      -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
  
-OA44 occurs at 1336.6402s
+OA40: [1336.6402s, 1339.6403s];  duration: 3.0001s
      -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
                         -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
                         -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
      -> No P3 detected
  
-OA45 occurs at 1352.3398s
+OA41: [1352.3398s, 1358.3399s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA46 occurs at 1374.8492s
+OA42: [1374.8492s, 1377.8494s];  duration: 3.0002s
      -> No BP detected
      -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
                         -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
  
-OA47 occurs at 1383.1991s
+OA43: [1383.1991s, 1389.1991s];  duration: 6s
      -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
      -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
  
-OA48 occurs at 1446.4674s
+OA44: [1446.4674s, 1452.4675s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA49 occurs at 1465.9169s
+OA45: [1465.9169s, 1468.917s];  duration: 3.0001s
      -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
      -> No P3 detected
  
-OA50 occurs at 1505.2459s
+OA46: [1505.2459s, 1511.246s];  duration: 6.0001s
      -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
      -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
  
-OA51 occurs at 1551.6547s
+OA47: [1551.6547s, 1557.6548s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA52 occurs at 1578.874s
+OA48: [1578.874s, 1584.874s];  duration: 6s
      -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
                         -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
      -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
                         -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
  
-OA53 occurs at 1609.6332s
+OA49: [1609.6332s, 1615.6332s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
  
-OA54 occurs at 1736.64s
+OA50: [1736.64s, 1742.64s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA55 occurs at 1773.159s
+OA51: [1773.159s, 1779.1592s];  duration: 6.0001s
      -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
      -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
                         -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
                         -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
  
-OA56 occurs at 1801.5519s
+OA52: [1801.5519s, 1807.552s];  duration: 6.0001s
      -> No BP detected
      -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
  
-OA57 occurs at 1832.1311s
+OA53: [1832.1311s, 1838.1312s];  duration: 6s
      -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
                         -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
      -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
  
-OA58 occurs at 1855.0606s
+OA54: [1855.0606s, 1861.0606s];  duration: 6s
      -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
      -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
  
-OA59 occurs at 1875.5895s
-     -> No BP detected
-     -> No P3 detected
- 
-OA60 occurs at 1904.0093s
+OA55: [1904.0093s, 1910.0092s];  duration: 5.9999s
      -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
      -> No P3 detected
  
-OA61 occurs at 1936.1884s
+OA56: [1936.1884s, 1942.1886s];  duration: 6.0001s
      -> No BP detected
      -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
  
-OA62 occurs at 1954.6886s
-     -> No BP detected
-     -> Possible P3:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
- 
-OA63 occurs at 1957.3979s
+OA57: [1957.3979s, 1960.398s];  duration: 3.0001s
      -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
      -> No P3 detected
  
-OA64 occurs at 1974.3975s
+OA58: [1974.3975s, 1980.3975s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA65 occurs at 2124.8236s
+OA59: [2124.8236s, 2130.8237s];  duration: 6.0001s
      -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
      -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
  
-OA66 occurs at 2146.1131s
+OA60: [2146.1131s, 2152.1131s];  duration: 6s
      -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
      -> No P3 detected
  
-OA67 occurs at 2171.3724s
+OA61: [2171.3724s, 2177.3723s];  duration: 5.9999s
      -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
      -> No P3 detected
  
-OA68 occurs at 2212.6813s
+OA62: [2212.6813s, 2218.6814s];  duration: 6.0001s
      -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
                         -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
      -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
  
-OA69 occurs at 2336.1977s
+OA63: [2336.1977s, 2342.1977s];  duration: 6.0001s
      -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
                         -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
                         -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
      -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
  
-OA70 occurs at 2466.8844s
+OA64: [2466.8844s, 2472.8844s];  duration: 6s
      -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
                         -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
      -> No P3 detected
  
-OA71 occurs at 2475.7741s
+OA65: [2475.7741s, 2478.7743s];  duration: 3.0002s
      -> No BP detected
      -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
  
+*********************************************************************************************************
  
-Random window 1: [2025s, 2035s]
+Random window 1: [2394s, 2404s]
      -> No SW detected
-Random window 2: [2525s, 2535s]
+Random window 2: [2180s, 2190s]
      -> No SW detected
-Random window 3: [854s, 864s]
-     -> No SW detected
-Random window 4: [1137s, 1147s]
-     -> No SW detected
-Random window 5: [1300s, 1310s]
-     -> Random SW:      -33.6033 microV at 1304.3441s;    29.61 microV at 1304.4145s
-                        -45.9985 microV at 1306.8479s;    15.1989 microV at 1307.4264s
-Random window 6: [2098s, 2108s]
-     -> No SW detected
-Random window 7: [2252s, 2262s]
-     -> No SW detected
-Random window 8: [364s, 374s]
-     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
-Random window 9: [590s, 600s]
-     -> No SW detected
-Random window 10: [1049s, 1059s]
-     -> No SW detected
-Random window 11: [226s, 236s]
-     -> Random SW:      -30.96 microV at 230.6899s;    15.2348 microV at 231.0057s
-Random window 12: [1532s, 1542s]
-     -> No SW detected
-Random window 13: [1022s, 1032s]
-     -> No SW detected
-Random window 14: [600s, 610s]
-     -> No SW detected
-Random window 15: [667s, 677s]
-     -> Random SW:      -42.0818 microV at 667.4393s;    8.6357 microV at 667.7387s
-Random window 16: [2385s, 2395s]
-     -> No SW detected
-Random window 17: [1986s, 1996s]
-     -> Random SW:      -46.3345 microV at 1987.5805s;    12.2786 microV at 1987.7621s
-Random window 18: [1410s, 1420s]
-     -> Random SW:      -24.8223 microV at 1413.1293s;    19.3748 microV at 1413.2703s
-Random window 19: [2396s, 2406s]
-     -> No SW detected
-Random window 20: [377s, 387s]
-     -> Random SW:      -28.1848 microV at 377.3664s;    15.4464 microV at 377.6001s
-Random window 21: [2073s, 2083s]
-     -> No SW detected
-Random window 22: [2055s, 2065s]
-     -> No SW detected
-Random window 23: [1638s, 1648s]
+Random window 3: [1642s, 1652s]
      -> Random SW:      -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
-Random window 24: [611s, 621s]
+Random window 4: [1182s, 1192s]
+     -> No SW detected
+Random window 5: [749s, 759s]
+     -> No SW detected
+Random window 6: [2062s, 2072s]
+     -> No SW detected
+Random window 7: [665s, 675s]
+     -> Random SW:      -42.0818 microV at 667.4393s;    8.6357 microV at 667.7387s
+Random window 8: [240s, 250s]
+     -> No SW detected
+Random window 9: [2087s, 2097s]
+     -> No SW detected
+Random window 10: [1872s, 1882s]
+     -> No SW detected
+Random window 11: [2009s, 2019s]
+     -> No SW detected
+Random window 12: [1713s, 1723s]
+     -> No SW detected
+Random window 13: [1122s, 1132s]
+     -> No SW detected
+Random window 14: [1085s, 1095s]
+     -> Random SW:      -55.6545 microV at 1085.9565s;    18.005 microV at 1086.276s
+Random window 15: [2253s, 2263s]
+     -> No SW detected
+Random window 16: [904s, 914s]
+     -> No SW detected
+Random window 17: [2244s, 2254s]
+     -> Random SW:      -87.7508 microV at 2248.7802s;    9.9643 microV at 2249.0376s
+                        -57.6787 microV at 2249.3349s;    31.5737 microV at 2250.1339s
+Random window 18: [2187s, 2197s]
+     -> No SW detected
+Random window 19: [2300s, 2310s]
+     -> Random SW:      -21.5354 microV at 2301.1663s;    23.4832 microV at 2301.284s
+Random window 20: [1404s, 1414s]
+     -> Random SW:      -24.8223 microV at 1413.1293s;    19.3748 microV at 1413.2703s
+Random window 21: [1689s, 1699s]
+     -> No SW detected
+Random window 22: [2443s, 2453s]
+     -> No SW detected
+Random window 23: [1135s, 1145s]
+     -> No SW detected
+Random window 24: [225s, 235s]
+     -> Random SW:      -30.96 microV at 230.6899s;    15.2348 microV at 231.0057s
+Random window 25: [2313s, 2323s]
+     -> No SW detected
+Random window 26: [1671s, 1681s]
+     -> No SW detected
+Random window 27: [976s, 986s]
+     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
+Random window 28: [2523s, 2533s]
+     -> No SW detected
+Random window 29: [609s, 619s]
      -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
-Random window 25: [1682s, 1692s]
-     -> No SW detected
-Random window 26: [911s, 921s]
-     -> Random SW:      -48.0807 microV at 915.3895s;    19.2375 microV at 915.5521s
-                        -26.1866 microV at 917.4915s;    21.753 microV at 917.7025s
-Random window 27: [410s, 420s]
-     -> Random SW:      -51.2047 microV at 410.5161s;    21.3591 microV at 410.7344s
-Random window 28: [683s, 693s]
-     -> No SW detected
-Random window 29: [2367s, 2377s]
-     -> No SW detected
-Random window 30: [240s, 250s]
-     -> No SW detected
-Random window 31: [792s, 802s]
-     -> No SW detected
-Random window 32: [189s, 199s]
-     -> Random SW:      -40.6718 microV at 198.8555s;    15.2348 microV at 199.0061s
-Random window 33: [1294s, 1304s]
-     -> Random SW:      -39.4731 microV at 1298.1407s;    22.8209 microV at 1298.2342s
-Random window 34: [7s, 17s]
-     -> No SW detected
-Random window 35: [2374s, 2384s]
-     -> No SW detected
-Random window 36: [717s, 727s]
-     -> No SW detected
-Random window 37: [392s, 402s]
-     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
-Random window 38: [1058s, 1068s]
-     -> No SW detected
-Random window 39: [1428s, 1438s]
-     -> Random SW:      -36.7962 microV at 1436.7205s;    10.1075 microV at 1436.7817s
-                        -49.7457 microV at 1437.0758s;    23.6243 microV at 1437.356s
-Random window 40: [440s, 450s]
-     -> No SW detected
-Random window 41: [2515s, 2525s]
-     -> No SW detected
-Random window 42: [1102s, 1112s]
-     -> No SW detected
-Random window 43: [1028s, 1038s]
-     -> No SW detected
-Random window 44: [276s, 286s]
-     -> No SW detected
-Random window 45: [1041s, 1051s]
-     -> No SW detected
-Random window 46: [218s, 228s]
-     -> No SW detected
-Random window 47: [1630s, 1640s]
-     -> Random SW:      -61.1011 microV at 1636.1218s;    15.2558 microV at 1636.822s
-Random window 48: [2193s, 2203s]
-     -> No SW detected
-Random window 49: [1839s, 1849s]
-     -> Random SW:      -25.5275 microV at 1841.4093s;    16.7076 microV at 1841.5017s
-                        -60.6984 microV at 1841.7578s;    77.4925 microV at 1842.0887s
-                        -81.7351 microV at 1842.3508s;    28.6177 microV at 1842.7967s
-Random window 50: [527s, 537s]
-     -> No SW detected
-Random window 51: [402s, 412s]
-     -> Random SW:      -51.2047 microV at 410.5161s;    21.3591 microV at 410.7344s
-Random window 52: [2233s, 2243s]
-     -> No SW detected
-Random window 53: [2406s, 2416s]
-     -> No SW detected
-Random window 54: [1658s, 1668s]
-     -> No SW detected
-Random window 55: [574s, 584s]
-     -> No SW detected
-Random window 56: [2279s, 2289s]
-     -> No SW detected
-Random window 57: [1143s, 1153s]
-     -> No SW detected
-Random window 58: [1088s, 1098s]
-     -> No SW detected
-Random window 59: [2087s, 2097s]
-     -> No SW detected
-Random window 60: [13s, 23s]
-     -> No SW detected
-Random window 61: [282s, 292s]
-     -> No SW detected
-Random window 62: [1996s, 2006s]
-     -> No SW detected
-Random window 63: [1744s, 1754s]
+Random window 30: [1743s, 1753s]
      -> Random SW:      -98.9147 microV at 1749.0142s;    35.7713 microV at 1749.2845s
                         -22.1676 microV at 1749.3867s;    28.8145 microV at 1749.6906s
                         -31.7419 microV at 1749.8766s;    23.7931 microV at 1750.0419s
-Random window 64: [1644s, 1654s]
-     -> No SW detected
-Random window 65: [2066s, 2076s]
-     -> No SW detected
-Random window 66: [2035s, 2045s]
-     -> No SW detected
-Random window 67: [2244s, 2254s]
-     -> Random SW:      -87.7508 microV at 2248.7802s;    9.9643 microV at 2249.0376s
-                        -57.6787 microV at 2249.3349s;    31.5737 microV at 2250.1339s
-Random window 68: [985s, 995s]
-     -> No SW detected
-Random window 69: [2005s, 2015s]
-     -> No SW detected
-Random window 70: [1664s, 1674s]
-     -> No SW detected
-Random window 71: [1223s, 1233s]
-     -> No SW detected
- 
-*********************************************************************************************************
-For a total of 71 operant actions,
- - 34 operant actions show at least one BP.
- - 28 operant actions show at least one P3.
- - 20 of the 71 random windows show at least one SW (which is neither BP or P3).
-*********************************************************************************************************
- 
->> find_BP_P300_randSW(ttl.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
- 
-OA1 occurs at 34.3872s
-     -> No BP detected
-     -> No P3 detected
- 
-OA2 occurs at 45.167s
-     -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
-     -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
- 
-OA3 occurs at 66.2364s
-     -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
-                        -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
-     -> No P3 detected
- 
-OA4 occurs at 75.0562s
-     -> No BP detected
-     -> No P3 detected
- 
-OA5 occurs at 79.7461s
-     -> No BP detected
-     -> No P3 detected
- 
-OA6 occurs at 90.2657s
-     -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
-                        -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
-                        -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
-     -> No P3 detected
- 
-OA7 occurs at 104.0554s
-     -> No BP detected
-     -> No P3 detected
- 
-OA8 occurs at 113.8952s
-     -> No BP detected
-     -> No P3 detected
- 
-OA9 occurs at 136.6743s
-     -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
-     -> No P3 detected
- 
-OA10 occurs at 159.4237s
-     -> No BP detected
-     -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
- 
-OA11 occurs at 206.2825s
-     -> No BP detected
-     -> No P3 detected
- 
-OA12 occurs at 263.3702s
-     -> No BP detected
-     -> No P3 detected
- 
-OA13 occurs at 306.4487s
-     -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
-     -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
- 
-OA14 occurs at 317.8884s
-     -> No BP detected
-     -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
- 
-OA15 occurs at 325.1782s
-     -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
-     -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
- 
-OA16 occurs at 350.2075s
-     -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
-     -> No P3 detected
- 
-OA17 occurs at 433.5854s
-     -> No BP detected
-     -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
- 
-OA18 occurs at 456.4449s
-     -> No BP detected
-     -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
-                        -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
- 
-OA19 occurs at 473.5944s
-     -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
-     -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
- 
-OA20 occurs at 496.6538s
-     -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
-     -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
- 
-OA21 occurs at 509.9035s
-     -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
-                        -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
-     -> No P3 detected
- 
-OA22 occurs at 518.0125s
-     -> No BP detected
-     -> No P3 detected
- 
-OA23 occurs at 556.4819s
-     -> No BP detected
-     -> No P3 detected
- 
-OA24 occurs at 658.3889s
-     -> No BP detected
-     -> No P3 detected
- 
-OA25 occurs at 710.8876s
-     -> No BP detected
-     -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
- 
-OA26 occurs at 735.237s
-     -> No BP detected
-     -> No P3 detected
- 
-OA27 occurs at 777.0458s
-     -> No BP detected
-     -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
- 
-OA28 occurs at 809.695s
-     -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
-     -> No P3 detected
- 
-OA29 occurs at 847.2341s
-     -> No BP detected
-     -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
- 
-OA30 occurs at 877.0683s
-     -> No BP detected
-     -> No P3 detected
- 
-OA31 occurs at 889.353s
-     -> No BP detected
-     -> No P3 detected
- 
-OA32 occurs at 927.2016s
-     -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
-     -> No P3 detected
- 
-OA33 occurs at 937.6413s
-     -> No BP detected
-     -> No P3 detected
- 
-OA34 occurs at 953.0609s
-     -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
-                        -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
-                        -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
-                        -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
-     -> No P3 detected
- 
-OA35 occurs at 1007.4995s
-     -> No BP detected
-     -> No P3 detected
- 
-OA36 occurs at 1078.207s
-     -> No BP detected
-     -> No P3 detected
- 
-OA37 occurs at 1168.0746s
-     -> No BP detected
-     -> No P3 detected
- 
-OA38 occurs at 1203.2337s
-     -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
-     -> No P3 detected
- 
-OA39 occurs at 1251.5028s
-     -> Possible BP:    -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
-     -> No P3 detected
- 
-OA40 occurs at 1253.9628s
-     -> No BP detected
-     -> No P3 detected
- 
-OA41 occurs at 1259.4822s
-     -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
-     -> No P3 detected
- 
-OA42 occurs at 1287.3115s
-     -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
-     -> No P3 detected
- 
-OA43 occurs at 1317.9308s
-     -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
-                        -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
-                        -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
-     -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
- 
-OA44 occurs at 1336.6402s
-     -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
-                        -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
-                        -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
-     -> No P3 detected
- 
-OA45 occurs at 1352.3398s
-     -> No BP detected
-     -> No P3 detected
- 
-OA46 occurs at 1374.8492s
-     -> No BP detected
-     -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
-                        -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
- 
-OA47 occurs at 1383.1991s
-     -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
-     -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
- 
-OA48 occurs at 1446.4674s
-     -> No BP detected
-     -> No P3 detected
- 
-OA49 occurs at 1465.9169s
-     -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
-     -> No P3 detected
- 
-OA50 occurs at 1505.2459s
-     -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
-     -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
- 
-OA51 occurs at 1551.6547s
-     -> No BP detected
-     -> No P3 detected
- 
-OA52 occurs at 1578.874s
-     -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
-                        -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
-     -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
-                        -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
- 
-OA53 occurs at 1609.6332s
-     -> No BP detected
-     -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
- 
-OA54 occurs at 1736.64s
-     -> No BP detected
-     -> No P3 detected
- 
-OA55 occurs at 1773.159s
-     -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
-     -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
-                        -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
-                        -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
- 
-OA56 occurs at 1801.5519s
-     -> No BP detected
-     -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
- 
-OA57 occurs at 1832.1311s
-     -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
-                        -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
-     -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
- 
-OA58 occurs at 1855.0606s
-     -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
-     -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
- 
-OA59 occurs at 1875.5895s
-     -> No BP detected
-     -> No P3 detected
- 
-OA60 occurs at 1904.0093s
-     -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
-     -> No P3 detected
- 
-OA61 occurs at 1936.1884s
-     -> No BP detected
-     -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
- 
-OA62 occurs at 1954.6886s
-     -> No BP detected
-     -> Possible P3:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
- 
-OA63 occurs at 1957.3979s
-     -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
-     -> No P3 detected
- 
-OA64 occurs at 1974.3975s
-     -> No BP detected
-     -> No P3 detected
- 
-OA65 occurs at 2124.8236s
-     -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
-     -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
- 
-OA66 occurs at 2146.1131s
-     -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
-     -> No P3 detected
- 
-OA67 occurs at 2171.3724s
-     -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
-     -> No P3 detected
- 
-OA68 occurs at 2212.6813s
-     -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
-                        -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
-     -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
- 
-OA69 occurs at 2336.1977s
-     -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
-                        -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
-                        -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
-     -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
- 
-OA70 occurs at 2466.8844s
-     -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
-                        -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
-     -> No P3 detected
- 
-OA71 occurs at 2475.7741s
-     -> No BP detected
-     -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
- 
- 
-Random window 1: [238s, 248s]
-     -> No SW detected
-Random window 2: [2183s, 2193s]
-     -> No SW detected
-Random window 3: [1028s, 1038s]
-     -> No SW detected
-Random window 4: [1693s, 1703s]
-     -> No SW detected
-Random window 5: [2068s, 2078s]
-     -> No SW detected
-Random window 6: [381s, 391s]
-     -> No SW detected
-Random window 7: [440s, 450s]
-     -> No SW detected
-Random window 8: [1617s, 1627s]
-     -> Random SW:      -55.0205 microV at 1626.0047s;    20.6959 microV at 1626.5665s
-                        -30.3206 microV at 1626.8465s;    15.5868 microV at 1627.113s
-Random window 9: [1410s, 1420s]
-     -> Random SW:      -24.8223 microV at 1413.1293s;    19.3748 microV at 1413.2703s
-Random window 10: [2370s, 2380s]
-     -> No SW detected
-Random window 11: [2234s, 2244s]
-     -> No SW detected
-Random window 12: [2043s, 2053s]
-     -> No SW detected
-Random window 13: [219s, 229s]
-     -> No SW detected
-Random window 14: [286s, 296s]
-     -> No SW detected
-Random window 15: [375s, 385s]
-     -> Random SW:      -28.1848 microV at 377.3664s;    15.4464 microV at 377.6001s
-Random window 16: [2244s, 2254s]
-     -> Random SW:      -87.7508 microV at 2248.7802s;    9.9643 microV at 2249.0376s
-                        -57.6787 microV at 2249.3349s;    31.5737 microV at 2250.1339s
-Random window 17: [2434s, 2444s]
-     -> No SW detected
-Random window 18: [1913s, 1923s]
-     -> No SW detected
-Random window 19: [563s, 573s]
-     -> Random SW:      -29.3785 microV at 563.5951s;    12.9708 microV at 563.8509s
-                        -45.7791 microV at 568.1908s;    46.9066 microV at 568.4302s
-                        -24.0961 microV at 569.1141s;    28.8301 microV at 569.5775s
-Random window 20: [2018s, 2028s]
-     -> No SW detected
-Random window 21: [410s, 420s]
-     -> Random SW:      -51.2047 microV at 410.5161s;    21.3591 microV at 410.7344s
-Random window 22: [534s, 544s]
-     -> No SW detected
-Random window 23: [1713s, 1723s]
-     -> No SW detected
-Random window 24: [1018s, 1028s]
-     -> No SW detected
-Random window 25: [1756s, 1766s]
-     -> No SW detected
-Random window 26: [2083s, 2093s]
-     -> No SW detected
-Random window 27: [1631s, 1641s]
+Random window 31: [1627s, 1637s]
      -> Random SW:      -61.1011 microV at 1636.1218s;    15.2558 microV at 1636.822s
-Random window 28: [2058s, 2068s]
+Random window 32: [1034s, 1044s]
      -> No SW detected
-Random window 29: [742s, 752s]
+Random window 33: [404s, 414s]
+     -> Random SW:      -51.2047 microV at 410.5161s;    21.3591 microV at 410.7344s
+Random window 34: [120s, 130s]
      -> No SW detected
-Random window 30: [2036s, 2046s]
+Random window 35: [1107s, 1117s]
      -> No SW detected
-Random window 31: [2498s, 2508s]
+Random window 36: [570s, 580s]
      -> No SW detected
-Random window 32: [2316s, 2326s]
+Random window 37: [2024s, 2034s]
      -> No SW detected
-Random window 33: [359s, 369s]
-     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
-Random window 34: [1057s, 1067s]
+Random window 38: [1020s, 1030s]
      -> No SW detected
-Random window 35: [1088s, 1098s]
+Random window 39: [2278s, 2288s]
      -> No SW detected
-Random window 36: [1813s, 1823s]
+Random window 40: [2018s, 2028s]
      -> No SW detected
-Random window 37: [1624s, 1634s]
-     -> Random SW:      -55.0205 microV at 1626.0047s;    20.6959 microV at 1626.5665s
-                        -30.3206 microV at 1626.8465s;    15.5868 microV at 1627.113s
-Random window 38: [2223s, 2233s]
+Random window 41: [1531s, 1541s]
+     -> No SW detected
+Random window 42: [531s, 541s]
+     -> No SW detected
+Random window 43: [2449s, 2459s]
+     -> No SW detected
+Random window 44: [687s, 697s]
+     -> No SW detected
+Random window 45: [2409s, 2419s]
+     -> No SW detected
+Random window 46: [619s, 629s]
+     -> No SW detected
+Random window 47: [1046s, 1056s]
+     -> No SW detected
+Random window 48: [278s, 288s]
+     -> No SW detected
+Random window 49: [1755s, 1765s]
+     -> No SW detected
+Random window 50: [576s, 586s]
+     -> No SW detected
+Random window 51: [177s, 187s]
+     -> Random SW:      -25.4412 microV at 180.707s;    23.5292 microV at 180.8527s
+Random window 52: [2036s, 2046s]
+     -> No SW detected
+Random window 53: [988s, 998s]
+     -> No SW detected
+Random window 54: [1864s, 1874s]
+     -> Random SW:      -30.4242 microV at 1869.0965s;    23.2885 microV at 1869.4083s
+                        -32.9927 microV at 1870.0378s;    25.4797 microV at 1870.4421s
+Random window 55: [1114s, 1124s]
+     -> No SW detected
+Random window 56: [1702s, 1712s]
+     -> No SW detected
+Random window 57: [11s, 21s]
+     -> No SW detected
+Random window 58: [2386s, 2396s]
+     -> No SW detected
+Random window 59: [2225s, 2235s]
      -> Random SW:      -108.1337 microV at 2225.5151s;    24.9108 microV at 2225.729s
-Random window 39: [1043s, 1053s]
+Random window 60: [2052s, 2062s]
      -> No SW detected
-Random window 40: [637s, 647s]
+Random window 61: [2238s, 2248s]
      -> No SW detected
-Random window 41: [280s, 290s]
+Random window 62: [1062s, 1072s]
      -> No SW detected
-Random window 42: [2108s, 2118s]
+Random window 63: [1650s, 1660s]
      -> No SW detected
-Random window 43: [671s, 681s]
+Random window 64: [1519s, 1529s]
      -> No SW detected
-Random window 44: [1124s, 1134s]
+Random window 65: [1420s, 1430s]
      -> No SW detected
-Random window 45: [1522s, 1532s]
-     -> No SW detected
-Random window 46: [694s, 704s]
-     -> No SW detected
-Random window 47: [1700s, 1710s]
-     -> No SW detected
-Random window 48: [1300s, 1310s]
-     -> Random SW:      -33.6033 microV at 1304.3441s;    29.61 microV at 1304.4145s
-                        -45.9985 microV at 1306.8479s;    15.1989 microV at 1307.4264s
-Random window 49: [585s, 595s]
-     -> No SW detected
-Random window 50: [2261s, 2271s]
-     -> No SW detected
-Random window 51: [387s, 397s]
-     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
-Random window 52: [906s, 916s]
-     -> Random SW:      -48.0807 microV at 915.3895s;    19.2375 microV at 915.5521s
-Random window 53: [760s, 770s]
-     -> No SW detected
-Random window 54: [1512s, 1522s]
-     -> No SW detected
-Random window 55: [273s, 283s]
-     -> Random SW:      -30.4862 microV at 273.1714s;    14.0898 microV at 273.5218s
-Random window 56: [1177s, 1187s]
-     -> Random SW:      -30.3021 microV at 1177.1788s;    16.3286 microV at 1177.4912s
-Random window 57: [397s, 407s]
-     -> No SW detected
-Random window 58: [528s, 538s]
-     -> No SW detected
-Random window 59: [2278s, 2288s]
-     -> No SW detected
-Random window 60: [971s, 981s]
-     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
-Random window 61: [1674s, 1684s]
-     -> No SW detected
-Random window 62: [2491s, 2501s]
-     -> No SW detected
-Random window 63: [1225s, 1235s]
-     -> No SW detected
-Random window 64: [2004s, 2014s]
-     -> No SW detected
-Random window 65: [2192s, 2202s]
-     -> No SW detected
-Random window 66: [1213s, 1223s]
-     -> No SW detected
-Random window 67: [1784s, 1794s]
-     -> No SW detected
-Random window 68: [366s, 376s]
-     -> No SW detected
-Random window 69: [2425s, 2435s]
-     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
-Random window 70: [621s, 631s]
-     -> No SW detected
-Random window 71: [828s, 838s]
-     -> Random SW:      -32.9154 microV at 832.2995s;    9.44 microV at 832.6001s
  
 *********************************************************************************************************
-For a total of 71 operant actions,
- - 34 operant actions show at least one BP.
- - 28 operant actions show at least one P3.
- - 18 of the 71 random windows show at least one SW (which is neither BP or P3).
+For a total of 65 operant actions,
+ - 33 operant actions show at least one BP.
+ - 27 operant actions show at least one P3.
+ - 15 of the 65 random windows show at least one SW (which is neither BP or P3).
 *********************************************************************************************************
  
->> >> find_BP_P300_randSW(ttl.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
+>> find_BP_P300_randSW_new(SA15_12_07_2013_0004_Ch11.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
  
-OA1 occurs at 34.3872s
+OA1: [34.3872s, 37.3873s];  duration: 3.0001s
      -> No BP detected
      -> No P3 detected
  
-OA2 occurs at 45.167s
+OA2: [45.167s, 51.167s];  duration: 6.0001s
      -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
      -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
  
-OA3 occurs at 66.2364s
+OA3: [66.2364s, 72.2364s];  duration: 6s
      -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
                         -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
      -> No P3 detected
  
-OA4 occurs at 75.0562s
+OA4: [75.0562s, 78.0563s];  duration: 3.0001s
      -> No BP detected
      -> No P3 detected
  
-OA5 occurs at 79.7461s
+OA5: [79.7461s, 85.7461s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA6 occurs at 90.2657s
+OA6: [90.2657s, 96.2658s];  duration: 6s
      -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
                         -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
                         -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
      -> No P3 detected
  
-OA7 occurs at 104.0554s
+OA7: [104.0554s, 110.0554s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA8 occurs at 113.8952s
+OA8: [113.8952s, 119.8952s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA9 occurs at 136.6743s
+OA9: [136.6743s, 142.6743s];  duration: 6s
      -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
      -> No P3 detected
  
-OA10 occurs at 159.4237s
+OA10: [159.4237s, 165.4237s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
  
-OA11 occurs at 206.2825s
+OA11: [206.2825s, 212.2825s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA12 occurs at 263.3702s
+OA12: [263.3702s, 269.3698s];  duration: 5.9997s
      -> No BP detected
      -> No P3 detected
  
-OA13 occurs at 306.4487s
+OA13: [306.4487s, 312.4487s];  duration: 6s
      -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
      -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
  
-OA14 occurs at 317.8884s
+OA14: [317.8884s, 320.8885s];  duration: 3.0001s
      -> No BP detected
      -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
  
-OA15 occurs at 325.1782s
+OA15: [325.1782s, 328.1783s];  duration: 3.0001s
      -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
      -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
  
-OA16 occurs at 350.2075s
+OA16: [350.2075s, 356.2075s];  duration: 6s
      -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
      -> No P3 detected
  
-OA17 occurs at 433.5854s
+OA17: [433.5854s, 439.5855s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
  
-OA18 occurs at 456.4449s
+OA18: [456.4449s, 462.4449s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
                         -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
  
-OA19 occurs at 473.5944s
+OA19: [473.5944s, 476.5945s];  duration: 3.0001s
      -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
      -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
  
-OA20 occurs at 496.6538s
+OA20: [496.6538s, 502.6539s];  duration: 6.0001s
      -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
      -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
  
-OA21 occurs at 509.9035s
+OA21: [509.9035s, 515.9036s];  duration: 6s
      -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
                         -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
      -> No P3 detected
  
-OA22 occurs at 518.0125s
+OA22: [556.4819s, 562.4819s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA23 occurs at 556.4819s
+OA23: [658.3889s, 664.3889s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA24 occurs at 658.3889s
-     -> No BP detected
-     -> No P3 detected
- 
-OA25 occurs at 710.8876s
+OA24: [710.8876s, 716.8875s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
  
-OA26 occurs at 735.237s
+OA25: [735.237s, 741.237s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA27 occurs at 777.0458s
+OA26: [777.0458s, 783.0459s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
  
-OA28 occurs at 809.695s
+OA27: [809.695s, 812.6951s];  duration: 3s
      -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
      -> No P3 detected
  
-OA29 occurs at 847.2341s
+OA28: [847.2341s, 853.2341s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
  
-OA30 occurs at 877.0683s
+OA29: [889.353s, 895.353s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA31 occurs at 889.353s
-     -> No BP detected
-     -> No P3 detected
- 
-OA32 occurs at 927.2016s
+OA30: [927.2016s, 933.2016s];  duration: 6.0001s
      -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
      -> No P3 detected
  
-OA33 occurs at 937.6413s
+OA31: [937.6413s, 943.6413s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA34 occurs at 953.0609s
+OA32: [953.0609s, 959.0609s];  duration: 6s
      -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
                         -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
                         -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
                         -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
      -> No P3 detected
  
-OA35 occurs at 1007.4995s
+OA33: [1007.4995s, 1013.4995s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA36 occurs at 1078.207s
+OA34: [1078.207s, 1084.207s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA37 occurs at 1168.0746s
+OA35: [1168.0746s, 1174.0746s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA38 occurs at 1203.2337s
+OA36: [1203.2337s, 1209.2337s];  duration: 6s
      -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
      -> No P3 detected
  
-OA39 occurs at 1251.5028s
-     -> Possible BP:    -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
-     -> No P3 detected
- 
-OA40 occurs at 1253.9628s
-     -> No BP detected
-     -> No P3 detected
- 
-OA41 occurs at 1259.4822s
+OA37: [1259.4822s, 1265.4822s];  duration: 6s
      -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
      -> No P3 detected
  
-OA42 occurs at 1287.3115s
+OA38: [1287.3115s, 1293.3116s];  duration: 6.0001s
      -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
      -> No P3 detected
  
-OA43 occurs at 1317.9308s
+OA39: [1317.9308s, 1323.9307s];  duration: 5.9999s
      -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
                         -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
                         -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
      -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
  
-OA44 occurs at 1336.6402s
+OA40: [1336.6402s, 1339.6403s];  duration: 3.0001s
      -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
                         -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
                         -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
      -> No P3 detected
  
-OA45 occurs at 1352.3398s
+OA41: [1352.3398s, 1358.3399s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA46 occurs at 1374.8492s
+OA42: [1374.8492s, 1377.8494s];  duration: 3.0002s
      -> No BP detected
      -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
                         -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
  
-OA47 occurs at 1383.1991s
+OA43: [1383.1991s, 1389.1991s];  duration: 6s
      -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
      -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
  
-OA48 occurs at 1446.4674s
+OA44: [1446.4674s, 1452.4675s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA49 occurs at 1465.9169s
+OA45: [1465.9169s, 1468.917s];  duration: 3.0001s
      -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
      -> No P3 detected
  
-OA50 occurs at 1505.2459s
+OA46: [1505.2459s, 1511.246s];  duration: 6.0001s
      -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
      -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
  
-OA51 occurs at 1551.6547s
+OA47: [1551.6547s, 1557.6548s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA52 occurs at 1578.874s
+OA48: [1578.874s, 1584.874s];  duration: 6s
      -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
                         -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
      -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
                         -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
  
-OA53 occurs at 1609.6332s
+OA49: [1609.6332s, 1615.6332s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
  
-OA54 occurs at 1736.64s
+OA50: [1736.64s, 1742.64s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA55 occurs at 1773.159s
+OA51: [1773.159s, 1779.1592s];  duration: 6.0001s
      -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
      -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
                         -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
                         -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
  
-OA56 occurs at 1801.5519s
+OA52: [1801.5519s, 1807.552s];  duration: 6.0001s
      -> No BP detected
      -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
  
-OA57 occurs at 1832.1311s
+OA53: [1832.1311s, 1838.1312s];  duration: 6s
      -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
                         -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
      -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
  
-OA58 occurs at 1855.0606s
+OA54: [1855.0606s, 1861.0606s];  duration: 6s
      -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
      -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
  
-OA59 occurs at 1875.5895s
-     -> No BP detected
-     -> No P3 detected
- 
-OA60 occurs at 1904.0093s
+OA55: [1904.0093s, 1910.0092s];  duration: 5.9999s
      -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
      -> No P3 detected
  
-OA61 occurs at 1936.1884s
+OA56: [1936.1884s, 1942.1886s];  duration: 6.0001s
      -> No BP detected
      -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
  
-OA62 occurs at 1954.6886s
-     -> No BP detected
-     -> Possible P3:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
- 
-OA63 occurs at 1957.3979s
+OA57: [1957.3979s, 1960.398s];  duration: 3.0001s
      -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
      -> No P3 detected
  
-OA64 occurs at 1974.3975s
+OA58: [1974.3975s, 1980.3975s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA65 occurs at 2124.8236s
+OA59: [2124.8236s, 2130.8237s];  duration: 6.0001s
      -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
      -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
  
-OA66 occurs at 2146.1131s
+OA60: [2146.1131s, 2152.1131s];  duration: 6s
      -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
      -> No P3 detected
  
-OA67 occurs at 2171.3724s
+OA61: [2171.3724s, 2177.3723s];  duration: 5.9999s
      -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
      -> No P3 detected
  
-OA68 occurs at 2212.6813s
+OA62: [2212.6813s, 2218.6814s];  duration: 6.0001s
      -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
                         -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
      -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
  
-OA69 occurs at 2336.1977s
+OA63: [2336.1977s, 2342.1977s];  duration: 6.0001s
      -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
                         -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
                         -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
      -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
  
-OA70 occurs at 2466.8844s
+OA64: [2466.8844s, 2472.8844s];  duration: 6s
      -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
                         -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
      -> No P3 detected
  
-OA71 occurs at 2475.7741s
+OA65: [2475.7741s, 2478.7743s];  duration: 3.0002s
      -> No BP detected
      -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
  
+*********************************************************************************************************
  
-Random window 1: [2225s, 2235s]
-     -> Random SW:      -108.1337 microV at 2225.5151s;    24.9108 microV at 2225.729s
-Random window 2: [1409s, 1419s]
-     -> Random SW:      -24.8223 microV at 1413.1293s;    19.3748 microV at 1413.2703s
-Random window 3: [2095s, 2105s]
+Random window 1: [826s, 836s]
+     -> Random SW:      -32.9154 microV at 832.2995s;    9.44 microV at 832.6001s
+Random window 2: [746s, 756s]
      -> No SW detected
-Random window 4: [1105s, 1115s]
+Random window 3: [1243s, 1253s]
+     -> Random SW:      -55.9206 microV at 1246.171s;    22.1633 microV at 1246.428s
+                        -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
+Random window 4: [672s, 682s]
      -> No SW detected
-Random window 5: [785s, 795s]
+Random window 5: [2231s, 2241s]
      -> No SW detected
-Random window 6: [184s, 194s]
+Random window 6: [2509s, 2519s]
      -> No SW detected
-Random window 7: [1982s, 1992s]
-     -> Random SW:      -46.3345 microV at 1987.5805s;    12.2786 microV at 1987.7621s
-Random window 8: [1181s, 1191s]
+Random window 7: [177s, 187s]
+     -> Random SW:      -25.4412 microV at 180.707s;    23.5292 microV at 180.8527s
+Random window 8: [1589s, 1599s]
      -> No SW detected
-Random window 9: [1235s, 1245s]
+Random window 9: [362s, 372s]
+     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
+Random window 10: [2194s, 2204s]
      -> No SW detected
-Random window 10: [1698s, 1708s]
+Random window 11: [2502s, 2512s]
      -> No SW detected
-Random window 11: [240s, 250s]
+Random window 12: [273s, 283s]
+     -> Random SW:      -30.4862 microV at 273.1714s;    14.0898 microV at 273.5218s
+Random window 13: [2407s, 2417s]
      -> No SW detected
-Random window 12: [971s, 981s]
-     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
-Random window 13: [2188s, 2198s]
+Random window 14: [16s, 26s]
      -> No SW detected
-Random window 14: [2019s, 2029s]
+Random window 15: [1916s, 1926s]
      -> No SW detected
-Random window 15: [405s, 415s]
+Random window 16: [2092s, 2102s]
+     -> No SW detected
+Random window 17: [1526s, 1536s]
+     -> No SW detected
+Random window 18: [2317s, 2327s]
+     -> No SW detected
+Random window 19: [2355s, 2365s]
+     -> No SW detected
+Random window 20: [1696s, 1706s]
+     -> No SW detected
+Random window 21: [531s, 541s]
+     -> No SW detected
+Random window 22: [681s, 691s]
+     -> No SW detected
+Random window 23: [608s, 618s]
+     -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
+Random window 24: [225s, 235s]
+     -> Random SW:      -30.96 microV at 230.6899s;    15.2348 microV at 231.0057s
+Random window 25: [408s, 418s]
      -> Random SW:      -51.2047 microV at 410.5161s;    21.3591 microV at 410.7344s
-Random window 16: [525s, 535s]
+Random window 26: [1710s, 1720s]
      -> No SW detected
-Random window 17: [368s, 378s]
+Random window 27: [2416s, 2426s]
+     -> No SW detected
+Random window 28: [1092s, 1102s]
+     -> No SW detected
+Random window 29: [1177s, 1187s]
+     -> Random SW:      -30.3021 microV at 1177.1788s;    16.3286 microV at 1177.4912s
+Random window 30: [2493s, 2503s]
+     -> No SW detected
+Random window 31: [2395s, 2405s]
+     -> No SW detected
+Random window 32: [1872s, 1882s]
+     -> No SW detected
+Random window 33: [2515s, 2525s]
+     -> No SW detected
+Random window 34: [2049s, 2059s]
+     -> No SW detected
+Random window 35: [1029s, 1039s]
+     -> No SW detected
+Random window 36: [1755s, 1765s]
+     -> No SW detected
+Random window 37: [791s, 801s]
+     -> No SW detected
+Random window 38: [969s, 979s]
+     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
+Random window 39: [1880s, 1890s]
+     -> No SW detected
+Random window 40: [1479s, 1489s]
+     -> No SW detected
+Random window 41: [1139s, 1149s]
+     -> No SW detected
+Random window 42: [1663s, 1673s]
+     -> No SW detected
+Random window 43: [2056s, 2066s]
+     -> No SW detected
+Random window 44: [1635s, 1645s]
+     -> Random SW:      -61.1011 microV at 1636.1218s;    15.2558 microV at 1636.822s
+                        -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
+Random window 45: [1516s, 1526s]
+     -> No SW detected
+Random window 46: [1644s, 1654s]
+     -> No SW detected
+Random window 47: [1399s, 1409s]
+     -> No SW detected
+Random window 48: [290s, 300s]
+     -> No SW detected
+Random window 49: [2026s, 2036s]
+     -> No SW detected
+Random window 50: [2523s, 2533s]
+     -> No SW detected
+Random window 51: [1018s, 1028s]
+     -> No SW detected
+Random window 52: [2434s, 2444s]
+     -> No SW detected
+Random window 53: [983s, 993s]
+     -> No SW detected
+Random window 54: [2286s, 2296s]
+     -> Random SW:      -22.8703 microV at 2295.7989s;    20.0018 microV at 2295.8709s
+Random window 55: [1184s, 1194s]
+     -> Random SW:      -49.9179 microV at 1192.9738s;    30.3697 microV at 1193.1335s
+Random window 56: [1110s, 1120s]
+     -> No SW detected
+Random window 57: [602s, 612s]
+     -> No SW detected
+Random window 58: [394s, 404s]
+     -> No SW detected
+Random window 59: [873s, 883s]
+     -> No SW detected
+Random window 60: [2020s, 2030s]
+     -> No SW detected
+Random window 61: [2101s, 2111s]
+     -> No SW detected
+Random window 62: [1986s, 1996s]
+     -> Random SW:      -46.3345 microV at 1987.5805s;    12.2786 microV at 1987.7621s
+Random window 63: [2s, 12s]
+     -> No SW detected
+Random window 64: [2256s, 2266s]
+     -> No SW detected
+Random window 65: [2363s, 2373s]
+     -> No SW detected
+ 
+*********************************************************************************************************
+For a total of 65 operant actions,
+ - 33 operant actions show at least one BP.
+ - 27 operant actions show at least one P3.
+ - 14 of the 65 random windows show at least one SW (which is neither BP or P3).
+*********************************************************************************************************
+ 
+>> find_BP_P300_randSW_new(SA15_12_07_2013_0004_Ch11.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
+ 
+OA1: [34.3872s, 37.3873s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA2: [45.167s, 51.167s];  duration: 6.0001s
+     -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
+     -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
+ 
+OA3: [66.2364s, 72.2364s];  duration: 6s
+     -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
+                        -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
+     -> No P3 detected
+ 
+OA4: [75.0562s, 78.0563s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA5: [79.7461s, 85.7461s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA6: [90.2657s, 96.2658s];  duration: 6s
+     -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
+                        -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
+                        -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
+     -> No P3 detected
+ 
+OA7: [104.0554s, 110.0554s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA8: [113.8952s, 119.8952s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA9: [136.6743s, 142.6743s];  duration: 6s
+     -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
+     -> No P3 detected
+ 
+OA10: [159.4237s, 165.4237s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
+ 
+OA11: [206.2825s, 212.2825s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA12: [263.3702s, 269.3698s];  duration: 5.9997s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA13: [306.4487s, 312.4487s];  duration: 6s
+     -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
+     -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
+ 
+OA14: [317.8884s, 320.8885s];  duration: 3.0001s
+     -> No BP detected
+     -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+ 
+OA15: [325.1782s, 328.1783s];  duration: 3.0001s
+     -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+     -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
+ 
+OA16: [350.2075s, 356.2075s];  duration: 6s
+     -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
+     -> No P3 detected
+ 
+OA17: [433.5854s, 439.5855s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
+ 
+OA18: [456.4449s, 462.4449s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
+                        -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
+ 
+OA19: [473.5944s, 476.5945s];  duration: 3.0001s
+     -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
+     -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
+ 
+OA20: [496.6538s, 502.6539s];  duration: 6.0001s
+     -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
+     -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
+ 
+OA21: [509.9035s, 515.9036s];  duration: 6s
+     -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
+                        -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
+     -> No P3 detected
+ 
+OA22: [556.4819s, 562.4819s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA23: [658.3889s, 664.3889s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA24: [710.8876s, 716.8875s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
+ 
+OA25: [735.237s, 741.237s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA26: [777.0458s, 783.0459s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
+ 
+OA27: [809.695s, 812.6951s];  duration: 3s
+     -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
+     -> No P3 detected
+ 
+OA28: [847.2341s, 853.2341s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
+ 
+OA29: [889.353s, 895.353s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA30: [927.2016s, 933.2016s];  duration: 6.0001s
+     -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
+     -> No P3 detected
+ 
+OA31: [937.6413s, 943.6413s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA32: [953.0609s, 959.0609s];  duration: 6s
+     -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
+                        -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
+                        -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
+                        -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
+     -> No P3 detected
+ 
+OA33: [1007.4995s, 1013.4995s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA34: [1078.207s, 1084.207s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA35: [1168.0746s, 1174.0746s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA36: [1203.2337s, 1209.2337s];  duration: 6s
+     -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
+     -> No P3 detected
+ 
+OA37: [1259.4822s, 1265.4822s];  duration: 6s
+     -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
+     -> No P3 detected
+ 
+OA38: [1287.3115s, 1293.3116s];  duration: 6.0001s
+     -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
+     -> No P3 detected
+ 
+OA39: [1317.9308s, 1323.9307s];  duration: 5.9999s
+     -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
+                        -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
+                        -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
+     -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
+ 
+OA40: [1336.6402s, 1339.6403s];  duration: 3.0001s
+     -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
+                        -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
+                        -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
+     -> No P3 detected
+ 
+OA41: [1352.3398s, 1358.3399s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA42: [1374.8492s, 1377.8494s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
+                        -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
+ 
+OA43: [1383.1991s, 1389.1991s];  duration: 6s
+     -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
+     -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
+ 
+OA44: [1446.4674s, 1452.4675s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA45: [1465.9169s, 1468.917s];  duration: 3.0001s
+     -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
+     -> No P3 detected
+ 
+OA46: [1505.2459s, 1511.246s];  duration: 6.0001s
+     -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
+     -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
+ 
+OA47: [1551.6547s, 1557.6548s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA48: [1578.874s, 1584.874s];  duration: 6s
+     -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
+                        -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
+     -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
+                        -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
+ 
+OA49: [1609.6332s, 1615.6332s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
+ 
+OA50: [1736.64s, 1742.64s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA51: [1773.159s, 1779.1592s];  duration: 6.0001s
+     -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
+     -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
+                        -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
+                        -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
+ 
+OA52: [1801.5519s, 1807.552s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
+ 
+OA53: [1832.1311s, 1838.1312s];  duration: 6s
+     -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
+                        -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
+     -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
+ 
+OA54: [1855.0606s, 1861.0606s];  duration: 6s
+     -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
+     -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
+ 
+OA55: [1904.0093s, 1910.0092s];  duration: 5.9999s
+     -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
+     -> No P3 detected
+ 
+OA56: [1936.1884s, 1942.1886s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
+ 
+OA57: [1957.3979s, 1960.398s];  duration: 3.0001s
+     -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
+     -> No P3 detected
+ 
+OA58: [1974.3975s, 1980.3975s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA59: [2124.8236s, 2130.8237s];  duration: 6.0001s
+     -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
+     -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
+ 
+OA60: [2146.1131s, 2152.1131s];  duration: 6s
+     -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
+     -> No P3 detected
+ 
+OA61: [2171.3724s, 2177.3723s];  duration: 5.9999s
+     -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
+     -> No P3 detected
+ 
+OA62: [2212.6813s, 2218.6814s];  duration: 6.0001s
+     -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
+                        -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
+     -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
+ 
+OA63: [2336.1977s, 2342.1977s];  duration: 6.0001s
+     -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
+                        -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
+                        -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
+     -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
+ 
+OA64: [2466.8844s, 2472.8844s];  duration: 6s
+     -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
+                        -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
+     -> No P3 detected
+ 
+OA65: [2475.7741s, 2478.7743s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
+ 
+*********************************************************************************************************
+ 
+Random window 1: [2093s, 2103s]
+     -> No SW detected
+Random window 2: [216s, 226s]
+     -> No SW detected
+Random window 3: [1095s, 1105s]
+     -> No SW detected
+Random window 4: [2006s, 2016s]
+     -> No SW detected
+Random window 5: [2040s, 2050s]
+     -> No SW detected
+Random window 6: [671s, 681s]
+     -> No SW detected
+Random window 7: [821s, 831s]
+     -> No SW detected
+Random window 8: [1877s, 1887s]
+     -> No SW detected
+Random window 9: [1398s, 1408s]
+     -> No SW detected
+Random window 10: [1705s, 1715s]
+     -> No SW detected
+Random window 11: [683s, 693s]
+     -> No SW detected
+Random window 12: [579s, 589s]
+     -> No SW detected
+Random window 13: [2278s, 2288s]
+     -> No SW detected
+Random window 14: [2153s, 2163s]
+     -> Random SW:      -21.6863 microV at 2157.887s;    21.7768 microV at 2158.1138s
+Random window 15: [2421s, 2431s]
+     -> No SW detected
+Random window 16: [377s, 387s]
      -> Random SW:      -28.1848 microV at 377.3664s;    15.4464 microV at 377.6001s
-Random window 18: [3s, 13s]
+Random window 17: [598s, 608s]
+     -> No SW detected
+Random window 18: [365s, 375s]
+     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
+Random window 19: [1428s, 1438s]
+     -> Random SW:      -36.7962 microV at 1436.7205s;    10.1075 microV at 1436.7817s
+                        -49.7457 microV at 1437.0758s;    23.6243 microV at 1437.356s
+Random window 20: [627s, 637s]
+     -> No SW detected
+Random window 21: [2373s, 2383s]
+     -> No SW detected
+Random window 22: [383s, 393s]
+     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
+Random window 23: [187s, 197s]
+     -> No SW detected
+Random window 24: [1640s, 1650s]
+     -> Random SW:      -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
+Random window 25: [2183s, 2193s]
+     -> No SW detected
+Random window 26: [1020s, 1030s]
+     -> No SW detected
+Random window 27: [614s, 624s]
+     -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
+Random window 28: [1062s, 1072s]
+     -> No SW detected
+Random window 29: [752s, 762s]
+     -> No SW detected
+Random window 30: [1532s, 1542s]
+     -> No SW detected
+Random window 31: [2393s, 2403s]
+     -> No SW detected
+Random window 32: [1756s, 1766s]
+     -> No SW detected
+Random window 33: [390s, 400s]
+     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
+Random window 34: [1151s, 1161s]
+     -> No SW detected
+Random window 35: [231s, 241s]
+     -> No SW detected
+Random window 36: [1523s, 1533s]
+     -> No SW detected
+Random window 37: [1240s, 1250s]
+     -> Random SW:      -55.9206 microV at 1246.171s;    22.1633 microV at 1246.428s
+                        -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
+Random window 38: [2524s, 2534s]
+     -> No SW detected
+Random window 39: [2251s, 2261s]
+     -> No SW detected
+Random window 40: [1477s, 1487s]
+     -> No SW detected
+Random window 41: [2361s, 2371s]
+     -> No SW detected
+Random window 42: [527s, 537s]
+     -> No SW detected
+Random window 43: [1138s, 1148s]
+     -> No SW detected
+Random window 44: [2414s, 2424s]
+     -> No SW detected
+Random window 45: [2399s, 2409s]
+     -> No SW detected
+Random window 46: [2022s, 2032s]
+     -> No SW detected
+Random window 47: [1715s, 1725s]
+     -> No SW detected
+Random window 48: [1043s, 1053s]
+     -> No SW detected
+Random window 49: [2436s, 2446s]
+     -> No SW detected
+Random window 50: [410s, 420s]
+     -> Random SW:      -51.2047 microV at 410.5161s;    21.3591 microV at 410.7344s
+Random window 51: [2051s, 2061s]
+     -> No SW detected
+Random window 52: [1808s, 1818s]
+     -> Random SW:      -23.1237 microV at 1810.9324s;    19.0273 microV at 1811.4977s
+Random window 53: [2258s, 2268s]
+     -> No SW detected
+Random window 54: [1126s, 1136s]
+     -> No SW detected
+Random window 55: [2068s, 2078s]
+     -> No SW detected
+Random window 56: [2265s, 2275s]
+     -> No SW detected
+Random window 57: [976s, 986s]
+     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
+Random window 58: [1623s, 1633s]
+     -> Random SW:      -55.0205 microV at 1626.0047s;    20.6959 microV at 1626.5665s
+                        -30.3206 microV at 1626.8465s;    15.5868 microV at 1627.113s
+Random window 59: [2503s, 2513s]
+     -> No SW detected
+Random window 60: [1587s, 1597s]
+     -> No SW detected
+Random window 61: [969s, 979s]
+     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
+Random window 62: [1685s, 1695s]
+     -> No SW detected
+Random window 63: [1034s, 1044s]
+     -> No SW detected
+Random window 64: [2076s, 2086s]
+     -> No SW detected
+Random window 65: [1144s, 1154s]
+     -> No SW detected
+ 
+*********************************************************************************************************
+For a total of 65 operant actions,
+ - 33 operant actions show at least one BP.
+ - 27 operant actions show at least one P3.
+ - 14 of the 65 random windows show at least one SW (which is neither BP or P3).
+*********************************************************************************************************
+ 
+>> find_BP_P300_randSW_new(SA15_12_07_2013_0004_Ch11.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
+ 
+OA1: [34.3872s, 37.3873s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA2: [45.167s, 51.167s];  duration: 6.0001s
+     -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
+     -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
+ 
+OA3: [66.2364s, 72.2364s];  duration: 6s
+     -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
+                        -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
+     -> No P3 detected
+ 
+OA4: [75.0562s, 78.0563s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA5: [79.7461s, 85.7461s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA6: [90.2657s, 96.2658s];  duration: 6s
+     -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
+                        -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
+                        -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
+     -> No P3 detected
+ 
+OA7: [104.0554s, 110.0554s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA8: [113.8952s, 119.8952s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA9: [136.6743s, 142.6743s];  duration: 6s
+     -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
+     -> No P3 detected
+ 
+OA10: [159.4237s, 165.4237s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
+ 
+OA11: [206.2825s, 212.2825s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA12: [263.3702s, 269.3698s];  duration: 5.9997s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA13: [306.4487s, 312.4487s];  duration: 6s
+     -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
+     -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
+ 
+OA14: [317.8884s, 320.8885s];  duration: 3.0001s
+     -> No BP detected
+     -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+ 
+OA15: [325.1782s, 328.1783s];  duration: 3.0001s
+     -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+     -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
+ 
+OA16: [350.2075s, 356.2075s];  duration: 6s
+     -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
+     -> No P3 detected
+ 
+OA17: [433.5854s, 439.5855s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
+ 
+OA18: [456.4449s, 462.4449s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
+                        -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
+ 
+OA19: [473.5944s, 476.5945s];  duration: 3.0001s
+     -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
+     -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
+ 
+OA20: [496.6538s, 502.6539s];  duration: 6.0001s
+     -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
+     -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
+ 
+OA21: [509.9035s, 515.9036s];  duration: 6s
+     -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
+                        -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
+     -> No P3 detected
+ 
+OA22: [556.4819s, 562.4819s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA23: [658.3889s, 664.3889s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA24: [710.8876s, 716.8875s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
+ 
+OA25: [735.237s, 741.237s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA26: [777.0458s, 783.0459s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
+ 
+OA27: [809.695s, 812.6951s];  duration: 3s
+     -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
+     -> No P3 detected
+ 
+OA28: [847.2341s, 853.2341s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
+ 
+OA29: [889.353s, 895.353s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA30: [927.2016s, 933.2016s];  duration: 6.0001s
+     -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
+     -> No P3 detected
+ 
+OA31: [937.6413s, 943.6413s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA32: [953.0609s, 959.0609s];  duration: 6s
+     -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
+                        -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
+                        -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
+                        -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
+     -> No P3 detected
+ 
+OA33: [1007.4995s, 1013.4995s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA34: [1078.207s, 1084.207s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA35: [1168.0746s, 1174.0746s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA36: [1203.2337s, 1209.2337s];  duration: 6s
+     -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
+     -> No P3 detected
+ 
+OA37: [1259.4822s, 1265.4822s];  duration: 6s
+     -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
+     -> No P3 detected
+ 
+OA38: [1287.3115s, 1293.3116s];  duration: 6.0001s
+     -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
+     -> No P3 detected
+ 
+OA39: [1317.9308s, 1323.9307s];  duration: 5.9999s
+     -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
+                        -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
+                        -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
+     -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
+ 
+OA40: [1336.6402s, 1339.6403s];  duration: 3.0001s
+     -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
+                        -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
+                        -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
+     -> No P3 detected
+ 
+OA41: [1352.3398s, 1358.3399s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA42: [1374.8492s, 1377.8494s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
+                        -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
+ 
+OA43: [1383.1991s, 1389.1991s];  duration: 6s
+     -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
+     -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
+ 
+OA44: [1446.4674s, 1452.4675s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA45: [1465.9169s, 1468.917s];  duration: 3.0001s
+     -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
+     -> No P3 detected
+ 
+OA46: [1505.2459s, 1511.246s];  duration: 6.0001s
+     -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
+     -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
+ 
+OA47: [1551.6547s, 1557.6548s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA48: [1578.874s, 1584.874s];  duration: 6s
+     -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
+                        -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
+     -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
+                        -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
+ 
+OA49: [1609.6332s, 1615.6332s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
+ 
+OA50: [1736.64s, 1742.64s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA51: [1773.159s, 1779.1592s];  duration: 6.0001s
+     -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
+     -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
+                        -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
+                        -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
+ 
+OA52: [1801.5519s, 1807.552s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
+ 
+OA53: [1832.1311s, 1838.1312s];  duration: 6s
+     -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
+                        -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
+     -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
+ 
+OA54: [1855.0606s, 1861.0606s];  duration: 6s
+     -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
+     -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
+ 
+OA55: [1904.0093s, 1910.0092s];  duration: 5.9999s
+     -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
+     -> No P3 detected
+ 
+OA56: [1936.1884s, 1942.1886s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
+ 
+OA57: [1957.3979s, 1960.398s];  duration: 3.0001s
+     -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
+     -> No P3 detected
+ 
+OA58: [1974.3975s, 1980.3975s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA59: [2124.8236s, 2130.8237s];  duration: 6.0001s
+     -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
+     -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
+ 
+OA60: [2146.1131s, 2152.1131s];  duration: 6s
+     -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
+     -> No P3 detected
+ 
+OA61: [2171.3724s, 2177.3723s];  duration: 5.9999s
+     -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
+     -> No P3 detected
+ 
+OA62: [2212.6813s, 2218.6814s];  duration: 6.0001s
+     -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
+                        -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
+     -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
+ 
+OA63: [2336.1977s, 2342.1977s];  duration: 6.0001s
+     -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
+                        -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
+                        -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
+     -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
+ 
+OA64: [2466.8844s, 2472.8844s];  duration: 6s
+     -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
+                        -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
+     -> No P3 detected
+ 
+OA65: [2475.7741s, 2478.7743s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
+ 
+*********************************************************************************************************
+ 
+Random window 1: [1416s, 1426s]
+     -> No SW detected
+Random window 2: [1999s, 2009s]
+     -> No SW detected
+Random window 3: [2492s, 2502s]
+     -> No SW detected
+Random window 4: [975s, 985s]
+     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
+Random window 5: [2262s, 2272s]
+     -> No SW detected
+Random window 6: [2044s, 2054s]
+     -> No SW detected
+Random window 7: [2429s, 2439s]
+     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
+Random window 8: [178s, 188s]
+     -> Random SW:      -25.4412 microV at 180.707s;    23.5292 microV at 180.8527s
+Random window 9: [1035s, 1045s]
+     -> No SW detected
+Random window 10: [1785s, 1795s]
+     -> No SW detected
+Random window 11: [816s, 826s]
+     -> No SW detected
+Random window 12: [667s, 677s]
+     -> Random SW:      -42.0818 microV at 667.4393s;    8.6357 microV at 667.7387s
+Random window 13: [2006s, 2016s]
+     -> No SW detected
+Random window 14: [1693s, 1703s]
+     -> No SW detected
+Random window 15: [1647s, 1657s]
+     -> No SW detected
+Random window 16: [1814s, 1824s]
+     -> No SW detected
+Random window 17: [226s, 236s]
+     -> Random SW:      -30.96 microV at 230.6899s;    15.2348 microV at 231.0057s
+Random window 18: [1023s, 1033s]
      -> No SW detected
 Random window 19: [1220s, 1230s]
      -> No SW detected
-Random window 20: [1917s, 1927s]
-     -> Random SW:      -62.4926 microV at 1926.7652s;    20.6247 microV at 1927.0479s
-Random window 21: [2067s, 2077s]
+Random window 20: [679s, 689s]
      -> No SW detected
-Random window 22: [1592s, 1602s]
+Random window 21: [2034s, 2044s]
      -> No SW detected
-Random window 23: [412s, 422s]
+Random window 22: [2298s, 2308s]
+     -> Random SW:      -21.5354 microV at 2301.1663s;    23.4832 microV at 2301.284s
+Random window 23: [791s, 801s]
      -> No SW detected
-Random window 24: [1755s, 1765s]
+Random window 24: [2059s, 2069s]
      -> No SW detected
-Random window 25: [568s, 578s]
-     -> Random SW:      -45.7791 microV at 568.1908s;    46.9066 microV at 568.4302s
-                        -24.0961 microV at 569.1141s;    28.8301 microV at 569.5775s
-Random window 26: [585s, 595s]
+Random window 25: [412s, 422s]
      -> No SW detected
-Random window 27: [387s, 397s]
-     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
-Random window 28: [612s, 622s]
-     -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
-Random window 29: [668s, 678s]
+Random window 26: [2272s, 2282s]
      -> No SW detected
-Random window 30: [746s, 756s]
+Random window 27: [517s, 527s]
      -> No SW detected
-Random window 31: [1055s, 1065s]
+Random window 28: [1638s, 1648s]
+     -> Random SW:      -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
+Random window 29: [1061s, 1071s]
      -> No SW detected
-Random window 32: [1061s, 1071s]
+Random window 30: [2227s, 2237s]
      -> No SW detected
-Random window 33: [822s, 832s]
-     -> No SW detected
-Random window 34: [965s, 975s]
-     -> No SW detected
-Random window 35: [2398s, 2408s]
-     -> No SW detected
-Random window 36: [2077s, 2087s]
-     -> No SW detected
-Random window 37: [1671s, 1681s]
-     -> No SW detected
-Random window 38: [677s, 687s]
-     -> No SW detected
-Random window 39: [792s, 802s]
-     -> No SW detected
-Random window 40: [283s, 293s]
-     -> No SW detected
-Random window 41: [2422s, 2432s]
-     -> No SW detected
-Random window 42: [2085s, 2095s]
-     -> No SW detected
-Random window 43: [1677s, 1687s]
-     -> No SW detected
-Random window 44: [1092s, 1102s]
-     -> No SW detected
-Random window 45: [632s, 642s]
-     -> No SW detected
-Random window 46: [1989s, 1999s]
-     -> No SW detected
-Random window 47: [2516s, 2526s]
-     -> No SW detected
-Random window 48: [641s, 651s]
-     -> No SW detected
-Random window 49: [1016s, 1026s]
-     -> No SW detected
-Random window 50: [1398s, 1408s]
-     -> No SW detected
-Random window 51: [273s, 283s]
-     -> Random SW:      -30.4862 microV at 273.1714s;    14.0898 microV at 273.5218s
-Random window 52: [2054s, 2064s]
-     -> No SW detected
-Random window 53: [1420s, 1430s]
-     -> No SW detected
-Random window 54: [2502s, 2512s]
-     -> No SW detected
-Random window 55: [1301s, 1311s]
+Random window 31: [1406s, 1416s]
+     -> Random SW:      -24.8223 microV at 1413.1293s;    19.3748 microV at 1413.2703s
+Random window 32: [1299s, 1309s]
      -> Random SW:      -33.6033 microV at 1304.3441s;    29.61 microV at 1304.4145s
                         -45.9985 microV at 1306.8479s;    15.1989 microV at 1307.4264s
-                        -70.0182 microV at 1310.3028s;    58.8034 microV at 1311.4984s
-Random window 56: [1883s, 1893s]
+Random window 33: [2354s, 2364s]
      -> No SW detected
-Random window 57: [603s, 613s]
+Random window 34: [988s, 998s]
      -> No SW detected
-Random window 58: [1228s, 1238s]
+Random window 35: [1179s, 1189s]
      -> No SW detected
-Random window 59: [626s, 636s]
+Random window 36: [2450s, 2460s]
      -> No SW detected
-Random window 60: [2263s, 2273s]
+Random window 37: [190s, 200s]
+     -> Random SW:      -40.6718 microV at 198.8555s;    15.2348 microV at 199.0061s
+Random window 38: [2501s, 2511s]
      -> No SW detected
-Random window 61: [2364s, 2374s]
+Random window 39: [584s, 594s]
      -> No SW detected
-Random window 62: [1136s, 1146s]
+Random window 40: [1862s, 1872s]
+     -> Random SW:      -30.4242 microV at 1869.0965s;    23.2885 microV at 1869.4083s
+                        -32.9927 microV at 1870.0378s;    25.4797 microV at 1870.4421s
+Random window 41: [1630s, 1640s]
+     -> Random SW:      -61.1011 microV at 1636.1218s;    15.2558 microV at 1636.822s
+Random window 42: [1873s, 1883s]
      -> No SW detected
-Random window 63: [2042s, 2052s]
+Random window 43: [1016s, 1026s]
      -> No SW detected
-Random window 64: [1035s, 1045s]
+Random window 44: [1679s, 1689s]
      -> No SW detected
-Random window 65: [1651s, 1661s]
+Random window 45: [2219s, 2229s]
+     -> Random SW:      -108.1337 microV at 2225.5151s;    24.9108 microV at 2225.729s
+Random window 46: [12s, 22s]
      -> No SW detected
-Random window 66: [2314s, 2324s]
+Random window 47: [357s, 367s]
+     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
+Random window 48: [2485s, 2495s]
      -> No SW detected
-Random window 67: [1719s, 1729s]
+Random window 49: [1743s, 1753s]
+     -> Random SW:      -98.9147 microV at 1749.0142s;    35.7713 microV at 1749.2845s
+                        -22.1676 microV at 1749.3867s;    28.8145 microV at 1749.6906s
+                        -31.7419 microV at 1749.8766s;    23.7931 microV at 1750.0419s
+Random window 50: [631s, 641s]
      -> No SW detected
-Random window 68: [1116s, 1126s]
+Random window 51: [1113s, 1123s]
      -> No SW detected
-Random window 69: [1023s, 1033s]
+Random window 52: [391s, 401s]
+     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
+Random window 53: [760s, 770s]
      -> No SW detected
-Random window 70: [1525s, 1535s]
+Random window 54: [750s, 760s]
      -> No SW detected
-Random window 71: [1481s, 1491s]
+Random window 55: [1029s, 1039s]
+     -> No SW detected
+Random window 56: [536s, 546s]
+     -> No SW detected
+Random window 57: [1089s, 1099s]
+     -> No SW detected
+Random window 58: [384s, 394s]
+     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
+Random window 59: [2366s, 2376s]
+     -> No SW detected
+Random window 60: [334s, 344s]
+     -> No SW detected
+Random window 61: [2401s, 2411s]
+     -> No SW detected
+Random window 62: [1142s, 1152s]
+     -> No SW detected
+Random window 63: [235s, 245s]
+     -> No SW detected
+Random window 64: [1053s, 1063s]
+     -> No SW detected
+Random window 65: [2079s, 2089s]
      -> No SW detected
  
 *********************************************************************************************************
-For a total of 71 operant actions,
- - 34 operant actions show at least one BP.
- - 28 operant actions show at least one P3.
- - 12 of the 71 random windows show at least one SW (which is neither BP or P3).
+For a total of 65 operant actions,
+ - 33 operant actions show at least one BP.
+ - 27 operant actions show at least one P3.
+ - 17 of the 65 random windows show at least one SW (which is neither BP or P3).
 *********************************************************************************************************
  
->> 
-
->> find_BP_P300_randSW(ttl.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
+>> find_BP_P300_randSW_new(SA15_12_07_2013_0004_Ch11.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
  
-OA1 occurs at 34.3872s
+OA1: [34.3872s, 37.3873s];  duration: 3.0001s
      -> No BP detected
      -> No P3 detected
  
-OA2 occurs at 45.167s
+OA2: [45.167s, 51.167s];  duration: 6.0001s
      -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
      -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
  
-OA3 occurs at 66.2364s
+OA3: [66.2364s, 72.2364s];  duration: 6s
      -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
                         -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
      -> No P3 detected
  
-OA4 occurs at 75.0562s
+OA4: [75.0562s, 78.0563s];  duration: 3.0001s
      -> No BP detected
      -> No P3 detected
  
-OA5 occurs at 79.7461s
+OA5: [79.7461s, 85.7461s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA6 occurs at 90.2657s
+OA6: [90.2657s, 96.2658s];  duration: 6s
      -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
                         -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
                         -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
      -> No P3 detected
  
-OA7 occurs at 104.0554s
+OA7: [104.0554s, 110.0554s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA8 occurs at 113.8952s
+OA8: [113.8952s, 119.8952s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA9 occurs at 136.6743s
+OA9: [136.6743s, 142.6743s];  duration: 6s
      -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
      -> No P3 detected
  
-OA10 occurs at 159.4237s
+OA10: [159.4237s, 165.4237s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
  
-OA11 occurs at 206.2825s
+OA11: [206.2825s, 212.2825s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA12 occurs at 263.3702s
+OA12: [263.3702s, 269.3698s];  duration: 5.9997s
      -> No BP detected
      -> No P3 detected
  
-OA13 occurs at 306.4487s
+OA13: [306.4487s, 312.4487s];  duration: 6s
      -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
      -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
  
-OA14 occurs at 317.8884s
+OA14: [317.8884s, 320.8885s];  duration: 3.0001s
      -> No BP detected
      -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
  
-OA15 occurs at 325.1782s
+OA15: [325.1782s, 328.1783s];  duration: 3.0001s
      -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
      -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
  
-OA16 occurs at 350.2075s
+OA16: [350.2075s, 356.2075s];  duration: 6s
      -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
      -> No P3 detected
  
-OA17 occurs at 433.5854s
+OA17: [433.5854s, 439.5855s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
  
-OA18 occurs at 456.4449s
+OA18: [456.4449s, 462.4449s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
                         -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
  
-OA19 occurs at 473.5944s
+OA19: [473.5944s, 476.5945s];  duration: 3.0001s
      -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
      -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
  
-OA20 occurs at 496.6538s
+OA20: [496.6538s, 502.6539s];  duration: 6.0001s
      -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
      -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
  
-OA21 occurs at 509.9035s
+OA21: [509.9035s, 515.9036s];  duration: 6s
      -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
                         -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
      -> No P3 detected
  
-OA22 occurs at 518.0125s
+OA22: [556.4819s, 562.4819s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA23 occurs at 556.4819s
+OA23: [658.3889s, 664.3889s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA24 occurs at 658.3889s
-     -> No BP detected
-     -> No P3 detected
- 
-OA25 occurs at 710.8876s
+OA24: [710.8876s, 716.8875s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
  
-OA26 occurs at 735.237s
+OA25: [735.237s, 741.237s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA27 occurs at 777.0458s
+OA26: [777.0458s, 783.0459s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
  
-OA28 occurs at 809.695s
+OA27: [809.695s, 812.6951s];  duration: 3s
      -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
      -> No P3 detected
  
-OA29 occurs at 847.2341s
+OA28: [847.2341s, 853.2341s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
  
-OA30 occurs at 877.0683s
+OA29: [889.353s, 895.353s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA31 occurs at 889.353s
-     -> No BP detected
-     -> No P3 detected
- 
-OA32 occurs at 927.2016s
+OA30: [927.2016s, 933.2016s];  duration: 6.0001s
      -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
      -> No P3 detected
  
-OA33 occurs at 937.6413s
+OA31: [937.6413s, 943.6413s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA34 occurs at 953.0609s
+OA32: [953.0609s, 959.0609s];  duration: 6s
      -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
                         -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
                         -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
                         -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
      -> No P3 detected
  
-OA35 occurs at 1007.4995s
+OA33: [1007.4995s, 1013.4995s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA36 occurs at 1078.207s
+OA34: [1078.207s, 1084.207s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA37 occurs at 1168.0746s
+OA35: [1168.0746s, 1174.0746s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA38 occurs at 1203.2337s
+OA36: [1203.2337s, 1209.2337s];  duration: 6s
      -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
      -> No P3 detected
  
-OA39 occurs at 1251.5028s
-     -> Possible BP:    -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
-     -> No P3 detected
- 
-OA40 occurs at 1253.9628s
-     -> No BP detected
-     -> No P3 detected
- 
-OA41 occurs at 1259.4822s
+OA37: [1259.4822s, 1265.4822s];  duration: 6s
      -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
      -> No P3 detected
  
-OA42 occurs at 1287.3115s
+OA38: [1287.3115s, 1293.3116s];  duration: 6.0001s
      -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
      -> No P3 detected
  
-OA43 occurs at 1317.9308s
+OA39: [1317.9308s, 1323.9307s];  duration: 5.9999s
      -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
                         -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
                         -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
      -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
  
-OA44 occurs at 1336.6402s
+OA40: [1336.6402s, 1339.6403s];  duration: 3.0001s
      -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
                         -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
                         -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
      -> No P3 detected
  
-OA45 occurs at 1352.3398s
+OA41: [1352.3398s, 1358.3399s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA46 occurs at 1374.8492s
+OA42: [1374.8492s, 1377.8494s];  duration: 3.0002s
      -> No BP detected
      -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
                         -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
  
-OA47 occurs at 1383.1991s
+OA43: [1383.1991s, 1389.1991s];  duration: 6s
      -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
      -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
  
-OA48 occurs at 1446.4674s
+OA44: [1446.4674s, 1452.4675s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA49 occurs at 1465.9169s
+OA45: [1465.9169s, 1468.917s];  duration: 3.0001s
      -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
      -> No P3 detected
  
-OA50 occurs at 1505.2459s
+OA46: [1505.2459s, 1511.246s];  duration: 6.0001s
      -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
      -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
  
-OA51 occurs at 1551.6547s
+OA47: [1551.6547s, 1557.6548s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA52 occurs at 1578.874s
+OA48: [1578.874s, 1584.874s];  duration: 6s
      -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
                         -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
      -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
                         -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
  
-OA53 occurs at 1609.6332s
+OA49: [1609.6332s, 1615.6332s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
  
-OA54 occurs at 1736.64s
+OA50: [1736.64s, 1742.64s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA55 occurs at 1773.159s
+OA51: [1773.159s, 1779.1592s];  duration: 6.0001s
      -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
      -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
                         -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
                         -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
  
-OA56 occurs at 1801.5519s
+OA52: [1801.5519s, 1807.552s];  duration: 6.0001s
      -> No BP detected
      -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
  
-OA57 occurs at 1832.1311s
+OA53: [1832.1311s, 1838.1312s];  duration: 6s
      -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
                         -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
      -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
  
-OA58 occurs at 1855.0606s
+OA54: [1855.0606s, 1861.0606s];  duration: 6s
      -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
      -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
  
-OA59 occurs at 1875.5895s
-     -> No BP detected
-     -> No P3 detected
- 
-OA60 occurs at 1904.0093s
+OA55: [1904.0093s, 1910.0092s];  duration: 5.9999s
      -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
      -> No P3 detected
  
-OA61 occurs at 1936.1884s
+OA56: [1936.1884s, 1942.1886s];  duration: 6.0001s
      -> No BP detected
      -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
  
-OA62 occurs at 1954.6886s
-     -> No BP detected
-     -> Possible P3:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
- 
-OA63 occurs at 1957.3979s
+OA57: [1957.3979s, 1960.398s];  duration: 3.0001s
      -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
      -> No P3 detected
  
-OA64 occurs at 1974.3975s
+OA58: [1974.3975s, 1980.3975s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA65 occurs at 2124.8236s
+OA59: [2124.8236s, 2130.8237s];  duration: 6.0001s
      -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
      -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
  
-OA66 occurs at 2146.1131s
+OA60: [2146.1131s, 2152.1131s];  duration: 6s
      -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
      -> No P3 detected
  
-OA67 occurs at 2171.3724s
+OA61: [2171.3724s, 2177.3723s];  duration: 5.9999s
      -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
      -> No P3 detected
  
-OA68 occurs at 2212.6813s
+OA62: [2212.6813s, 2218.6814s];  duration: 6.0001s
      -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
                         -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
      -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
  
-OA69 occurs at 2336.1977s
+OA63: [2336.1977s, 2342.1977s];  duration: 6.0001s
      -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
                         -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
                         -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
      -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
  
-OA70 occurs at 2466.8844s
+OA64: [2466.8844s, 2472.8844s];  duration: 6s
      -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
                         -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
      -> No P3 detected
  
-OA71 occurs at 2475.7741s
+OA65: [2475.7741s, 2478.7743s];  duration: 3.0002s
      -> No BP detected
      -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
  
+*********************************************************************************************************
  
-Random window 1: [2435s, 2445s]
+Random window 1: [2189s, 2199s]
      -> No SW detected
-Random window 2: [1216s, 1226s]
+Random window 2: [1562s, 1572s]
      -> No SW detected
-Random window 3: [234s, 244s]
-     -> No SW detected
-Random window 4: [2303s, 2313s]
-     -> No SW detected
-Random window 5: [1714s, 1724s]
-     -> No SW detected
-Random window 6: [1038s, 1048s]
-     -> No SW detected
-Random window 7: [2523s, 2533s]
-     -> No SW detected
-Random window 8: [665s, 675s]
-     -> Random SW:      -42.0818 microV at 667.4393s;    8.6357 microV at 667.7387s
-Random window 9: [1809s, 1819s]
-     -> Random SW:      -23.1237 microV at 1810.9324s;    19.0273 microV at 1811.4977s
-Random window 10: [1674s, 1684s]
-     -> No SW detected
-Random window 11: [1097s, 1107s]
-     -> No SW detected
-Random window 12: [417s, 427s]
-     -> No SW detected
-Random window 13: [168s, 178s]
-     -> No SW detected
-Random window 14: [1150s, 1160s]
-     -> No SW detected
-Random window 15: [601s, 611s]
-     -> No SW detected
-Random window 16: [2056s, 2066s]
-     -> No SW detected
-Random window 17: [1061s, 1071s]
-     -> No SW detected
-Random window 18: [2273s, 2283s]
-     -> No SW detected
-Random window 19: [2062s, 2072s]
-     -> No SW detected
-Random window 20: [1635s, 1645s]
-     -> Random SW:      -61.1011 microV at 1636.1218s;    15.2558 microV at 1636.822s
-                        -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
-Random window 21: [583s, 593s]
-     -> No SW detected
-Random window 22: [2442s, 2452s]
-     -> No SW detected
-Random window 23: [786s, 796s]
-     -> No SW detected
-Random window 24: [2392s, 2402s]
-     -> No SW detected
-Random window 25: [673s, 683s]
-     -> No SW detected
-Random window 26: [1090s, 1100s]
-     -> No SW detected
-Random window 27: [289s, 299s]
-     -> No SW detected
-Random window 28: [1780s, 1790s]
-     -> Random SW:      -110.8646 microV at 1780.5279s;    11.9573 microV at 1780.9861s
-Random window 29: [593s, 603s]
-     -> No SW detected
-Random window 30: [214s, 224s]
-     -> No SW detected
-Random window 31: [2042s, 2052s]
-     -> No SW detected
-Random window 32: [1030s, 1040s]
-     -> No SW detected
-Random window 33: [1918s, 1928s]
+Random window 3: [1918s, 1928s]
      -> Random SW:      -62.4926 microV at 1926.7652s;    20.6247 microV at 1927.0479s
-Random window 34: [1124s, 1134s]
+Random window 4: [2362s, 2372s]
      -> No SW detected
-Random window 35: [1720s, 1730s]
+Random window 5: [230s, 240s]
+     -> Random SW:      -30.96 microV at 230.6899s;    15.2348 microV at 231.0057s
+Random window 6: [904s, 914s]
      -> No SW detected
+Random window 7: [218s, 228s]
+     -> No SW detected
+Random window 8: [623s, 633s]
+     -> No SW detected
+Random window 9: [2028s, 2038s]
+     -> No SW detected
+Random window 10: [2022s, 2032s]
+     -> No SW detected
+Random window 11: [2318s, 2328s]
+     -> No SW detected
+Random window 12: [1648s, 1658s]
+     -> No SW detected
+Random window 13: [288s, 298s]
+     -> No SW detected
+Random window 14: [2406s, 2416s]
+     -> No SW detected
+Random window 15: [2182s, 2192s]
+     -> No SW detected
+Random window 16: [863s, 873s]
+     -> No SW detected
+Random window 17: [1525s, 1535s]
+     -> No SW detected
+Random window 18: [2509s, 2519s]
+     -> No SW detected
+Random window 19: [1996s, 2006s]
+     -> No SW detected
+Random window 20: [2256s, 2266s]
+     -> No SW detected
+Random window 21: [1143s, 1153s]
+     -> No SW detected
+Random window 22: [1233s, 1243s]
+     -> No SW detected
+Random window 23: [1589s, 1599s]
+     -> No SW detected
+Random window 24: [755s, 765s]
+     -> No SW detected
+Random window 25: [2055s, 2065s]
+     -> No SW detected
+Random window 26: [1402s, 1412s]
+     -> No SW detected
+Random window 27: [1717s, 1727s]
+     -> No SW detected
+Random window 28: [871s, 881s]
+     -> No SW detected
+Random window 29: [416s, 426s]
+     -> No SW detected
+Random window 30: [1226s, 1236s]
+     -> No SW detected
+Random window 31: [1034s, 1044s]
+     -> No SW detected
+Random window 32: [2153s, 2163s]
+     -> Random SW:      -21.6863 microV at 2157.887s;    21.7768 microV at 2158.1138s
+Random window 33: [2099s, 2109s]
+     -> No SW detected
+Random window 34: [1809s, 1819s]
+     -> Random SW:      -23.1237 microV at 1810.9324s;    19.0273 microV at 1811.4977s
+Random window 35: [405s, 415s]
+     -> Random SW:      -51.2047 microV at 410.5161s;    21.3591 microV at 410.7344s
 Random window 36: [15s, 25s]
      -> No SW detected
-Random window 37: [2375s, 2385s]
-     -> No SW detected
-Random window 38: [2222s, 2232s]
-     -> Random SW:      -108.1337 microV at 2225.5151s;    24.9108 microV at 2225.729s
-Random window 39: [2078s, 2088s]
-     -> No SW detected
-Random window 40: [2237s, 2247s]
-     -> No SW detected
-Random window 41: [1108s, 1118s]
-     -> No SW detected
-Random window 42: [1681s, 1691s]
-     -> No SW detected
-Random window 43: [1619s, 1629s]
+Random window 37: [1623s, 1633s]
      -> Random SW:      -55.0205 microV at 1626.0047s;    20.6959 microV at 1626.5665s
                         -30.3206 microV at 1626.8465s;    15.5868 microV at 1627.113s
-Random window 44: [1488s, 1498s]
+Random window 38: [855s, 865s]
      -> No SW detected
-Random window 45: [761s, 771s]
+Random window 39: [2428s, 2438s]
+     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
+Random window 40: [2498s, 2508s]
      -> No SW detected
-Random window 46: [693s, 703s]
+Random window 41: [790s, 800s]
      -> No SW detected
-Random window 47: [1297s, 1307s]
-     -> Random SW:      -39.4731 microV at 1298.1407s;    22.8209 microV at 1298.2342s
-                        -33.6033 microV at 1304.3441s;    29.61 microV at 1304.4145s
-                        -45.9985 microV at 1306.8479s;    15.1989 microV at 1307.4264s
-Random window 48: [637s, 647s]
+Random window 42: [2221s, 2231s]
+     -> Random SW:      -108.1337 microV at 2225.5151s;    24.9108 microV at 2225.729s
+Random window 43: [2348s, 2358s]
+     -> Random SW:      -30.5035 microV at 2352.5291s;    18.7094 microV at 2353.0082s
+Random window 44: [1655s, 1665s]
      -> No SW detected
-Random window 49: [2245s, 2255s]
+Random window 45: [2299s, 2309s]
+     -> Random SW:      -21.5354 microV at 2301.1663s;    23.4832 microV at 2301.284s
+Random window 46: [2414s, 2424s]
+     -> No SW detected
+Random window 47: [1422s, 1432s]
+     -> No SW detected
+Random window 48: [1886s, 1896s]
+     -> No SW detected
+Random window 49: [1487s, 1497s]
+     -> No SW detected
+Random window 50: [170s, 180s]
+     -> No SW detected
+Random window 51: [1113s, 1123s]
+     -> No SW detected
+Random window 52: [1696s, 1706s]
+     -> No SW detected
+Random window 53: [1268s, 1278s]
+     -> Random SW:      -34.03 microV at 1268.7874s;    26.5946 microV at 1269.3245s
+Random window 54: [987s, 997s]
+     -> No SW detected
+Random window 55: [2394s, 2404s]
+     -> No SW detected
+Random window 56: [2228s, 2238s]
+     -> No SW detected
+Random window 57: [2244s, 2254s]
      -> Random SW:      -87.7508 microV at 2248.7802s;    9.9643 microV at 2249.0376s
                         -57.6787 microV at 2249.3349s;    31.5737 microV at 2250.1339s
-Random window 50: [2506s, 2516s]
+Random window 58: [973s, 983s]
+     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
+Random window 59: [1532s, 1542s]
      -> No SW detected
-Random window 51: [181s, 191s]
+Random window 60: [2276s, 2286s]
      -> No SW detected
-Random window 52: [1528s, 1538s]
+Random window 61: [2384s, 2394s]
      -> No SW detected
-Random window 53: [366s, 376s]
+Random window 62: [1684s, 1694s]
      -> No SW detected
-Random window 54: [2192s, 2202s]
+Random window 63: [576s, 586s]
      -> No SW detected
-Random window 55: [2498s, 2508s]
+Random window 64: [1670s, 1680s]
      -> No SW detected
-Random window 56: [279s, 289s]
-     -> No SW detected
-Random window 57: [2405s, 2415s]
-     -> No SW detected
-Random window 58: [8s, 18s]
-     -> No SW detected
-Random window 59: [1984s, 1994s]
-     -> Random SW:      -46.3345 microV at 1987.5805s;    12.2786 microV at 1987.7621s
-Random window 60: [2095s, 2105s]
-     -> No SW detected
-Random window 61: [1478s, 1488s]
-     -> No SW detected
-Random window 62: [2317s, 2327s]
-     -> No SW detected
-Random window 63: [2349s, 2359s]
-     -> Random SW:      -30.5035 microV at 2352.5291s;    18.7094 microV at 2353.0082s
-Random window 64: [1659s, 1669s]
-     -> No SW detected
-Random window 65: [528s, 538s]
-     -> No SW detected
-Random window 66: [685s, 695s]
-     -> No SW detected
-Random window 67: [613s, 623s]
-     -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
-Random window 68: [241s, 251s]
-     -> No SW detected
-Random window 69: [400s, 410s]
-     -> No SW detected
-Random window 70: [1692s, 1702s]
-     -> No SW detected
-Random window 71: [2414s, 2424s]
-     -> No SW detected
+Random window 65: [273s, 283s]
+     -> Random SW:      -30.4862 microV at 273.1714s;    14.0898 microV at 273.5218s
  
 *********************************************************************************************************
-For a total of 71 operant actions,
- - 34 operant actions show at least one BP.
- - 28 operant actions show at least one P3.
- - 12 of the 71 random windows show at least one SW (which is neither BP or P3).
+For a total of 65 operant actions,
+ - 33 operant actions show at least one BP.
+ - 27 operant actions show at least one P3.
+ - 14 of the 65 random windows show at least one SW (which is neither BP or P3).
 *********************************************************************************************************
  
->> 
-
->> find_BP_P300_randSW(ttl.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
+>> find_BP_P300_randSW_new(SA15_12_07_2013_0004_Ch11.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
  
-OA1 occurs at 34.3872s
+OA1: [34.3872s, 37.3873s];  duration: 3.0001s
      -> No BP detected
      -> No P3 detected
  
-OA2 occurs at 45.167s
+OA2: [45.167s, 51.167s];  duration: 6.0001s
      -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
      -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
  
-OA3 occurs at 66.2364s
+OA3: [66.2364s, 72.2364s];  duration: 6s
      -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
                         -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
      -> No P3 detected
  
-OA4 occurs at 75.0562s
+OA4: [75.0562s, 78.0563s];  duration: 3.0001s
      -> No BP detected
      -> No P3 detected
  
-OA5 occurs at 79.7461s
+OA5: [79.7461s, 85.7461s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA6 occurs at 90.2657s
+OA6: [90.2657s, 96.2658s];  duration: 6s
      -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
                         -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
                         -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
      -> No P3 detected
  
-OA7 occurs at 104.0554s
+OA7: [104.0554s, 110.0554s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA8 occurs at 113.8952s
+OA8: [113.8952s, 119.8952s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA9 occurs at 136.6743s
+OA9: [136.6743s, 142.6743s];  duration: 6s
      -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
      -> No P3 detected
  
-OA10 occurs at 159.4237s
+OA10: [159.4237s, 165.4237s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
  
-OA11 occurs at 206.2825s
+OA11: [206.2825s, 212.2825s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA12 occurs at 263.3702s
+OA12: [263.3702s, 269.3698s];  duration: 5.9997s
      -> No BP detected
      -> No P3 detected
  
-OA13 occurs at 306.4487s
+OA13: [306.4487s, 312.4487s];  duration: 6s
      -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
      -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
  
-OA14 occurs at 317.8884s
+OA14: [317.8884s, 320.8885s];  duration: 3.0001s
      -> No BP detected
      -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
  
-OA15 occurs at 325.1782s
+OA15: [325.1782s, 328.1783s];  duration: 3.0001s
      -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
      -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
  
-OA16 occurs at 350.2075s
+OA16: [350.2075s, 356.2075s];  duration: 6s
      -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
      -> No P3 detected
  
-OA17 occurs at 433.5854s
+OA17: [433.5854s, 439.5855s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
  
-OA18 occurs at 456.4449s
+OA18: [456.4449s, 462.4449s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
                         -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
  
-OA19 occurs at 473.5944s
+OA19: [473.5944s, 476.5945s];  duration: 3.0001s
      -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
      -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
  
-OA20 occurs at 496.6538s
+OA20: [496.6538s, 502.6539s];  duration: 6.0001s
      -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
      -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
  
-OA21 occurs at 509.9035s
+OA21: [509.9035s, 515.9036s];  duration: 6s
      -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
                         -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
      -> No P3 detected
  
-OA22 occurs at 518.0125s
+OA22: [556.4819s, 562.4819s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA23 occurs at 556.4819s
+OA23: [658.3889s, 664.3889s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA24 occurs at 658.3889s
-     -> No BP detected
-     -> No P3 detected
- 
-OA25 occurs at 710.8876s
+OA24: [710.8876s, 716.8875s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
  
-OA26 occurs at 735.237s
+OA25: [735.237s, 741.237s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA27 occurs at 777.0458s
+OA26: [777.0458s, 783.0459s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
  
-OA28 occurs at 809.695s
+OA27: [809.695s, 812.6951s];  duration: 3s
      -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
      -> No P3 detected
  
-OA29 occurs at 847.2341s
+OA28: [847.2341s, 853.2341s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
  
-OA30 occurs at 877.0683s
+OA29: [889.353s, 895.353s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA31 occurs at 889.353s
-     -> No BP detected
-     -> No P3 detected
- 
-OA32 occurs at 927.2016s
+OA30: [927.2016s, 933.2016s];  duration: 6.0001s
      -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
      -> No P3 detected
  
-OA33 occurs at 937.6413s
+OA31: [937.6413s, 943.6413s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA34 occurs at 953.0609s
+OA32: [953.0609s, 959.0609s];  duration: 6s
      -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
                         -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
                         -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
                         -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
      -> No P3 detected
  
-OA35 occurs at 1007.4995s
+OA33: [1007.4995s, 1013.4995s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA36 occurs at 1078.207s
+OA34: [1078.207s, 1084.207s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA37 occurs at 1168.0746s
+OA35: [1168.0746s, 1174.0746s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA38 occurs at 1203.2337s
+OA36: [1203.2337s, 1209.2337s];  duration: 6s
      -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
      -> No P3 detected
  
-OA39 occurs at 1251.5028s
-     -> Possible BP:    -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
-     -> No P3 detected
- 
-OA40 occurs at 1253.9628s
-     -> No BP detected
-     -> No P3 detected
- 
-OA41 occurs at 1259.4822s
+OA37: [1259.4822s, 1265.4822s];  duration: 6s
      -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
      -> No P3 detected
  
-OA42 occurs at 1287.3115s
+OA38: [1287.3115s, 1293.3116s];  duration: 6.0001s
      -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
      -> No P3 detected
  
-OA43 occurs at 1317.9308s
+OA39: [1317.9308s, 1323.9307s];  duration: 5.9999s
      -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
                         -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
                         -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
      -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
  
-OA44 occurs at 1336.6402s
+OA40: [1336.6402s, 1339.6403s];  duration: 3.0001s
      -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
                         -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
                         -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
      -> No P3 detected
  
-OA45 occurs at 1352.3398s
+OA41: [1352.3398s, 1358.3399s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA46 occurs at 1374.8492s
+OA42: [1374.8492s, 1377.8494s];  duration: 3.0002s
      -> No BP detected
      -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
                         -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
  
-OA47 occurs at 1383.1991s
+OA43: [1383.1991s, 1389.1991s];  duration: 6s
      -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
      -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
  
-OA48 occurs at 1446.4674s
+OA44: [1446.4674s, 1452.4675s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA49 occurs at 1465.9169s
+OA45: [1465.9169s, 1468.917s];  duration: 3.0001s
      -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
      -> No P3 detected
  
-OA50 occurs at 1505.2459s
+OA46: [1505.2459s, 1511.246s];  duration: 6.0001s
      -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
      -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
  
-OA51 occurs at 1551.6547s
+OA47: [1551.6547s, 1557.6548s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA52 occurs at 1578.874s
+OA48: [1578.874s, 1584.874s];  duration: 6s
      -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
                         -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
      -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
                         -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
  
-OA53 occurs at 1609.6332s
+OA49: [1609.6332s, 1615.6332s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
  
-OA54 occurs at 1736.64s
+OA50: [1736.64s, 1742.64s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA55 occurs at 1773.159s
+OA51: [1773.159s, 1779.1592s];  duration: 6.0001s
      -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
      -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
                         -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
                         -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
  
-OA56 occurs at 1801.5519s
+OA52: [1801.5519s, 1807.552s];  duration: 6.0001s
      -> No BP detected
      -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
  
-OA57 occurs at 1832.1311s
+OA53: [1832.1311s, 1838.1312s];  duration: 6s
      -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
                         -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
      -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
  
-OA58 occurs at 1855.0606s
+OA54: [1855.0606s, 1861.0606s];  duration: 6s
      -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
      -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
  
-OA59 occurs at 1875.5895s
-     -> No BP detected
-     -> No P3 detected
- 
-OA60 occurs at 1904.0093s
+OA55: [1904.0093s, 1910.0092s];  duration: 5.9999s
      -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
      -> No P3 detected
  
-OA61 occurs at 1936.1884s
+OA56: [1936.1884s, 1942.1886s];  duration: 6.0001s
      -> No BP detected
      -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
  
-OA62 occurs at 1954.6886s
-     -> No BP detected
-     -> Possible P3:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
- 
-OA63 occurs at 1957.3979s
+OA57: [1957.3979s, 1960.398s];  duration: 3.0001s
      -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
      -> No P3 detected
  
-OA64 occurs at 1974.3975s
+OA58: [1974.3975s, 1980.3975s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA65 occurs at 2124.8236s
+OA59: [2124.8236s, 2130.8237s];  duration: 6.0001s
      -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
      -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
  
-OA66 occurs at 2146.1131s
+OA60: [2146.1131s, 2152.1131s];  duration: 6s
      -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
      -> No P3 detected
  
-OA67 occurs at 2171.3724s
+OA61: [2171.3724s, 2177.3723s];  duration: 5.9999s
      -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
      -> No P3 detected
  
-OA68 occurs at 2212.6813s
+OA62: [2212.6813s, 2218.6814s];  duration: 6.0001s
      -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
                         -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
      -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
  
-OA69 occurs at 2336.1977s
+OA63: [2336.1977s, 2342.1977s];  duration: 6.0001s
      -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
                         -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
                         -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
      -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
  
-OA70 occurs at 2466.8844s
+OA64: [2466.8844s, 2472.8844s];  duration: 6s
      -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
                         -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
      -> No P3 detected
  
-OA71 occurs at 2475.7741s
+OA65: [2475.7741s, 2478.7743s];  duration: 3.0002s
      -> No BP detected
      -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
  
+*********************************************************************************************************
  
-Random window 1: [1045s, 1055s]
+Random window 1: [1130s, 1140s]
      -> No SW detected
-Random window 2: [1143s, 1153s]
+Random window 2: [1881s, 1891s]
      -> No SW detected
-Random window 3: [2507s, 2517s]
+Random window 3: [2412s, 2422s]
      -> No SW detected
-Random window 4: [2419s, 2429s]
+Random window 4: [2227s, 2237s]
      -> No SW detected
-Random window 5: [1920s, 1930s]
-     -> Random SW:      -62.4926 microV at 1926.7652s;    20.6247 microV at 1927.0479s
-Random window 6: [2501s, 2511s]
+Random window 5: [1395s, 1405s]
      -> No SW detected
-Random window 7: [2084s, 2094s]
+Random window 6: [2066s, 2076s]
      -> No SW detected
-Random window 8: [979s, 989s]
+Random window 7: [1116s, 1126s]
      -> No SW detected
-Random window 9: [1784s, 1794s]
+Random window 8: [2492s, 2502s]
      -> No SW detected
-Random window 10: [675s, 685s]
+Random window 9: [2512s, 2522s]
      -> No SW detected
-Random window 11: [830s, 840s]
-     -> Random SW:      -32.9154 microV at 832.2995s;    9.44 microV at 832.6001s
-Random window 12: [1986s, 1996s]
-     -> Random SW:      -46.3345 microV at 1987.5805s;    12.2786 microV at 1987.7621s
-Random window 13: [1519s, 1529s]
+Random window 10: [2280s, 2290s]
      -> No SW detected
-Random window 14: [1126s, 1136s]
+Random window 11: [1043s, 1053s]
      -> No SW detected
-Random window 15: [1677s, 1687s]
+Random window 12: [1214s, 1224s]
      -> No SW detected
-Random window 16: [2076s, 2086s]
+Random window 13: [670s, 680s]
      -> No SW detected
-Random window 17: [1645s, 1655s]
+Random window 14: [2085s, 2095s]
      -> No SW detected
-Random window 18: [1561s, 1571s]
+Random window 15: [2308s, 2318s]
      -> No SW detected
-Random window 19: [1651s, 1661s]
+Random window 16: [2366s, 2376s]
      -> No SW detected
-Random window 20: [1416s, 1426s]
+Random window 17: [1530s, 1540s]
      -> No SW detected
-Random window 21: [270s, 280s]
-     -> Random SW:      -30.4862 microV at 273.1714s;    14.0898 microV at 273.5218s
-Random window 22: [2048s, 2058s]
+Random window 18: [1645s, 1655s]
      -> No SW detected
-Random window 23: [2522s, 2532s]
+Random window 19: [408s, 418s]
+     -> Random SW:      -51.2047 microV at 410.5161s;    21.3591 microV at 410.7344s
+Random window 20: [2344s, 2354s]
+     -> Random SW:      -30.5035 microV at 2352.5291s;    18.7094 microV at 2353.0082s
+Random window 21: [1144s, 1154s]
      -> No SW detected
-Random window 24: [971s, 981s]
-     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
-Random window 25: [2439s, 2449s]
+Random window 22: [592s, 602s]
      -> No SW detected
-Random window 26: [909s, 919s]
-     -> Random SW:      -48.0807 microV at 915.3895s;    19.2375 microV at 915.5521s
-                        -26.1866 microV at 917.4915s;    21.753 microV at 917.7025s
-Random window 27: [2312s, 2322s]
+Random window 23: [2318s, 2328s]
      -> No SW detected
-Random window 28: [1182s, 1192s]
+Random window 24: [2027s, 2037s]
      -> No SW detected
-Random window 29: [1093s, 1103s]
+Random window 25: [2273s, 2283s]
      -> No SW detected
-Random window 30: [588s, 598s]
+Random window 26: [753s, 763s]
      -> No SW detected
-Random window 31: [371s, 381s]
-     -> Random SW:      -28.1848 microV at 377.3664s;    15.4464 microV at 377.6001s
-Random window 32: [789s, 799s]
-     -> No SW detected
-Random window 33: [2042s, 2052s]
-     -> No SW detected
-Random window 34: [2192s, 2202s]
-     -> No SW detected
-Random window 35: [2002s, 2012s]
-     -> No SW detected
-Random window 36: [4s, 14s]
-     -> No SW detected
-Random window 37: [2274s, 2284s]
-     -> No SW detected
-Random window 38: [2378s, 2388s]
-     -> No SW detected
-Random window 39: [2096s, 2106s]
-     -> No SW detected
-Random window 40: [187s, 197s]
-     -> No SW detected
-Random window 41: [1031s, 1041s]
-     -> No SW detected
-Random window 42: [1912s, 1922s]
-     -> No SW detected
-Random window 43: [2022s, 2032s]
-     -> No SW detected
-Random window 44: [605s, 615s]
-     -> No SW detected
-Random window 45: [683s, 693s]
-     -> No SW detected
-Random window 46: [1746s, 1756s]
+Random window 27: [1745s, 1755s]
      -> Random SW:      -98.9147 microV at 1749.0142s;    35.7713 microV at 1749.2845s
                         -22.1676 microV at 1749.3867s;    28.8145 microV at 1749.6906s
                         -31.7419 microV at 1749.8766s;    23.7931 microV at 1750.0419s
                         -20.6263 microV at 1754.5204s;    19.3762 microV at 1754.774s
-Random window 47: [1270s, 1280s]
+Random window 28: [1709s, 1719s]
      -> No SW detected
-Random window 48: [1671s, 1681s]
-     -> No SW detected
-Random window 49: [616s, 626s]
-     -> No SW detected
-Random window 50: [480s, 490s]
-     -> Random SW:      -76.183 microV at 483.4006s;    25.9607 microV at 483.6795s
-Random window 51: [2261s, 2271s]
-     -> No SW detected
-Random window 52: [2106s, 2116s]
-     -> No SW detected
-Random window 53: [2397s, 2407s]
-     -> No SW detected
-Random window 54: [289s, 299s]
-     -> No SW detected
-Random window 55: [530s, 540s]
-     -> No SW detected
-Random window 56: [281s, 291s]
-     -> No SW detected
-Random window 57: [1395s, 1405s]
-     -> No SW detected
-Random window 58: [573s, 583s]
-     -> No SW detected
-Random window 59: [2352s, 2362s]
-     -> Random SW:      -30.5035 microV at 2352.5291s;    18.7094 microV at 2353.0082s
-Random window 60: [333s, 343s]
-     -> No SW detected
-Random window 61: [181s, 191s]
-     -> No SW detected
-Random window 62: [1585s, 1595s]
-     -> No SW detected
-Random window 63: [2154s, 2164s]
-     -> Random SW:      -21.6863 microV at 2157.887s;    21.7768 microV at 2158.1138s
-Random window 64: [898s, 908s]
-     -> Random SW:      -41.4072 microV at 901.6517s;    55.7156 microV at 901.8142s
-Random window 65: [563s, 573s]
-     -> Random SW:      -29.3785 microV at 563.5951s;    12.9708 microV at 563.8509s
-                        -45.7791 microV at 568.1908s;    46.9066 microV at 568.4302s
-                        -24.0961 microV at 569.1141s;    28.8301 microV at 569.5775s
-Random window 66: [1022s, 1032s]
-     -> No SW detected
-Random window 67: [630s, 640s]
-     -> No SW detected
-Random window 68: [1483s, 1493s]
-     -> No SW detected
-Random window 69: [2367s, 2377s]
-     -> No SW detected
-Random window 70: [1698s, 1708s]
-     -> No SW detected
-Random window 71: [357s, 367s]
-     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
- 
-*********************************************************************************************************
-For a total of 71 operant actions,
- - 34 operant actions show at least one BP.
- - 28 operant actions show at least one P3.
- - 14 of the 71 random windows show at least one SW (which is neither BP or P3).
-*********************************************************************************************************
- 
->> 
-
->> find_BP_P300_randSW(ttl.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
- 
-OA1 occurs at 34.3872s
-     -> No BP detected
-     -> No P3 detected
- 
-OA2 occurs at 45.167s
-     -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
-     -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
- 
-OA3 occurs at 66.2364s
-     -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
-                        -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
-     -> No P3 detected
- 
-OA4 occurs at 75.0562s
-     -> No BP detected
-     -> No P3 detected
- 
-OA5 occurs at 79.7461s
-     -> No BP detected
-     -> No P3 detected
- 
-OA6 occurs at 90.2657s
-     -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
-                        -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
-                        -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
-     -> No P3 detected
- 
-OA7 occurs at 104.0554s
-     -> No BP detected
-     -> No P3 detected
- 
-OA8 occurs at 113.8952s
-     -> No BP detected
-     -> No P3 detected
- 
-OA9 occurs at 136.6743s
-     -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
-     -> No P3 detected
- 
-OA10 occurs at 159.4237s
-     -> No BP detected
-     -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
- 
-OA11 occurs at 206.2825s
-     -> No BP detected
-     -> No P3 detected
- 
-OA12 occurs at 263.3702s
-     -> No BP detected
-     -> No P3 detected
- 
-OA13 occurs at 306.4487s
-     -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
-     -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
- 
-OA14 occurs at 317.8884s
-     -> No BP detected
-     -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
- 
-OA15 occurs at 325.1782s
-     -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
-     -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
- 
-OA16 occurs at 350.2075s
-     -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
-     -> No P3 detected
- 
-OA17 occurs at 433.5854s
-     -> No BP detected
-     -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
- 
-OA18 occurs at 456.4449s
-     -> No BP detected
-     -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
-                        -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
- 
-OA19 occurs at 473.5944s
-     -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
-     -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
- 
-OA20 occurs at 496.6538s
-     -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
-     -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
- 
-OA21 occurs at 509.9035s
-     -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
-                        -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
-     -> No P3 detected
- 
-OA22 occurs at 518.0125s
-     -> No BP detected
-     -> No P3 detected
- 
-OA23 occurs at 556.4819s
-     -> No BP detected
-     -> No P3 detected
- 
-OA24 occurs at 658.3889s
-     -> No BP detected
-     -> No P3 detected
- 
-OA25 occurs at 710.8876s
-     -> No BP detected
-     -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
- 
-OA26 occurs at 735.237s
-     -> No BP detected
-     -> No P3 detected
- 
-OA27 occurs at 777.0458s
-     -> No BP detected
-     -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
- 
-OA28 occurs at 809.695s
-     -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
-     -> No P3 detected
- 
-OA29 occurs at 847.2341s
-     -> No BP detected
-     -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
- 
-OA30 occurs at 877.0683s
-     -> No BP detected
-     -> No P3 detected
- 
-OA31 occurs at 889.353s
-     -> No BP detected
-     -> No P3 detected
- 
-OA32 occurs at 927.2016s
-     -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
-     -> No P3 detected
- 
-OA33 occurs at 937.6413s
-     -> No BP detected
-     -> No P3 detected
- 
-OA34 occurs at 953.0609s
-     -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
-                        -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
-                        -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
-                        -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
-     -> No P3 detected
- 
-OA35 occurs at 1007.4995s
-     -> No BP detected
-     -> No P3 detected
- 
-OA36 occurs at 1078.207s
-     -> No BP detected
-     -> No P3 detected
- 
-OA37 occurs at 1168.0746s
-     -> No BP detected
-     -> No P3 detected
- 
-OA38 occurs at 1203.2337s
-     -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
-     -> No P3 detected
- 
-OA39 occurs at 1251.5028s
-     -> Possible BP:    -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
-     -> No P3 detected
- 
-OA40 occurs at 1253.9628s
-     -> No BP detected
-     -> No P3 detected
- 
-OA41 occurs at 1259.4822s
-     -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
-     -> No P3 detected
- 
-OA42 occurs at 1287.3115s
-     -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
-     -> No P3 detected
- 
-OA43 occurs at 1317.9308s
-     -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
-                        -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
-                        -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
-     -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
- 
-OA44 occurs at 1336.6402s
-     -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
-                        -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
-                        -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
-     -> No P3 detected
- 
-OA45 occurs at 1352.3398s
-     -> No BP detected
-     -> No P3 detected
- 
-OA46 occurs at 1374.8492s
-     -> No BP detected
-     -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
-                        -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
- 
-OA47 occurs at 1383.1991s
-     -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
-     -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
- 
-OA48 occurs at 1446.4674s
-     -> No BP detected
-     -> No P3 detected
- 
-OA49 occurs at 1465.9169s
-     -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
-     -> No P3 detected
- 
-OA50 occurs at 1505.2459s
-     -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
-     -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
- 
-OA51 occurs at 1551.6547s
-     -> No BP detected
-     -> No P3 detected
- 
-OA52 occurs at 1578.874s
-     -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
-                        -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
-     -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
-                        -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
- 
-OA53 occurs at 1609.6332s
-     -> No BP detected
-     -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
- 
-OA54 occurs at 1736.64s
-     -> No BP detected
-     -> No P3 detected
- 
-OA55 occurs at 1773.159s
-     -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
-     -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
-                        -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
-                        -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
- 
-OA56 occurs at 1801.5519s
-     -> No BP detected
-     -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
- 
-OA57 occurs at 1832.1311s
-     -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
-                        -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
-     -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
- 
-OA58 occurs at 1855.0606s
-     -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
-     -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
- 
-OA59 occurs at 1875.5895s
-     -> No BP detected
-     -> No P3 detected
- 
-OA60 occurs at 1904.0093s
-     -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
-     -> No P3 detected
- 
-OA61 occurs at 1936.1884s
-     -> No BP detected
-     -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
- 
-OA62 occurs at 1954.6886s
-     -> No BP detected
-     -> Possible P3:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
- 
-OA63 occurs at 1957.3979s
-     -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
-     -> No P3 detected
- 
-OA64 occurs at 1974.3975s
-     -> No BP detected
-     -> No P3 detected
- 
-OA65 occurs at 2124.8236s
-     -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
-     -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
- 
-OA66 occurs at 2146.1131s
-     -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
-     -> No P3 detected
- 
-OA67 occurs at 2171.3724s
-     -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
-     -> No P3 detected
- 
-OA68 occurs at 2212.6813s
-     -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
-                        -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
-     -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
- 
-OA69 occurs at 2336.1977s
-     -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
-                        -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
-                        -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
-     -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
- 
-OA70 occurs at 2466.8844s
-     -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
-                        -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
-     -> No P3 detected
- 
-OA71 occurs at 2475.7741s
-     -> No BP detected
-     -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
- 
- 
-Random window 1: [1112s, 1122s]
-     -> No SW detected
-Random window 2: [228s, 238s]
-     -> Random SW:      -30.96 microV at 230.6899s;    15.2348 microV at 231.0057s
-Random window 3: [1484s, 1494s]
-     -> No SW detected
-Random window 4: [1214s, 1224s]
-     -> No SW detected
-Random window 5: [2523s, 2533s]
-     -> No SW detected
-Random window 6: [2242s, 2252s]
-     -> Random SW:      -87.7508 microV at 2248.7802s;    9.9643 microV at 2249.0376s
-                        -57.6787 microV at 2249.3349s;    31.5737 microV at 2250.1339s
-Random window 7: [1414s, 1424s]
-     -> No SW detected
-Random window 8: [2364s, 2374s]
-     -> No SW detected
-Random window 9: [415s, 425s]
-     -> No SW detected
-Random window 10: [1094s, 1104s]
-     -> No SW detected
-Random window 11: [2404s, 2414s]
-     -> No SW detected
-Random window 12: [2383s, 2393s]
-     -> No SW detected
-Random window 13: [2016s, 2026s]
-     -> No SW detected
-Random window 14: [1693s, 1703s]
-     -> No SW detected
-Random window 15: [978s, 988s]
-     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
-Random window 16: [2418s, 2428s]
-     -> No SW detected
-Random window 17: [390s, 400s]
-     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
-Random window 18: [2039s, 2049s]
-     -> No SW detected
-Random window 19: [1743s, 1753s]
-     -> Random SW:      -98.9147 microV at 1749.0142s;    35.7713 microV at 1749.2845s
-                        -22.1676 microV at 1749.3867s;    28.8145 microV at 1749.6906s
-                        -31.7419 microV at 1749.8766s;    23.7931 microV at 1750.0419s
-Random window 20: [2248s, 2258s]
-     -> Random SW:      -87.7508 microV at 2248.7802s;    9.9643 microV at 2249.0376s
-                        -57.6787 microV at 2249.3349s;    31.5737 microV at 2250.1339s
-Random window 21: [1059s, 1069s]
-     -> No SW detected
-Random window 22: [2061s, 2071s]
-     -> No SW detected
-Random window 23: [2255s, 2265s]
-     -> No SW detected
-Random window 24: [857s, 867s]
-     -> No SW detected
-Random window 25: [1559s, 1569s]
-     -> No SW detected
-Random window 26: [2496s, 2506s]
-     -> No SW detected
-Random window 27: [1525s, 1535s]
-     -> No SW detected
-Random window 28: [896s, 906s]
-     -> Random SW:      -41.4072 microV at 901.6517s;    55.7156 microV at 901.8142s
-Random window 29: [1671s, 1681s]
-     -> No SW detected
-Random window 30: [984s, 994s]
-     -> No SW detected
-Random window 31: [2068s, 2078s]
-     -> No SW detected
-Random window 32: [1088s, 1098s]
-     -> No SW detected
-Random window 33: [1269s, 1279s]
-     -> No SW detected
-Random window 34: [1916s, 1926s]
-     -> No SW detected
-Random window 35: [2450s, 2460s]
-     -> No SW detected
-Random window 36: [789s, 799s]
-     -> No SW detected
-Random window 37: [2234s, 2244s]
-     -> No SW detected
-Random window 38: [2022s, 2032s]
-     -> No SW detected
-Random window 39: [2429s, 2439s]
-     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
-Random window 40: [168s, 178s]
-     -> No SW detected
-Random window 41: [910s, 920s]
-     -> Random SW:      -48.0807 microV at 915.3895s;    19.2375 microV at 915.5521s
-                        -26.1866 microV at 917.4915s;    21.753 microV at 917.7025s
-Random window 42: [1709s, 1719s]
-     -> No SW detected
-Random window 43: [672s, 682s]
-     -> No SW detected
-Random window 44: [604s, 614s]
-     -> No SW detected
-Random window 45: [1988s, 1998s]
-     -> No SW detected
-Random window 46: [1649s, 1659s]
-     -> No SW detected
-Random window 47: [1593s, 1603s]
-     -> No SW detected
-Random window 48: [1717s, 1727s]
-     -> No SW detected
-Random window 49: [186s, 196s]
-     -> No SW detected
-Random window 50: [961s, 971s]
-     -> Random SW:      -41.63 microV at 962.282s;    11.0333 microV at 962.5754s
-Random window 51: [1140s, 1150s]
-     -> No SW detected
-Random window 52: [616s, 626s]
-     -> No SW detected
-Random window 53: [2029s, 2039s]
-     -> No SW detected
-Random window 54: [2285s, 2295s]
-     -> No SW detected
-Random window 55: [683s, 693s]
-     -> No SW detected
-Random window 56: [2049s, 2059s]
-     -> No SW detected
-Random window 57: [374s, 384s]
+Random window 29: [368s, 378s]
      -> Random SW:      -28.1848 microV at 377.3664s;    15.4464 microV at 377.6001s
-Random window 58: [2267s, 2277s]
+Random window 30: [1052s, 1062s]
      -> No SW detected
-Random window 59: [383s, 393s]
-     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
-Random window 60: [1617s, 1627s]
-     -> Random SW:      -55.0205 microV at 1626.0047s;    20.6959 microV at 1626.5665s
-                        -30.3206 microV at 1626.8465s;    15.5868 microV at 1627.113s
-Random window 61: [1021s, 1031s]
+Random window 31: [719s, 729s]
      -> No SW detected
-Random window 62: [2187s, 2197s]
-     -> No SW detected
-Random window 63: [1294s, 1304s]
-     -> Random SW:      -39.4731 microV at 1298.1407s;    22.8209 microV at 1298.2342s
-Random window 64: [1224s, 1234s]
-     -> No SW detected
-Random window 65: [2313s, 2323s]
-     -> No SW detected
-Random window 66: [824s, 834s]
-     -> Random SW:      -32.9154 microV at 832.2995s;    9.44 microV at 832.6001s
-Random window 67: [1130s, 1140s]
-     -> No SW detected
-Random window 68: [2484s, 2494s]
-     -> No SW detected
-Random window 69: [143s, 153s]
-     -> No SW detected
-Random window 70: [2490s, 2500s]
-     -> No SW detected
-Random window 71: [530s, 540s]
-     -> No SW detected
- 
-*********************************************************************************************************
-For a total of 71 operant actions,
- - 34 operant actions show at least one BP.
- - 28 operant actions show at least one P3.
- - 15 of the 71 random windows show at least one SW (which is neither BP or P3).
-*********************************************************************************************************
- 
->> 
-
->> find_BP_P300_randSW(ttl.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
- 
-OA1 occurs at 34.3872s
-     -> No BP detected
-     -> No P3 detected
- 
-OA2 occurs at 45.167s
-     -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
-     -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
- 
-OA3 occurs at 66.2364s
-     -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
-                        -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
-     -> No P3 detected
- 
-OA4 occurs at 75.0562s
-     -> No BP detected
-     -> No P3 detected
- 
-OA5 occurs at 79.7461s
-     -> No BP detected
-     -> No P3 detected
- 
-OA6 occurs at 90.2657s
-     -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
-                        -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
-                        -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
-     -> No P3 detected
- 
-OA7 occurs at 104.0554s
-     -> No BP detected
-     -> No P3 detected
- 
-OA8 occurs at 113.8952s
-     -> No BP detected
-     -> No P3 detected
- 
-OA9 occurs at 136.6743s
-     -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
-     -> No P3 detected
- 
-OA10 occurs at 159.4237s
-     -> No BP detected
-     -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
- 
-OA11 occurs at 206.2825s
-     -> No BP detected
-     -> No P3 detected
- 
-OA12 occurs at 263.3702s
-     -> No BP detected
-     -> No P3 detected
- 
-OA13 occurs at 306.4487s
-     -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
-     -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
- 
-OA14 occurs at 317.8884s
-     -> No BP detected
-     -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
- 
-OA15 occurs at 325.1782s
-     -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
-     -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
- 
-OA16 occurs at 350.2075s
-     -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
-     -> No P3 detected
- 
-OA17 occurs at 433.5854s
-     -> No BP detected
-     -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
- 
-OA18 occurs at 456.4449s
-     -> No BP detected
-     -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
-                        -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
- 
-OA19 occurs at 473.5944s
-     -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
-     -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
- 
-OA20 occurs at 496.6538s
-     -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
-     -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
- 
-OA21 occurs at 509.9035s
-     -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
-                        -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
-     -> No P3 detected
- 
-OA22 occurs at 518.0125s
-     -> No BP detected
-     -> No P3 detected
- 
-OA23 occurs at 556.4819s
-     -> No BP detected
-     -> No P3 detected
- 
-OA24 occurs at 658.3889s
-     -> No BP detected
-     -> No P3 detected
- 
-OA25 occurs at 710.8876s
-     -> No BP detected
-     -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
- 
-OA26 occurs at 735.237s
-     -> No BP detected
-     -> No P3 detected
- 
-OA27 occurs at 777.0458s
-     -> No BP detected
-     -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
- 
-OA28 occurs at 809.695s
-     -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
-     -> No P3 detected
- 
-OA29 occurs at 847.2341s
-     -> No BP detected
-     -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
- 
-OA30 occurs at 877.0683s
-     -> No BP detected
-     -> No P3 detected
- 
-OA31 occurs at 889.353s
-     -> No BP detected
-     -> No P3 detected
- 
-OA32 occurs at 927.2016s
-     -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
-     -> No P3 detected
- 
-OA33 occurs at 937.6413s
-     -> No BP detected
-     -> No P3 detected
- 
-OA34 occurs at 953.0609s
-     -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
-                        -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
-                        -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
-                        -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
-     -> No P3 detected
- 
-OA35 occurs at 1007.4995s
-     -> No BP detected
-     -> No P3 detected
- 
-OA36 occurs at 1078.207s
-     -> No BP detected
-     -> No P3 detected
- 
-OA37 occurs at 1168.0746s
-     -> No BP detected
-     -> No P3 detected
- 
-OA38 occurs at 1203.2337s
-     -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
-     -> No P3 detected
- 
-OA39 occurs at 1251.5028s
-     -> Possible BP:    -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
-     -> No P3 detected
- 
-OA40 occurs at 1253.9628s
-     -> No BP detected
-     -> No P3 detected
- 
-OA41 occurs at 1259.4822s
-     -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
-     -> No P3 detected
- 
-OA42 occurs at 1287.3115s
-     -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
-     -> No P3 detected
- 
-OA43 occurs at 1317.9308s
-     -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
-                        -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
-                        -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
-     -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
- 
-OA44 occurs at 1336.6402s
-     -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
-                        -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
-                        -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
-     -> No P3 detected
- 
-OA45 occurs at 1352.3398s
-     -> No BP detected
-     -> No P3 detected
- 
-OA46 occurs at 1374.8492s
-     -> No BP detected
-     -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
-                        -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
- 
-OA47 occurs at 1383.1991s
-     -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
-     -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
- 
-OA48 occurs at 1446.4674s
-     -> No BP detected
-     -> No P3 detected
- 
-OA49 occurs at 1465.9169s
-     -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
-     -> No P3 detected
- 
-OA50 occurs at 1505.2459s
-     -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
-     -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
- 
-OA51 occurs at 1551.6547s
-     -> No BP detected
-     -> No P3 detected
- 
-OA52 occurs at 1578.874s
-     -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
-                        -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
-     -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
-                        -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
- 
-OA53 occurs at 1609.6332s
-     -> No BP detected
-     -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
- 
-OA54 occurs at 1736.64s
-     -> No BP detected
-     -> No P3 detected
- 
-OA55 occurs at 1773.159s
-     -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
-     -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
-                        -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
-                        -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
- 
-OA56 occurs at 1801.5519s
-     -> No BP detected
-     -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
- 
-OA57 occurs at 1832.1311s
-     -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
-                        -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
-     -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
- 
-OA58 occurs at 1855.0606s
-     -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
-     -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
- 
-OA59 occurs at 1875.5895s
-     -> No BP detected
-     -> No P3 detected
- 
-OA60 occurs at 1904.0093s
-     -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
-     -> No P3 detected
- 
-OA61 occurs at 1936.1884s
-     -> No BP detected
-     -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
- 
-OA62 occurs at 1954.6886s
-     -> No BP detected
-     -> Possible P3:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
- 
-OA63 occurs at 1957.3979s
-     -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
-     -> No P3 detected
- 
-OA64 occurs at 1974.3975s
-     -> No BP detected
-     -> No P3 detected
- 
-OA65 occurs at 2124.8236s
-     -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
-     -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
- 
-OA66 occurs at 2146.1131s
-     -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
-     -> No P3 detected
- 
-OA67 occurs at 2171.3724s
-     -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
-     -> No P3 detected
- 
-OA68 occurs at 2212.6813s
-     -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
-                        -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
-     -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
- 
-OA69 occurs at 2336.1977s
-     -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
-                        -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
-                        -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
-     -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
- 
-OA70 occurs at 2466.8844s
-     -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
-                        -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
-     -> No P3 detected
- 
-OA71 occurs at 2475.7741s
-     -> No BP detected
-     -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
- 
- 
-Random window 1: [1916s, 1926s]
-     -> No SW detected
-Random window 2: [1659s, 1669s]
-     -> No SW detected
-Random window 3: [1993s, 2003s]
-     -> No SW detected
-Random window 4: [1042s, 1052s]
-     -> No SW detected
-Random window 5: [1702s, 1712s]
-     -> No SW detected
-Random window 6: [2251s, 2261s]
-     -> No SW detected
-Random window 7: [17s, 27s]
-     -> No SW detected
-Random window 8: [288s, 298s]
-     -> No SW detected
-Random window 9: [2497s, 2507s]
-     -> No SW detected
-Random window 10: [1756s, 1766s]
-     -> No SW detected
-Random window 11: [672s, 682s]
-     -> No SW detected
-Random window 12: [1121s, 1131s]
-     -> No SW detected
-Random window 13: [397s, 407s]
-     -> No SW detected
-Random window 14: [793s, 803s]
-     -> No SW detected
-Random window 15: [758s, 768s]
-     -> No SW detected
-Random window 16: [1021s, 1031s]
-     -> No SW detected
-Random window 17: [563s, 573s]
-     -> Random SW:      -29.3785 microV at 563.5951s;    12.9708 microV at 563.8509s
-                        -45.7791 microV at 568.1908s;    46.9066 microV at 568.4302s
-                        -24.0961 microV at 569.1141s;    28.8301 microV at 569.5775s
-Random window 18: [1061s, 1071s]
-     -> No SW detected
-Random window 19: [391s, 401s]
-     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
-Random window 20: [2362s, 2372s]
-     -> No SW detected
-Random window 21: [360s, 370s]
-     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
-Random window 22: [2412s, 2422s]
-     -> No SW detected
-Random window 23: [1152s, 1162s]
-     -> No SW detected
-Random window 24: [217s, 227s]
-     -> No SW detected
-Random window 25: [1088s, 1098s]
-     -> No SW detected
-Random window 26: [2078s, 2088s]
-     -> No SW detected
-Random window 27: [2227s, 2237s]
-     -> No SW detected
-Random window 28: [1592s, 1602s]
-     -> No SW detected
-Random window 29: [2016s, 2026s]
-     -> No SW detected
-Random window 30: [2371s, 2381s]
-     -> No SW detected
-Random window 31: [231s, 241s]
-     -> No SW detected
-Random window 32: [966s, 976s]
-     -> No SW detected
-Random window 33: [190s, 200s]
-     -> Random SW:      -40.6718 microV at 198.8555s;    15.2348 microV at 199.0061s
-Random window 34: [628s, 638s]
-     -> No SW detected
-Random window 35: [2056s, 2066s]
-     -> No SW detected
-Random window 36: [2049s, 2059s]
-     -> No SW detected
-Random window 37: [2344s, 2354s]
-     -> Random SW:      -30.5035 microV at 2352.5291s;    18.7094 microV at 2353.0082s
-Random window 38: [1643s, 1653s]
-     -> Random SW:      -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
-Random window 39: [280s, 290s]
-     -> No SW detected
-Random window 40: [2406s, 2416s]
-     -> No SW detected
-Random window 41: [2236s, 2246s]
-     -> No SW detected
-Random window 42: [902s, 912s]
-     -> No SW detected
-Random window 43: [1531s, 1541s]
-     -> No SW detected
-Random window 44: [2513s, 2523s]
-     -> No SW detected
-Random window 45: [2027s, 2037s]
-     -> No SW detected
-Random window 46: [2277s, 2287s]
-     -> No SW detected
-Random window 47: [1216s, 1226s]
-     -> No SW detected
-Random window 48: [1392s, 1402s]
-     -> No SW detected
-Random window 49: [1561s, 1571s]
-     -> No SW detected
-Random window 50: [751s, 761s]
-     -> No SW detected
-Random window 51: [2085s, 2095s]
-     -> No SW detected
-Random window 52: [1419s, 1429s]
-     -> No SW detected
-Random window 53: [1716s, 1726s]
-     -> No SW detected
-Random window 54: [859s, 869s]
-     -> No SW detected
-Random window 55: [529s, 539s]
-     -> No SW detected
-Random window 56: [1301s, 1311s]
-     -> Random SW:      -33.6033 microV at 1304.3441s;    29.61 microV at 1304.4145s
-                        -45.9985 microV at 1306.8479s;    15.1989 microV at 1307.4264s
-                        -70.0182 microV at 1310.3028s;    58.8034 microV at 1311.4984s
-Random window 57: [1094s, 1104s]
-     -> No SW detected
-Random window 58: [2193s, 2203s]
-     -> No SW detected
-Random window 59: [2181s, 2191s]
-     -> No SW detected
-Random window 60: [1784s, 1794s]
-     -> No SW detected
-Random window 61: [414s, 424s]
-     -> No SW detected
-Random window 62: [10s, 20s]
-     -> No SW detected
-Random window 63: [1619s, 1629s]
-     -> Random SW:      -55.0205 microV at 1626.0047s;    20.6959 microV at 1626.5665s
-                        -30.3206 microV at 1626.8465s;    15.5868 microV at 1627.113s
-Random window 64: [909s, 919s]
-     -> Random SW:      -48.0807 microV at 915.3895s;    19.2375 microV at 915.5521s
-                        -26.1866 microV at 917.4915s;    21.753 microV at 917.7025s
-Random window 65: [2433s, 2443s]
-     -> No SW detected
-Random window 66: [2503s, 2513s]
-     -> No SW detected
-Random window 67: [819s, 829s]
-     -> No SW detected
-Random window 68: [2244s, 2254s]
-     -> Random SW:      -87.7508 microV at 2248.7802s;    9.9643 microV at 2249.0376s
-                        -57.6787 microV at 2249.3349s;    31.5737 microV at 2250.1339s
-Random window 69: [2355s, 2365s]
-     -> No SW detected
-Random window 70: [1637s, 1647s]
-     -> Random SW:      -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
-Random window 71: [2313s, 2323s]
-     -> No SW detected
- 
-*********************************************************************************************************
-For a total of 71 operant actions,
- - 34 operant actions show at least one BP.
- - 28 operant actions show at least one P3.
- - 11 of the 71 random windows show at least one SW (which is neither BP or P3).
-*********************************************************************************************************
- 
->> 
-
->> find_BP_P300_randSW(ttl.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
- 
-OA1 occurs at 34.3872s
-     -> No BP detected
-     -> No P3 detected
- 
-OA2 occurs at 45.167s
-     -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
-     -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
- 
-OA3 occurs at 66.2364s
-     -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
-                        -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
-     -> No P3 detected
- 
-OA4 occurs at 75.0562s
-     -> No BP detected
-     -> No P3 detected
- 
-OA5 occurs at 79.7461s
-     -> No BP detected
-     -> No P3 detected
- 
-OA6 occurs at 90.2657s
-     -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
-                        -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
-                        -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
-     -> No P3 detected
- 
-OA7 occurs at 104.0554s
-     -> No BP detected
-     -> No P3 detected
- 
-OA8 occurs at 113.8952s
-     -> No BP detected
-     -> No P3 detected
- 
-OA9 occurs at 136.6743s
-     -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
-     -> No P3 detected
- 
-OA10 occurs at 159.4237s
-     -> No BP detected
-     -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
- 
-OA11 occurs at 206.2825s
-     -> No BP detected
-     -> No P3 detected
- 
-OA12 occurs at 263.3702s
-     -> No BP detected
-     -> No P3 detected
- 
-OA13 occurs at 306.4487s
-     -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
-     -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
- 
-OA14 occurs at 317.8884s
-     -> No BP detected
-     -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
- 
-OA15 occurs at 325.1782s
-     -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
-     -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
- 
-OA16 occurs at 350.2075s
-     -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
-     -> No P3 detected
- 
-OA17 occurs at 433.5854s
-     -> No BP detected
-     -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
- 
-OA18 occurs at 456.4449s
-     -> No BP detected
-     -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
-                        -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
- 
-OA19 occurs at 473.5944s
-     -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
-     -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
- 
-OA20 occurs at 496.6538s
-     -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
-     -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
- 
-OA21 occurs at 509.9035s
-     -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
-                        -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
-     -> No P3 detected
- 
-OA22 occurs at 518.0125s
-     -> No BP detected
-     -> No P3 detected
- 
-OA23 occurs at 556.4819s
-     -> No BP detected
-     -> No P3 detected
- 
-OA24 occurs at 658.3889s
-     -> No BP detected
-     -> No P3 detected
- 
-OA25 occurs at 710.8876s
-     -> No BP detected
-     -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
- 
-OA26 occurs at 735.237s
-     -> No BP detected
-     -> No P3 detected
- 
-OA27 occurs at 777.0458s
-     -> No BP detected
-     -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
- 
-OA28 occurs at 809.695s
-     -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
-     -> No P3 detected
- 
-OA29 occurs at 847.2341s
-     -> No BP detected
-     -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
- 
-OA30 occurs at 877.0683s
-     -> No BP detected
-     -> No P3 detected
- 
-OA31 occurs at 889.353s
-     -> No BP detected
-     -> No P3 detected
- 
-OA32 occurs at 927.2016s
-     -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
-     -> No P3 detected
- 
-OA33 occurs at 937.6413s
-     -> No BP detected
-     -> No P3 detected
- 
-OA34 occurs at 953.0609s
-     -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
-                        -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
-                        -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
-                        -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
-     -> No P3 detected
- 
-OA35 occurs at 1007.4995s
-     -> No BP detected
-     -> No P3 detected
- 
-OA36 occurs at 1078.207s
-     -> No BP detected
-     -> No P3 detected
- 
-OA37 occurs at 1168.0746s
-     -> No BP detected
-     -> No P3 detected
- 
-OA38 occurs at 1203.2337s
-     -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
-     -> No P3 detected
- 
-OA39 occurs at 1251.5028s
-     -> Possible BP:    -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
-     -> No P3 detected
- 
-OA40 occurs at 1253.9628s
-     -> No BP detected
-     -> No P3 detected
- 
-OA41 occurs at 1259.4822s
-     -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
-     -> No P3 detected
- 
-OA42 occurs at 1287.3115s
-     -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
-     -> No P3 detected
- 
-OA43 occurs at 1317.9308s
-     -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
-                        -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
-                        -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
-     -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
- 
-OA44 occurs at 1336.6402s
-     -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
-                        -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
-                        -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
-     -> No P3 detected
- 
-OA45 occurs at 1352.3398s
-     -> No BP detected
-     -> No P3 detected
- 
-OA46 occurs at 1374.8492s
-     -> No BP detected
-     -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
-                        -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
- 
-OA47 occurs at 1383.1991s
-     -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
-     -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
- 
-OA48 occurs at 1446.4674s
-     -> No BP detected
-     -> No P3 detected
- 
-OA49 occurs at 1465.9169s
-     -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
-     -> No P3 detected
- 
-OA50 occurs at 1505.2459s
-     -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
-     -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
- 
-OA51 occurs at 1551.6547s
-     -> No BP detected
-     -> No P3 detected
- 
-OA52 occurs at 1578.874s
-     -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
-                        -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
-     -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
-                        -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
- 
-OA53 occurs at 1609.6332s
-     -> No BP detected
-     -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
- 
-OA54 occurs at 1736.64s
-     -> No BP detected
-     -> No P3 detected
- 
-OA55 occurs at 1773.159s
-     -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
-     -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
-                        -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
-                        -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
- 
-OA56 occurs at 1801.5519s
-     -> No BP detected
-     -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
- 
-OA57 occurs at 1832.1311s
-     -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
-                        -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
-     -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
- 
-OA58 occurs at 1855.0606s
-     -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
-     -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
- 
-OA59 occurs at 1875.5895s
-     -> No BP detected
-     -> No P3 detected
- 
-OA60 occurs at 1904.0093s
-     -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
-     -> No P3 detected
- 
-OA61 occurs at 1936.1884s
-     -> No BP detected
-     -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
- 
-OA62 occurs at 1954.6886s
-     -> No BP detected
-     -> Possible P3:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
- 
-OA63 occurs at 1957.3979s
-     -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
-     -> No P3 detected
- 
-OA64 occurs at 1974.3975s
-     -> No BP detected
-     -> No P3 detected
- 
-OA65 occurs at 2124.8236s
-     -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
-     -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
- 
-OA66 occurs at 2146.1131s
-     -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
-     -> No P3 detected
- 
-OA67 occurs at 2171.3724s
-     -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
-     -> No P3 detected
- 
-OA68 occurs at 2212.6813s
-     -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
-                        -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
-     -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
- 
-OA69 occurs at 2336.1977s
-     -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
-                        -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
-                        -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
-     -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
- 
-OA70 occurs at 2466.8844s
-     -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
-                        -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
-     -> No P3 detected
- 
-OA71 occurs at 2475.7741s
-     -> No BP detected
-     -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
- 
- 
-Random window 1: [2426s, 2436s]
-     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
-Random window 2: [1591s, 1601s]
-     -> No SW detected
-Random window 3: [2046s, 2056s]
-     -> No SW detected
-Random window 4: [1644s, 1654s]
-     -> No SW detected
-Random window 5: [171s, 181s]
-     -> Random SW:      -25.4412 microV at 180.707s;    23.5292 microV at 180.8527s
-Random window 6: [1212s, 1222s]
-     -> No SW detected
-Random window 7: [1782s, 1792s]
-     -> No SW detected
-Random window 8: [1482s, 1492s]
-     -> No SW detected
-Random window 9: [1050s, 1060s]
-     -> No SW detected
-Random window 10: [2412s, 2422s]
-     -> No SW detected
-Random window 11: [2259s, 2269s]
-     -> No SW detected
-Random window 12: [2282s, 2292s]
-     -> No SW detected
-Random window 13: [1033s, 1043s]
-     -> No SW detected
-Random window 14: [1666s, 1676s]
-     -> No SW detected
-Random window 15: [2313s, 2323s]
-     -> No SW detected
-Random window 16: [2402s, 2412s]
-     -> No SW detected
-Random window 17: [1810s, 1820s]
-     -> Random SW:      -23.1237 microV at 1810.9324s;    19.0273 microV at 1811.4977s
-Random window 18: [603s, 613s]
-     -> No SW detected
-Random window 19: [1743s, 1753s]
-     -> Random SW:      -98.9147 microV at 1749.0142s;    35.7713 microV at 1749.2845s
-                        -22.1676 microV at 1749.3867s;    28.8145 microV at 1749.6906s
-                        -31.7419 microV at 1749.8766s;    23.7931 microV at 1750.0419s
-Random window 20: [270s, 280s]
-     -> Random SW:      -30.4862 microV at 273.1714s;    14.0898 microV at 273.5218s
-Random window 21: [1102s, 1112s]
-     -> No SW detected
-Random window 22: [1887s, 1897s]
-     -> Random SW:      -122.0107 microV at 1896.6386s;    22.7302 microV at 1896.8977s
-Random window 23: [2396s, 2406s]
-     -> No SW detected
-Random window 24: [2189s, 2199s]
-     -> No SW detected
-Random window 25: [1229s, 1239s]
-     -> No SW detected
-Random window 26: [2063s, 2073s]
-     -> No SW detected
-Random window 27: [1089s, 1099s]
-     -> No SW detected
-Random window 28: [2499s, 2509s]
-     -> No SW detected
-Random window 29: [2515s, 2525s]
-     -> No SW detected
-Random window 30: [2252s, 2262s]
-     -> No SW detected
-Random window 31: [980s, 990s]
-     -> No SW detected
-Random window 32: [1135s, 1145s]
-     -> No SW detected
-Random window 33: [628s, 638s]
-     -> No SW detected
-Random window 34: [2079s, 2089s]
-     -> No SW detected
-Random window 35: [2297s, 2307s]
-     -> Random SW:      -21.5354 microV at 2301.1663s;    23.4832 microV at 2301.284s
-Random window 36: [2359s, 2369s]
-     -> No SW detected
-Random window 37: [1425s, 1435s]
-     -> No SW detected
-Random window 38: [1561s, 1571s]
-     -> No SW detected
-Random window 39: [391s, 401s]
-     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
-Random window 40: [2306s, 2316s]
-     -> No SW detected
-Random window 41: [1114s, 1124s]
-     -> No SW detected
-Random window 42: [572s, 582s]
-     -> No SW detected
-Random window 43: [2320s, 2330s]
-     -> No SW detected
-Random window 44: [2019s, 2029s]
-     -> No SW detected
-Random window 45: [2268s, 2278s]
-     -> No SW detected
-Random window 46: [684s, 694s]
-     -> No SW detected
-Random window 47: [1697s, 1707s]
-     -> No SW detected
-Random window 48: [1682s, 1692s]
-     -> No SW detected
-Random window 49: [358s, 368s]
-     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
-Random window 50: [986s, 996s]
-     -> No SW detected
-Random window 51: [670s, 680s]
-     -> No SW detected
-Random window 52: [1983s, 1993s]
+Random window 32: [1981s, 1991s]
      -> Random SW:      -46.3345 microV at 1987.5805s;    12.2786 microV at 1987.7621s
-Random window 53: [693s, 703s]
+Random window 33: [760s, 770s]
      -> No SW detected
-Random window 54: [2349s, 2359s]
+Random window 34: [2352s, 2362s]
      -> Random SW:      -30.5035 microV at 2352.5291s;    18.7094 microV at 2353.0082s
-Random window 55: [2102s, 2112s]
+Random window 35: [2181s, 2191s]
      -> No SW detected
-Random window 56: [910s, 920s]
-     -> Random SW:      -48.0807 microV at 915.3895s;    19.2375 microV at 915.5521s
-                        -26.1866 microV at 917.4915s;    21.753 microV at 917.7025s
-Random window 57: [1185s, 1195s]
-     -> Random SW:      -49.9179 microV at 1192.9738s;    30.3697 microV at 1193.1335s
-Random window 58: [1714s, 1724s]
+Random window 36: [1015s, 1025s]
      -> No SW detected
-Random window 59: [2180s, 2190s]
+Random window 37: [1271s, 1281s]
      -> No SW detected
-Random window 60: [1522s, 1532s]
+Random window 38: [1812s, 1822s]
+     -> No SW detected
+Random window 39: [2194s, 2204s]
+     -> No SW detected
+Random window 40: [1627s, 1637s]
+     -> Random SW:      -61.1011 microV at 1636.1218s;    15.2558 microV at 1636.822s
+Random window 41: [1512s, 1522s]
+     -> No SW detected
+Random window 42: [826s, 836s]
+     -> Random SW:      -32.9154 microV at 832.2995s;    9.44 microV at 832.6001s
+Random window 43: [1122s, 1132s]
+     -> No SW detected
+Random window 44: [1913s, 1923s]
+     -> No SW detected
+Random window 45: [2296s, 2306s]
+     -> Random SW:      -21.5354 microV at 2301.1663s;    23.4832 microV at 2301.284s
+Random window 46: [1872s, 1882s]
+     -> No SW detected
+Random window 47: [11s, 21s]
+     -> No SW detected
+Random window 48: [1692s, 1702s]
+     -> No SW detected
+Random window 49: [1061s, 1071s]
+     -> No SW detected
+Random window 50: [1085s, 1095s]
+     -> Random SW:      -55.6545 microV at 1085.9565s;    18.005 microV at 1086.276s
+Random window 51: [290s, 300s]
+     -> No SW detected
+Random window 52: [2101s, 2111s]
+     -> No SW detected
+Random window 53: [790s, 800s]
+     -> No SW detected
+Random window 54: [609s, 619s]
+     -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
+Random window 55: [872s, 882s]
+     -> No SW detected
+Random window 56: [972s, 982s]
+     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
+Random window 57: [1430s, 1440s]
+     -> Random SW:      -36.7962 microV at 1436.7205s;    10.1075 microV at 1436.7817s
+                        -49.7457 microV at 1437.0758s;    23.6243 microV at 1437.356s
+Random window 58: [1485s, 1495s]
+     -> No SW detected
+Random window 59: [988s, 998s]
+     -> No SW detected
+Random window 60: [1024s, 1034s]
      -> No SW detected
 Random window 61: [1407s, 1417s]
      -> Random SW:      -24.8223 microV at 1413.1293s;    19.3748 microV at 1413.2703s
-Random window 62: [747s, 757s]
+Random window 62: [1719s, 1729s]
      -> No SW detected
-Random window 63: [1043s, 1053s]
+Random window 63: [2438s, 2448s]
      -> No SW detected
-Random window 64: [1916s, 1926s]
+Random window 64: [2002s, 2012s]
      -> No SW detected
-Random window 65: [2291s, 2301s]
-     -> Random SW:      -22.8703 microV at 2295.7989s;    20.0018 microV at 2295.8709s
-Random window 66: [1839s, 1849s]
-     -> Random SW:      -25.5275 microV at 1841.4093s;    16.7076 microV at 1841.5017s
-                        -60.6984 microV at 1841.7578s;    77.4925 microV at 1842.0887s
-                        -81.7351 microV at 1842.3508s;    28.6177 microV at 1842.7967s
-Random window 67: [7s, 17s]
-     -> No SW detected
-Random window 68: [1673s, 1683s]
-     -> No SW detected
-Random window 69: [1015s, 1025s]
-     -> No SW detected
-Random window 70: [973s, 983s]
-     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
-Random window 71: [281s, 291s]
-     -> No SW detected
+Random window 65: [909s, 919s]
+     -> Random SW:      -48.0807 microV at 915.3895s;    19.2375 microV at 915.5521s
+                        -26.1866 microV at 917.4915s;    21.753 microV at 917.7025s
  
 *********************************************************************************************************
-For a total of 71 operant actions,
- - 34 operant actions show at least one BP.
- - 28 operant actions show at least one P3.
- - 17 of the 71 random windows show at least one SW (which is neither BP or P3).
+For a total of 65 operant actions,
+ - 33 operant actions show at least one BP.
+ - 27 operant actions show at least one P3.
+ - 15 of the 65 random windows show at least one SW (which is neither BP or P3).
 *********************************************************************************************************
  
->> 
-
->> find_BP_P300_randSW(ttl.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
+>> find_BP_P300_randSW_new(SA15_12_07_2013_0004_Ch11.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
  
-OA1 occurs at 34.3872s
+OA1: [34.3872s, 37.3873s];  duration: 3.0001s
      -> No BP detected
      -> No P3 detected
  
-OA2 occurs at 45.167s
+OA2: [45.167s, 51.167s];  duration: 6.0001s
      -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
      -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
  
-OA3 occurs at 66.2364s
+OA3: [66.2364s, 72.2364s];  duration: 6s
      -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
                         -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
      -> No P3 detected
  
-OA4 occurs at 75.0562s
+OA4: [75.0562s, 78.0563s];  duration: 3.0001s
      -> No BP detected
      -> No P3 detected
  
-OA5 occurs at 79.7461s
+OA5: [79.7461s, 85.7461s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA6 occurs at 90.2657s
+OA6: [90.2657s, 96.2658s];  duration: 6s
      -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
                         -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
                         -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
      -> No P3 detected
  
-OA7 occurs at 104.0554s
+OA7: [104.0554s, 110.0554s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA8 occurs at 113.8952s
+OA8: [113.8952s, 119.8952s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA9 occurs at 136.6743s
+OA9: [136.6743s, 142.6743s];  duration: 6s
      -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
      -> No P3 detected
  
-OA10 occurs at 159.4237s
+OA10: [159.4237s, 165.4237s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
  
-OA11 occurs at 206.2825s
+OA11: [206.2825s, 212.2825s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA12 occurs at 263.3702s
+OA12: [263.3702s, 269.3698s];  duration: 5.9997s
      -> No BP detected
      -> No P3 detected
  
-OA13 occurs at 306.4487s
+OA13: [306.4487s, 312.4487s];  duration: 6s
      -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
      -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
  
-OA14 occurs at 317.8884s
+OA14: [317.8884s, 320.8885s];  duration: 3.0001s
      -> No BP detected
      -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
  
-OA15 occurs at 325.1782s
+OA15: [325.1782s, 328.1783s];  duration: 3.0001s
      -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
      -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
  
-OA16 occurs at 350.2075s
+OA16: [350.2075s, 356.2075s];  duration: 6s
      -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
      -> No P3 detected
  
-OA17 occurs at 433.5854s
+OA17: [433.5854s, 439.5855s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
  
-OA18 occurs at 456.4449s
+OA18: [456.4449s, 462.4449s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
                         -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
  
-OA19 occurs at 473.5944s
+OA19: [473.5944s, 476.5945s];  duration: 3.0001s
      -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
      -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
  
-OA20 occurs at 496.6538s
+OA20: [496.6538s, 502.6539s];  duration: 6.0001s
      -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
      -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
  
-OA21 occurs at 509.9035s
+OA21: [509.9035s, 515.9036s];  duration: 6s
      -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
                         -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
      -> No P3 detected
  
-OA22 occurs at 518.0125s
+OA22: [556.4819s, 562.4819s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA23 occurs at 556.4819s
+OA23: [658.3889s, 664.3889s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA24 occurs at 658.3889s
-     -> No BP detected
-     -> No P3 detected
- 
-OA25 occurs at 710.8876s
+OA24: [710.8876s, 716.8875s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
  
-OA26 occurs at 735.237s
+OA25: [735.237s, 741.237s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA27 occurs at 777.0458s
+OA26: [777.0458s, 783.0459s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
  
-OA28 occurs at 809.695s
+OA27: [809.695s, 812.6951s];  duration: 3s
      -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
      -> No P3 detected
  
-OA29 occurs at 847.2341s
+OA28: [847.2341s, 853.2341s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
  
-OA30 occurs at 877.0683s
+OA29: [889.353s, 895.353s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA31 occurs at 889.353s
-     -> No BP detected
-     -> No P3 detected
- 
-OA32 occurs at 927.2016s
+OA30: [927.2016s, 933.2016s];  duration: 6.0001s
      -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
      -> No P3 detected
  
-OA33 occurs at 937.6413s
+OA31: [937.6413s, 943.6413s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA34 occurs at 953.0609s
+OA32: [953.0609s, 959.0609s];  duration: 6s
      -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
                         -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
                         -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
                         -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
      -> No P3 detected
  
-OA35 occurs at 1007.4995s
+OA33: [1007.4995s, 1013.4995s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA36 occurs at 1078.207s
+OA34: [1078.207s, 1084.207s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA37 occurs at 1168.0746s
+OA35: [1168.0746s, 1174.0746s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA38 occurs at 1203.2337s
+OA36: [1203.2337s, 1209.2337s];  duration: 6s
      -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
      -> No P3 detected
  
-OA39 occurs at 1251.5028s
-     -> Possible BP:    -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
-     -> No P3 detected
- 
-OA40 occurs at 1253.9628s
-     -> No BP detected
-     -> No P3 detected
- 
-OA41 occurs at 1259.4822s
+OA37: [1259.4822s, 1265.4822s];  duration: 6s
      -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
      -> No P3 detected
  
-OA42 occurs at 1287.3115s
+OA38: [1287.3115s, 1293.3116s];  duration: 6.0001s
      -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
      -> No P3 detected
  
-OA43 occurs at 1317.9308s
+OA39: [1317.9308s, 1323.9307s];  duration: 5.9999s
      -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
                         -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
                         -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
      -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
  
-OA44 occurs at 1336.6402s
+OA40: [1336.6402s, 1339.6403s];  duration: 3.0001s
      -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
                         -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
                         -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
      -> No P3 detected
  
-OA45 occurs at 1352.3398s
+OA41: [1352.3398s, 1358.3399s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA46 occurs at 1374.8492s
+OA42: [1374.8492s, 1377.8494s];  duration: 3.0002s
      -> No BP detected
      -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
                         -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
  
-OA47 occurs at 1383.1991s
+OA43: [1383.1991s, 1389.1991s];  duration: 6s
      -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
      -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
  
-OA48 occurs at 1446.4674s
+OA44: [1446.4674s, 1452.4675s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA49 occurs at 1465.9169s
+OA45: [1465.9169s, 1468.917s];  duration: 3.0001s
      -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
      -> No P3 detected
  
-OA50 occurs at 1505.2459s
+OA46: [1505.2459s, 1511.246s];  duration: 6.0001s
      -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
      -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
  
-OA51 occurs at 1551.6547s
+OA47: [1551.6547s, 1557.6548s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA52 occurs at 1578.874s
+OA48: [1578.874s, 1584.874s];  duration: 6s
      -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
                         -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
      -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
                         -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
  
-OA53 occurs at 1609.6332s
+OA49: [1609.6332s, 1615.6332s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
  
-OA54 occurs at 1736.64s
+OA50: [1736.64s, 1742.64s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA55 occurs at 1773.159s
+OA51: [1773.159s, 1779.1592s];  duration: 6.0001s
      -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
      -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
                         -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
                         -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
  
-OA56 occurs at 1801.5519s
+OA52: [1801.5519s, 1807.552s];  duration: 6.0001s
      -> No BP detected
      -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
  
-OA57 occurs at 1832.1311s
+OA53: [1832.1311s, 1838.1312s];  duration: 6s
      -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
                         -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
      -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
  
-OA58 occurs at 1855.0606s
+OA54: [1855.0606s, 1861.0606s];  duration: 6s
      -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
      -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
  
-OA59 occurs at 1875.5895s
-     -> No BP detected
-     -> No P3 detected
- 
-OA60 occurs at 1904.0093s
+OA55: [1904.0093s, 1910.0092s];  duration: 5.9999s
      -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
      -> No P3 detected
  
-OA61 occurs at 1936.1884s
+OA56: [1936.1884s, 1942.1886s];  duration: 6.0001s
      -> No BP detected
      -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
  
-OA62 occurs at 1954.6886s
-     -> No BP detected
-     -> Possible P3:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
- 
-OA63 occurs at 1957.3979s
+OA57: [1957.3979s, 1960.398s];  duration: 3.0001s
      -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
      -> No P3 detected
  
-OA64 occurs at 1974.3975s
+OA58: [1974.3975s, 1980.3975s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA65 occurs at 2124.8236s
+OA59: [2124.8236s, 2130.8237s];  duration: 6.0001s
      -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
      -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
  
-OA66 occurs at 2146.1131s
+OA60: [2146.1131s, 2152.1131s];  duration: 6s
      -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
      -> No P3 detected
  
-OA67 occurs at 2171.3724s
+OA61: [2171.3724s, 2177.3723s];  duration: 5.9999s
      -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
      -> No P3 detected
  
-OA68 occurs at 2212.6813s
+OA62: [2212.6813s, 2218.6814s];  duration: 6.0001s
      -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
                         -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
      -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
  
-OA69 occurs at 2336.1977s
+OA63: [2336.1977s, 2342.1977s];  duration: 6.0001s
      -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
                         -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
                         -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
      -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
  
-OA70 occurs at 2466.8844s
+OA64: [2466.8844s, 2472.8844s];  duration: 6s
      -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
                         -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
      -> No P3 detected
  
-OA71 occurs at 2475.7741s
+OA65: [2475.7741s, 2478.7743s];  duration: 3.0002s
      -> No BP detected
      -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
  
+*********************************************************************************************************
  
-Random window 1: [1106s, 1116s]
+Random window 1: [2258s, 2268s]
      -> No SW detected
-Random window 2: [2178s, 2188s]
+Random window 2: [417s, 427s]
      -> No SW detected
-Random window 3: [2057s, 2067s]
+Random window 3: [238s, 248s]
      -> No SW detected
-Random window 4: [1181s, 1191s]
+Random window 4: [363s, 373s]
+     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
+Random window 5: [596s, 606s]
      -> No SW detected
-Random window 5: [2004s, 2014s]
+Random window 6: [1026s, 1036s]
      -> No SW detected
-Random window 6: [2430s, 2440s]
-     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
-Random window 7: [2188s, 2198s]
+Random window 7: [973s, 983s]
+     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
+Random window 8: [9s, 19s]
      -> No SW detected
-Random window 8: [1995s, 2005s]
-     -> No SW detected
-Random window 9: [373s, 383s]
-     -> Random SW:      -28.1848 microV at 377.3664s;    15.4464 microV at 377.6001s
-Random window 10: [1086s, 1096s]
-     -> No SW detected
-Random window 11: [1653s, 1663s]
-     -> No SW detected
-Random window 12: [1230s, 1240s]
-     -> No SW detected
-Random window 13: [218s, 228s]
-     -> No SW detected
-Random window 14: [669s, 679s]
-     -> No SW detected
-Random window 15: [2282s, 2292s]
-     -> No SW detected
-Random window 16: [12s, 22s]
-     -> No SW detected
-Random window 17: [2317s, 2327s]
-     -> No SW detected
-Random window 18: [288s, 298s]
-     -> No SW detected
-Random window 19: [1814s, 1824s]
-     -> No SW detected
-Random window 20: [1427s, 1437s]
-     -> Random SW:      -36.7962 microV at 1436.7205s;    10.1075 microV at 1436.7817s
-Random window 21: [640s, 650s]
-     -> No SW detected
-Random window 22: [1638s, 1648s]
-     -> Random SW:      -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
-Random window 23: [412s, 422s]
-     -> No SW detected
-Random window 24: [1918s, 1928s]
-     -> Random SW:      -62.4926 microV at 1926.7652s;    20.6247 microV at 1927.0479s
-Random window 25: [1681s, 1691s]
-     -> No SW detected
-Random window 26: [239s, 249s]
-     -> No SW detected
-Random window 27: [272s, 282s]
-     -> Random SW:      -30.4862 microV at 273.1714s;    14.0898 microV at 273.5218s
-Random window 28: [592s, 602s]
-     -> No SW detected
-Random window 29: [170s, 180s]
-     -> No SW detected
-Random window 30: [1266s, 1276s]
-     -> Random SW:      -34.03 microV at 1268.7874s;    26.5946 microV at 1269.3245s
-Random window 31: [2296s, 2306s]
-     -> Random SW:      -21.5354 microV at 2301.1663s;    23.4832 microV at 2301.284s
-Random window 32: [1714s, 1724s]
-     -> No SW detected
-Random window 33: [1519s, 1529s]
-     -> No SW detected
-Random window 34: [2361s, 2371s]
-     -> No SW detected
-Random window 35: [404s, 414s]
-     -> Random SW:      -51.2047 microV at 410.5161s;    21.3591 microV at 410.7344s
-Random window 36: [2403s, 2413s]
-     -> No SW detected
-Random window 37: [535s, 545s]
-     -> No SW detected
-Random window 38: [1487s, 1497s]
-     -> No SW detected
-Random window 39: [607s, 617s]
-     -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
-Random window 40: [1631s, 1641s]
+Random window 9: [1633s, 1643s]
      -> Random SW:      -61.1011 microV at 1636.1218s;    15.2558 microV at 1636.822s
-Random window 41: [1s, 9s]
+Random window 10: [393s, 403s]
      -> No SW detected
-Random window 42: [2194s, 2204s]
+Random window 11: [587s, 597s]
      -> No SW detected
-Random window 43: [2306s, 2316s]
+Random window 12: [1863s, 1873s]
+     -> Random SW:      -30.4242 microV at 1869.0965s;    23.2885 microV at 1869.4083s
+                        -32.9927 microV at 1870.0378s;    25.4797 microV at 1870.4421s
+Random window 13: [2310s, 2320s]
      -> No SW detected
-Random window 44: [2416s, 2426s]
+Random window 14: [2496s, 2506s]
      -> No SW detected
-Random window 45: [2516s, 2526s]
+Random window 15: [1666s, 1676s]
      -> No SW detected
-Random window 46: [1411s, 1421s]
-     -> Random SW:      -24.8223 microV at 1413.1293s;    19.3748 microV at 1413.2703s
-Random window 47: [901s, 911s]
-     -> Random SW:      -41.4072 microV at 901.6517s;    55.7156 microV at 901.8142s
-Random window 48: [528s, 538s]
+Random window 16: [2522s, 2532s]
      -> No SW detected
-Random window 49: [1477s, 1487s]
+Random window 17: [1624s, 1634s]
+     -> Random SW:      -55.0205 microV at 1626.0047s;    20.6959 microV at 1626.5665s
+                        -30.3206 microV at 1626.8465s;    15.5868 microV at 1627.113s
+Random window 18: [1489s, 1499s]
      -> No SW detected
-Random window 50: [1687s, 1697s]
+Random window 19: [1044s, 1054s]
      -> No SW detected
-Random window 51: [2092s, 2102s]
+Random window 20: [1225s, 1235s]
      -> No SW detected
-Random window 52: [387s, 397s]
-     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
-Random window 53: [1982s, 1992s]
-     -> Random SW:      -46.3345 microV at 1987.5805s;    12.2786 microV at 1987.7621s
-Random window 54: [1421s, 1431s]
+Random window 21: [1430s, 1440s]
+     -> Random SW:      -36.7962 microV at 1436.7205s;    10.1075 microV at 1436.7817s
+                        -49.7457 microV at 1437.0758s;    23.6243 microV at 1437.356s
+Random window 22: [282s, 292s]
      -> No SW detected
-Random window 55: [683s, 693s]
+Random window 23: [2355s, 2365s]
      -> No SW detected
-Random window 56: [2441s, 2451s]
+Random window 24: [274s, 284s]
      -> No SW detected
-Random window 57: [1670s, 1680s]
+Random window 25: [1241s, 1251s]
+     -> Random SW:      -55.9206 microV at 1246.171s;    22.1633 microV at 1246.428s
+                        -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
+Random window 26: [2240s, 2250s]
+     -> Random SW:      -87.7508 microV at 2248.7802s;    9.9643 microV at 2249.0376s
+                        -57.6787 microV at 2249.3349s;    31.5737 microV at 2250.1339s
+Random window 27: [1135s, 1145s]
      -> No SW detected
-Random window 58: [1138s, 1148s]
+Random window 28: [1752s, 1762s]
+     -> Random SW:      -20.6263 microV at 1754.5204s;    19.3762 microV at 1754.774s
+Random window 29: [2227s, 2237s]
      -> No SW detected
-Random window 59: [2423s, 2433s]
-     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
-Random window 60: [1887s, 1897s]
-     -> Random SW:      -122.0107 microV at 1896.6386s;    22.7302 microV at 1896.8977s
-Random window 61: [1147s, 1157s]
+Random window 30: [2361s, 2371s]
      -> No SW detected
-Random window 62: [2258s, 2268s]
+Random window 31: [2406s, 2416s]
      -> No SW detected
-Random window 63: [1527s, 1537s]
+Random window 32: [638s, 648s]
      -> No SW detected
-Random window 64: [1589s, 1599s]
+Random window 33: [822s, 832s]
      -> No SW detected
-Random window 65: [2023s, 2033s]
-     -> No SW detected
-Random window 66: [1022s, 1032s]
-     -> No SW detected
-Random window 67: [760s, 770s]
-     -> No SW detected
-Random window 68: [1660s, 1670s]
-     -> No SW detected
-Random window 69: [2348s, 2358s]
+Random window 34: [2349s, 2359s]
      -> Random SW:      -30.5035 microV at 2352.5291s;    18.7094 microV at 2353.0082s
-Random window 70: [1050s, 1060s]
+Random window 35: [1692s, 1702s]
      -> No SW detected
-Random window 71: [563s, 573s]
-     -> Random SW:      -29.3785 microV at 563.5951s;    12.9708 microV at 563.8509s
-                        -45.7791 microV at 568.1908s;    46.9066 microV at 568.4302s
-                        -24.0961 microV at 569.1141s;    28.8301 microV at 569.5775s
+Random window 36: [1477s, 1487s]
+     -> No SW detected
+Random window 37: [1719s, 1729s]
+     -> No SW detected
+Random window 38: [2187s, 2197s]
+     -> No SW detected
+Random window 39: [1526s, 1536s]
+     -> No SW detected
+Random window 40: [666s, 676s]
+     -> Random SW:      -42.0818 microV at 667.4393s;    8.6357 microV at 667.7387s
+Random window 41: [1218s, 1228s]
+     -> No SW detected
+Random window 42: [1148s, 1158s]
+     -> No SW detected
+Random window 43: [2444s, 2454s]
+     -> No SW detected
+Random window 44: [1783s, 1793s]
+     -> No SW detected
+Random window 45: [2004s, 2014s]
+     -> No SW detected
+Random window 46: [2028s, 2038s]
+     -> No SW detected
+Random window 47: [982s, 992s]
+     -> No SW detected
+Random window 48: [1417s, 1427s]
+     -> No SW detected
+Random window 49: [1617s, 1627s]
+     -> Random SW:      -55.0205 microV at 1626.0047s;    20.6959 microV at 1626.5665s
+                        -30.3206 microV at 1626.8465s;    15.5868 microV at 1627.113s
+Random window 50: [537s, 547s]
+     -> No SW detected
+Random window 51: [1647s, 1657s]
+     -> No SW detected
+Random window 52: [2013s, 2023s]
+     -> No SW detected
+Random window 53: [1110s, 1120s]
+     -> No SW detected
+Random window 54: [2270s, 2280s]
+     -> No SW detected
+Random window 55: [2050s, 2060s]
+     -> No SW detected
+Random window 56: [961s, 971s]
+     -> Random SW:      -41.63 microV at 962.282s;    11.0333 microV at 962.5754s
+Random window 57: [1175s, 1185s]
+     -> Random SW:      -30.3021 microV at 1177.1788s;    16.3286 microV at 1177.4912s
+Random window 58: [1035s, 1045s]
+     -> No SW detected
+Random window 59: [2090s, 2100s]
+     -> No SW detected
+Random window 60: [2041s, 2051s]
+     -> No SW detected
+Random window 61: [1096s, 1106s]
+     -> No SW detected
+Random window 62: [1918s, 1928s]
+     -> Random SW:      -62.4926 microV at 1926.7652s;    20.6247 microV at 1927.0479s
+Random window 63: [2425s, 2435s]
+     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
+Random window 64: [2096s, 2106s]
+     -> No SW detected
+Random window 65: [1887s, 1897s]
+     -> Random SW:      -122.0107 microV at 1896.6386s;    22.7302 microV at 1896.8977s
  
 *********************************************************************************************************
-For a total of 71 operant actions,
- - 34 operant actions show at least one BP.
- - 28 operant actions show at least one P3.
- - 19 of the 71 random windows show at least one SW (which is neither BP or P3).
+For a total of 65 operant actions,
+ - 33 operant actions show at least one BP.
+ - 27 operant actions show at least one P3.
+ - 17 of the 65 random windows show at least one SW (which is neither BP or P3).
+*********************************************************************************************************
+ 
+>> find_BP_P300_randSW_new(SA15_12_07_2013_0004_Ch11.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
+ 
+OA1: [34.3872s, 37.3873s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA2: [45.167s, 51.167s];  duration: 6.0001s
+     -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
+     -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
+ 
+OA3: [66.2364s, 72.2364s];  duration: 6s
+     -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
+                        -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
+     -> No P3 detected
+ 
+OA4: [75.0562s, 78.0563s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA5: [79.7461s, 85.7461s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA6: [90.2657s, 96.2658s];  duration: 6s
+     -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
+                        -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
+                        -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
+     -> No P3 detected
+ 
+OA7: [104.0554s, 110.0554s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA8: [113.8952s, 119.8952s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA9: [136.6743s, 142.6743s];  duration: 6s
+     -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
+     -> No P3 detected
+ 
+OA10: [159.4237s, 165.4237s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
+ 
+OA11: [206.2825s, 212.2825s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA12: [263.3702s, 269.3698s];  duration: 5.9997s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA13: [306.4487s, 312.4487s];  duration: 6s
+     -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
+     -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
+ 
+OA14: [317.8884s, 320.8885s];  duration: 3.0001s
+     -> No BP detected
+     -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+ 
+OA15: [325.1782s, 328.1783s];  duration: 3.0001s
+     -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+     -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
+ 
+OA16: [350.2075s, 356.2075s];  duration: 6s
+     -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
+     -> No P3 detected
+ 
+OA17: [433.5854s, 439.5855s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
+ 
+OA18: [456.4449s, 462.4449s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
+                        -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
+ 
+OA19: [473.5944s, 476.5945s];  duration: 3.0001s
+     -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
+     -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
+ 
+OA20: [496.6538s, 502.6539s];  duration: 6.0001s
+     -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
+     -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
+ 
+OA21: [509.9035s, 515.9036s];  duration: 6s
+     -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
+                        -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
+     -> No P3 detected
+ 
+OA22: [556.4819s, 562.4819s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA23: [658.3889s, 664.3889s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA24: [710.8876s, 716.8875s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
+ 
+OA25: [735.237s, 741.237s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA26: [777.0458s, 783.0459s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
+ 
+OA27: [809.695s, 812.6951s];  duration: 3s
+     -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
+     -> No P3 detected
+ 
+OA28: [847.2341s, 853.2341s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
+ 
+OA29: [889.353s, 895.353s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA30: [927.2016s, 933.2016s];  duration: 6.0001s
+     -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
+     -> No P3 detected
+ 
+OA31: [937.6413s, 943.6413s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA32: [953.0609s, 959.0609s];  duration: 6s
+     -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
+                        -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
+                        -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
+                        -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
+     -> No P3 detected
+ 
+OA33: [1007.4995s, 1013.4995s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA34: [1078.207s, 1084.207s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA35: [1168.0746s, 1174.0746s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA36: [1203.2337s, 1209.2337s];  duration: 6s
+     -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
+     -> No P3 detected
+ 
+OA37: [1259.4822s, 1265.4822s];  duration: 6s
+     -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
+     -> No P3 detected
+ 
+OA38: [1287.3115s, 1293.3116s];  duration: 6.0001s
+     -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
+     -> No P3 detected
+ 
+OA39: [1317.9308s, 1323.9307s];  duration: 5.9999s
+     -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
+                        -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
+                        -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
+     -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
+ 
+OA40: [1336.6402s, 1339.6403s];  duration: 3.0001s
+     -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
+                        -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
+                        -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
+     -> No P3 detected
+ 
+OA41: [1352.3398s, 1358.3399s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA42: [1374.8492s, 1377.8494s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
+                        -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
+ 
+OA43: [1383.1991s, 1389.1991s];  duration: 6s
+     -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
+     -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
+ 
+OA44: [1446.4674s, 1452.4675s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA45: [1465.9169s, 1468.917s];  duration: 3.0001s
+     -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
+     -> No P3 detected
+ 
+OA46: [1505.2459s, 1511.246s];  duration: 6.0001s
+     -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
+     -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
+ 
+OA47: [1551.6547s, 1557.6548s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA48: [1578.874s, 1584.874s];  duration: 6s
+     -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
+                        -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
+     -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
+                        -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
+ 
+OA49: [1609.6332s, 1615.6332s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
+ 
+OA50: [1736.64s, 1742.64s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA51: [1773.159s, 1779.1592s];  duration: 6.0001s
+     -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
+     -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
+                        -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
+                        -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
+ 
+OA52: [1801.5519s, 1807.552s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
+ 
+OA53: [1832.1311s, 1838.1312s];  duration: 6s
+     -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
+                        -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
+     -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
+ 
+OA54: [1855.0606s, 1861.0606s];  duration: 6s
+     -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
+     -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
+ 
+OA55: [1904.0093s, 1910.0092s];  duration: 5.9999s
+     -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
+     -> No P3 detected
+ 
+OA56: [1936.1884s, 1942.1886s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
+ 
+OA57: [1957.3979s, 1960.398s];  duration: 3.0001s
+     -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
+     -> No P3 detected
+ 
+OA58: [1974.3975s, 1980.3975s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA59: [2124.8236s, 2130.8237s];  duration: 6.0001s
+     -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
+     -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
+ 
+OA60: [2146.1131s, 2152.1131s];  duration: 6s
+     -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
+     -> No P3 detected
+ 
+OA61: [2171.3724s, 2177.3723s];  duration: 5.9999s
+     -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
+     -> No P3 detected
+ 
+OA62: [2212.6813s, 2218.6814s];  duration: 6.0001s
+     -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
+                        -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
+     -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
+ 
+OA63: [2336.1977s, 2342.1977s];  duration: 6.0001s
+     -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
+                        -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
+                        -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
+     -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
+ 
+OA64: [2466.8844s, 2472.8844s];  duration: 6s
+     -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
+                        -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
+     -> No P3 detected
+ 
+OA65: [2475.7741s, 2478.7743s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
+ 
+*********************************************************************************************************
+ 
+Random window 1: [387s, 397s]
+     -> Random SW:      -31.7108 microV at 392.1463s;    10.6606 microV at 392.544s
+Random window 2: [1116s, 1126s]
+     -> No SW detected
+Random window 3: [1680s, 1690s]
+     -> No SW detected
+Random window 4: [1270s, 1280s]
+     -> No SW detected
+Random window 5: [224s, 234s]
+     -> Random SW:      -30.96 microV at 230.6899s;    15.2348 microV at 231.0057s
+Random window 6: [690s, 700s]
+     -> No SW detected
+Random window 7: [2271s, 2281s]
+     -> No SW detected
+Random window 8: [14s, 24s]
+     -> No SW detected
+Random window 9: [2310s, 2320s]
+     -> No SW detected
+Random window 10: [361s, 371s]
+     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
+Random window 11: [1914s, 1924s]
+     -> No SW detected
+Random window 12: [1480s, 1490s]
+     -> No SW detected
+Random window 13: [681s, 691s]
+     -> No SW detected
+Random window 14: [1660s, 1670s]
+     -> No SW detected
+Random window 15: [524s, 534s]
+     -> No SW detected
+Random window 16: [1993s, 2003s]
+     -> No SW detected
+Random window 17: [1705s, 1715s]
+     -> No SW detected
+Random window 18: [245s, 255s]
+     -> No SW detected
+Random window 19: [275s, 285s]
+     -> No SW detected
+Random window 20: [602s, 612s]
+     -> No SW detected
+Random window 21: [171s, 181s]
+     -> Random SW:      -25.4412 microV at 180.707s;    23.5292 microV at 180.8527s
+Random window 22: [1241s, 1251s]
+     -> Random SW:      -55.9206 microV at 1246.171s;    22.1633 microV at 1246.428s
+                        -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
+Random window 23: [2285s, 2295s]
+     -> No SW detected
+Random window 24: [1785s, 1795s]
+     -> No SW detected
+Random window 25: [1560s, 1570s]
+     -> No SW detected
+Random window 26: [2355s, 2365s]
+     -> No SW detected
+Random window 27: [480s, 490s]
+     -> Random SW:      -76.183 microV at 483.4006s;    25.9607 microV at 483.6795s
+Random window 28: [2401s, 2411s]
+     -> No SW detected
+Random window 29: [536s, 546s]
+     -> No SW detected
+Random window 30: [1526s, 1536s]
+     -> No SW detected
+Random window 31: [611s, 621s]
+     -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
+Random window 32: [1648s, 1658s]
+     -> No SW detected
+Random window 33: [1s, 9s]
+     -> No SW detected
+Random window 34: [2106s, 2116s]
+     -> No SW detected
+Random window 35: [2296s, 2306s]
+     -> Random SW:      -21.5354 microV at 2301.1663s;    23.4832 microV at 2301.284s
+Random window 36: [2417s, 2427s]
+     -> No SW detected
+Random window 37: [2514s, 2524s]
+     -> No SW detected
+Random window 38: [1417s, 1427s]
+     -> No SW detected
+Random window 39: [907s, 917s]
+     -> Random SW:      -48.0807 microV at 915.3895s;    19.2375 microV at 915.5521s
+Random window 40: [440s, 450s]
+     -> No SW detected
+Random window 41: [1472s, 1482s]
+     -> No SW detected
+Random window 42: [1690s, 1700s]
+     -> No SW detected
+Random window 43: [2080s, 2090s]
+     -> No SW detected
+Random window 44: [400s, 410s]
+     -> No SW detected
+Random window 45: [1885s, 1895s]
+     -> No SW detected
+Random window 46: [1427s, 1437s]
+     -> Random SW:      -36.7962 microV at 1436.7205s;    10.1075 microV at 1436.7817s
+Random window 47: [666s, 676s]
+     -> Random SW:      -42.0818 microV at 667.4393s;    8.6357 microV at 667.7387s
+Random window 48: [2433s, 2443s]
+     -> No SW detected
+Random window 49: [1670s, 1680s]
+     -> No SW detected
+Random window 50: [1175s, 1185s]
+     -> Random SW:      -30.3021 microV at 1177.1788s;    16.3286 microV at 1177.4912s
+Random window 51: [2426s, 2436s]
+     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
+Random window 52: [1874s, 1884s]
+     -> No SW detected
+Random window 53: [1152s, 1162s]
+     -> No SW detected
+Random window 54: [2243s, 2253s]
+     -> Random SW:      -87.7508 microV at 2248.7802s;    9.9643 microV at 2249.0376s
+                        -57.6787 microV at 2249.3349s;    31.5737 microV at 2250.1339s
+Random window 55: [1409s, 1419s]
+     -> Random SW:      -24.8223 microV at 1413.1293s;    19.3748 microV at 1413.2703s
+Random window 56: [1585s, 1595s]
+     -> No SW detected
+Random window 57: [2007s, 2017s]
+     -> No SW detected
+Random window 58: [1036s, 1046s]
+     -> No SW detected
+Random window 59: [791s, 801s]
+     -> No SW detected
+Random window 60: [1630s, 1640s]
+     -> Random SW:      -61.1011 microV at 1636.1218s;    15.2558 microV at 1636.822s
+Random window 61: [2317s, 2327s]
+     -> No SW detected
+Random window 62: [1093s, 1103s]
+     -> No SW detected
+Random window 63: [517s, 527s]
+     -> No SW detected
+Random window 64: [1138s, 1148s]
+     -> No SW detected
+Random window 65: [899s, 909s]
+     -> Random SW:      -41.4072 microV at 901.6517s;    55.7156 microV at 901.8142s
+ 
+*********************************************************************************************************
+For a total of 65 operant actions,
+ - 33 operant actions show at least one BP.
+ - 27 operant actions show at least one P3.
+ - 17 of the 65 random windows show at least one SW (which is neither BP or P3).
+*********************************************************************************************************
+ 
+>> find_BP_P300_randSW_new(SA15_12_07_2013_0004_Ch11.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
+ 
+OA1: [34.3872s, 37.3873s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA2: [45.167s, 51.167s];  duration: 6.0001s
+     -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
+     -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
+ 
+OA3: [66.2364s, 72.2364s];  duration: 6s
+     -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
+                        -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
+     -> No P3 detected
+ 
+OA4: [75.0562s, 78.0563s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA5: [79.7461s, 85.7461s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA6: [90.2657s, 96.2658s];  duration: 6s
+     -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
+                        -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
+                        -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
+     -> No P3 detected
+ 
+OA7: [104.0554s, 110.0554s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA8: [113.8952s, 119.8952s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA9: [136.6743s, 142.6743s];  duration: 6s
+     -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
+     -> No P3 detected
+ 
+OA10: [159.4237s, 165.4237s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
+ 
+OA11: [206.2825s, 212.2825s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA12: [263.3702s, 269.3698s];  duration: 5.9997s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA13: [306.4487s, 312.4487s];  duration: 6s
+     -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
+     -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
+ 
+OA14: [317.8884s, 320.8885s];  duration: 3.0001s
+     -> No BP detected
+     -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+ 
+OA15: [325.1782s, 328.1783s];  duration: 3.0001s
+     -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+     -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
+ 
+OA16: [350.2075s, 356.2075s];  duration: 6s
+     -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
+     -> No P3 detected
+ 
+OA17: [433.5854s, 439.5855s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
+ 
+OA18: [456.4449s, 462.4449s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
+                        -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
+ 
+OA19: [473.5944s, 476.5945s];  duration: 3.0001s
+     -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
+     -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
+ 
+OA20: [496.6538s, 502.6539s];  duration: 6.0001s
+     -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
+     -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
+ 
+OA21: [509.9035s, 515.9036s];  duration: 6s
+     -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
+                        -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
+     -> No P3 detected
+ 
+OA22: [556.4819s, 562.4819s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA23: [658.3889s, 664.3889s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA24: [710.8876s, 716.8875s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
+ 
+OA25: [735.237s, 741.237s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA26: [777.0458s, 783.0459s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
+ 
+OA27: [809.695s, 812.6951s];  duration: 3s
+     -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
+     -> No P3 detected
+ 
+OA28: [847.2341s, 853.2341s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
+ 
+OA29: [889.353s, 895.353s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA30: [927.2016s, 933.2016s];  duration: 6.0001s
+     -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
+     -> No P3 detected
+ 
+OA31: [937.6413s, 943.6413s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA32: [953.0609s, 959.0609s];  duration: 6s
+     -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
+                        -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
+                        -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
+                        -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
+     -> No P3 detected
+ 
+OA33: [1007.4995s, 1013.4995s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA34: [1078.207s, 1084.207s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA35: [1168.0746s, 1174.0746s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA36: [1203.2337s, 1209.2337s];  duration: 6s
+     -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
+     -> No P3 detected
+ 
+OA37: [1259.4822s, 1265.4822s];  duration: 6s
+     -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
+     -> No P3 detected
+ 
+OA38: [1287.3115s, 1293.3116s];  duration: 6.0001s
+     -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
+     -> No P3 detected
+ 
+OA39: [1317.9308s, 1323.9307s];  duration: 5.9999s
+     -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
+                        -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
+                        -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
+     -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
+ 
+OA40: [1336.6402s, 1339.6403s];  duration: 3.0001s
+     -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
+                        -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
+                        -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
+     -> No P3 detected
+ 
+OA41: [1352.3398s, 1358.3399s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA42: [1374.8492s, 1377.8494s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
+                        -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
+ 
+OA43: [1383.1991s, 1389.1991s];  duration: 6s
+     -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
+     -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
+ 
+OA44: [1446.4674s, 1452.4675s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA45: [1465.9169s, 1468.917s];  duration: 3.0001s
+     -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
+     -> No P3 detected
+ 
+OA46: [1505.2459s, 1511.246s];  duration: 6.0001s
+     -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
+     -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
+ 
+OA47: [1551.6547s, 1557.6548s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA48: [1578.874s, 1584.874s];  duration: 6s
+     -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
+                        -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
+     -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
+                        -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
+ 
+OA49: [1609.6332s, 1615.6332s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
+ 
+OA50: [1736.64s, 1742.64s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA51: [1773.159s, 1779.1592s];  duration: 6.0001s
+     -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
+     -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
+                        -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
+                        -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
+ 
+OA52: [1801.5519s, 1807.552s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
+ 
+OA53: [1832.1311s, 1838.1312s];  duration: 6s
+     -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
+                        -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
+     -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
+ 
+OA54: [1855.0606s, 1861.0606s];  duration: 6s
+     -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
+     -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
+ 
+OA55: [1904.0093s, 1910.0092s];  duration: 5.9999s
+     -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
+     -> No P3 detected
+ 
+OA56: [1936.1884s, 1942.1886s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
+ 
+OA57: [1957.3979s, 1960.398s];  duration: 3.0001s
+     -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
+     -> No P3 detected
+ 
+OA58: [1974.3975s, 1980.3975s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA59: [2124.8236s, 2130.8237s];  duration: 6.0001s
+     -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
+     -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
+ 
+OA60: [2146.1131s, 2152.1131s];  duration: 6s
+     -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
+     -> No P3 detected
+ 
+OA61: [2171.3724s, 2177.3723s];  duration: 5.9999s
+     -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
+     -> No P3 detected
+ 
+OA62: [2212.6813s, 2218.6814s];  duration: 6.0001s
+     -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
+                        -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
+     -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
+ 
+OA63: [2336.1977s, 2342.1977s];  duration: 6.0001s
+     -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
+                        -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
+                        -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
+     -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
+ 
+OA64: [2466.8844s, 2472.8844s];  duration: 6s
+     -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
+                        -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
+     -> No P3 detected
+ 
+OA65: [2475.7741s, 2478.7743s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
+ 
+*********************************************************************************************************
+ 
+Random window 1: [1124s, 1134s]
+     -> No SW detected
+Random window 2: [2262s, 2272s]
+     -> No SW detected
+Random window 3: [1118s, 1128s]
+     -> No SW detected
+Random window 4: [1098s, 1108s]
+     -> No SW detected
+Random window 5: [1035s, 1045s]
+     -> No SW detected
+Random window 6: [480s, 490s]
+     -> Random SW:      -76.183 microV at 483.4006s;    25.9607 microV at 483.6795s
+Random window 7: [751s, 761s]
+     -> No SW detected
+Random window 8: [289s, 299s]
+     -> No SW detected
+Random window 9: [1232s, 1242s]
+     -> No SW detected
+Random window 10: [758s, 768s]
+     -> No SW detected
+Random window 11: [898s, 908s]
+     -> Random SW:      -41.4072 microV at 901.6517s;    55.7156 microV at 901.8142s
+Random window 12: [1240s, 1250s]
+     -> Random SW:      -55.9206 microV at 1246.171s;    22.1633 microV at 1246.428s
+                        -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
+Random window 13: [394s, 404s]
+     -> No SW detected
+Random window 14: [1527s, 1537s]
+     -> No SW detected
+Random window 15: [2035s, 2045s]
+     -> No SW detected
+Random window 16: [685s, 695s]
+     -> No SW detected
+Random window 17: [2196s, 2206s]
+     -> No SW detected
+Random window 18: [246s, 256s]
+     -> Random SW:      -21.8546 microV at 255.2089s;    28.4938 microV at 256.0684s
+Random window 19: [1175s, 1185s]
+     -> Random SW:      -30.3021 microV at 1177.1788s;    16.3286 microV at 1177.4912s
+Random window 20: [1s, 9s]
+     -> No SW detected
+Random window 21: [666s, 676s]
+     -> Random SW:      -42.0818 microV at 667.4393s;    8.6357 microV at 667.7387s
+Random window 22: [5s, 15s]
+     -> No SW detected
+Random window 23: [613s, 623s]
+     -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
+Random window 24: [538s, 548s]
+     -> No SW detected
+Random window 25: [909s, 919s]
+     -> Random SW:      -48.0807 microV at 915.3895s;    19.2375 microV at 915.5521s
+                        -26.1866 microV at 917.4915s;    21.753 microV at 917.7025s
+Random window 26: [600s, 610s]
+     -> No SW detected
+Random window 27: [530s, 540s]
+     -> No SW detected
+Random window 28: [1811s, 1821s]
+     -> No SW detected
+Random window 29: [2392s, 2402s]
+     -> No SW detected
+Random window 30: [2433s, 2443s]
+     -> No SW detected
+Random window 31: [791s, 801s]
+     -> No SW detected
+Random window 32: [1591s, 1601s]
+     -> No SW detected
+Random window 33: [1213s, 1223s]
+     -> No SW detected
+Random window 34: [1662s, 1672s]
+     -> No SW detected
+Random window 35: [964s, 974s]
+     -> No SW detected
+Random window 36: [272s, 282s]
+     -> Random SW:      -30.4862 microV at 273.1714s;    14.0898 microV at 273.5218s
+Random window 37: [1474s, 1484s]
+     -> No SW detected
+Random window 38: [607s, 617s]
+     -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
+Random window 39: [180s, 190s]
+     -> Random SW:      -25.4412 microV at 180.707s;    23.5292 microV at 180.8527s
+Random window 40: [2483s, 2493s]
+     -> No SW detected
+Random window 41: [1428s, 1438s]
+     -> Random SW:      -36.7962 microV at 1436.7205s;    10.1075 microV at 1436.7817s
+                        -49.7457 microV at 1437.0758s;    23.6243 microV at 1437.356s
+Random window 42: [2490s, 2500s]
+     -> No SW detected
+Random window 43: [2180s, 2190s]
+     -> No SW detected
+Random window 44: [17s, 27s]
+     -> No SW detected
+Random window 45: [2024s, 2034s]
+     -> No SW detected
+Random window 46: [2061s, 2071s]
+     -> No SW detected
+Random window 47: [1918s, 1928s]
+     -> Random SW:      -62.4926 microV at 1926.7652s;    20.6247 microV at 1927.0479s
+Random window 48: [1691s, 1701s]
+     -> No SW detected
+Random window 49: [744s, 754s]
+     -> No SW detected
+Random window 50: [2230s, 2240s]
+     -> No SW detected
+Random window 51: [821s, 831s]
+     -> No SW detected
+Random window 52: [1150s, 1160s]
+     -> No SW detected
+Random window 53: [2369s, 2379s]
+     -> No SW detected
+Random window 54: [2309s, 2319s]
+     -> No SW detected
+Random window 55: [1271s, 1281s]
+     -> No SW detected
+Random window 56: [1045s, 1055s]
+     -> No SW detected
+Random window 57: [1783s, 1793s]
+     -> No SW detected
+Random window 58: [2400s, 2410s]
+     -> No SW detected
+Random window 59: [2380s, 2390s]
+     -> No SW detected
+Random window 60: [1711s, 1721s]
+     -> No SW detected
+Random window 61: [1051s, 1061s]
+     -> No SW detected
+Random window 62: [2286s, 2296s]
+     -> Random SW:      -22.8703 microV at 2295.7989s;    20.0018 microV at 2295.8709s
+Random window 63: [1404s, 1414s]
+     -> Random SW:      -24.8223 microV at 1413.1293s;    19.3748 microV at 1413.2703s
+Random window 64: [2359s, 2369s]
+     -> No SW detected
+Random window 65: [219s, 229s]
+     -> No SW detected
+ 
+*********************************************************************************************************
+For a total of 65 operant actions,
+ - 33 operant actions show at least one BP.
+ - 27 operant actions show at least one P3.
+ - 15 of the 65 random windows show at least one SW (which is neither BP or P3).
+*********************************************************************************************************
+ 
+>> find_BP_P300_randSW_new(SA15_12_07_2013_0004_Ch11.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
+ 
+OA1: [34.3872s, 37.3873s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA2: [45.167s, 51.167s];  duration: 6.0001s
+     -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
+     -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
+ 
+OA3: [66.2364s, 72.2364s];  duration: 6s
+     -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
+                        -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
+     -> No P3 detected
+ 
+OA4: [75.0562s, 78.0563s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA5: [79.7461s, 85.7461s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA6: [90.2657s, 96.2658s];  duration: 6s
+     -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
+                        -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
+                        -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
+     -> No P3 detected
+ 
+OA7: [104.0554s, 110.0554s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA8: [113.8952s, 119.8952s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA9: [136.6743s, 142.6743s];  duration: 6s
+     -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
+     -> No P3 detected
+ 
+OA10: [159.4237s, 165.4237s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
+ 
+OA11: [206.2825s, 212.2825s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA12: [263.3702s, 269.3698s];  duration: 5.9997s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA13: [306.4487s, 312.4487s];  duration: 6s
+     -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
+     -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
+ 
+OA14: [317.8884s, 320.8885s];  duration: 3.0001s
+     -> No BP detected
+     -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+ 
+OA15: [325.1782s, 328.1783s];  duration: 3.0001s
+     -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+     -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
+ 
+OA16: [350.2075s, 356.2075s];  duration: 6s
+     -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
+     -> No P3 detected
+ 
+OA17: [433.5854s, 439.5855s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
+ 
+OA18: [456.4449s, 462.4449s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
+                        -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
+ 
+OA19: [473.5944s, 476.5945s];  duration: 3.0001s
+     -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
+     -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
+ 
+OA20: [496.6538s, 502.6539s];  duration: 6.0001s
+     -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
+     -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
+ 
+OA21: [509.9035s, 515.9036s];  duration: 6s
+     -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
+                        -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
+     -> No P3 detected
+ 
+OA22: [556.4819s, 562.4819s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA23: [658.3889s, 664.3889s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA24: [710.8876s, 716.8875s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
+ 
+OA25: [735.237s, 741.237s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA26: [777.0458s, 783.0459s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
+ 
+OA27: [809.695s, 812.6951s];  duration: 3s
+     -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
+     -> No P3 detected
+ 
+OA28: [847.2341s, 853.2341s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
+ 
+OA29: [889.353s, 895.353s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA30: [927.2016s, 933.2016s];  duration: 6.0001s
+     -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
+     -> No P3 detected
+ 
+OA31: [937.6413s, 943.6413s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA32: [953.0609s, 959.0609s];  duration: 6s
+     -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
+                        -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
+                        -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
+                        -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
+     -> No P3 detected
+ 
+OA33: [1007.4995s, 1013.4995s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA34: [1078.207s, 1084.207s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA35: [1168.0746s, 1174.0746s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA36: [1203.2337s, 1209.2337s];  duration: 6s
+     -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
+     -> No P3 detected
+ 
+OA37: [1259.4822s, 1265.4822s];  duration: 6s
+     -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
+     -> No P3 detected
+ 
+OA38: [1287.3115s, 1293.3116s];  duration: 6.0001s
+     -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
+     -> No P3 detected
+ 
+OA39: [1317.9308s, 1323.9307s];  duration: 5.9999s
+     -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
+                        -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
+                        -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
+     -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
+ 
+OA40: [1336.6402s, 1339.6403s];  duration: 3.0001s
+     -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
+                        -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
+                        -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
+     -> No P3 detected
+ 
+OA41: [1352.3398s, 1358.3399s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA42: [1374.8492s, 1377.8494s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
+                        -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
+ 
+OA43: [1383.1991s, 1389.1991s];  duration: 6s
+     -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
+     -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
+ 
+OA44: [1446.4674s, 1452.4675s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA45: [1465.9169s, 1468.917s];  duration: 3.0001s
+     -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
+     -> No P3 detected
+ 
+OA46: [1505.2459s, 1511.246s];  duration: 6.0001s
+     -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
+     -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
+ 
+OA47: [1551.6547s, 1557.6548s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA48: [1578.874s, 1584.874s];  duration: 6s
+     -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
+                        -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
+     -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
+                        -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
+ 
+OA49: [1609.6332s, 1615.6332s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
+ 
+OA50: [1736.64s, 1742.64s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA51: [1773.159s, 1779.1592s];  duration: 6.0001s
+     -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
+     -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
+                        -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
+                        -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
+ 
+OA52: [1801.5519s, 1807.552s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
+ 
+OA53: [1832.1311s, 1838.1312s];  duration: 6s
+     -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
+                        -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
+     -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
+ 
+OA54: [1855.0606s, 1861.0606s];  duration: 6s
+     -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
+     -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
+ 
+OA55: [1904.0093s, 1910.0092s];  duration: 5.9999s
+     -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
+     -> No P3 detected
+ 
+OA56: [1936.1884s, 1942.1886s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
+ 
+OA57: [1957.3979s, 1960.398s];  duration: 3.0001s
+     -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
+     -> No P3 detected
+ 
+OA58: [1974.3975s, 1980.3975s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA59: [2124.8236s, 2130.8237s];  duration: 6.0001s
+     -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
+     -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
+ 
+OA60: [2146.1131s, 2152.1131s];  duration: 6s
+     -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
+     -> No P3 detected
+ 
+OA61: [2171.3724s, 2177.3723s];  duration: 5.9999s
+     -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
+     -> No P3 detected
+ 
+OA62: [2212.6813s, 2218.6814s];  duration: 6.0001s
+     -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
+                        -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
+     -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
+ 
+OA63: [2336.1977s, 2342.1977s];  duration: 6.0001s
+     -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
+                        -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
+                        -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
+     -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
+ 
+OA64: [2466.8844s, 2472.8844s];  duration: 6s
+     -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
+                        -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
+     -> No P3 detected
+ 
+OA65: [2475.7741s, 2478.7743s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
+ 
+*********************************************************************************************************
+ 
+Random window 1: [1530s, 1540s]
+     -> No SW detected
+Random window 2: [2026s, 2036s]
+     -> No SW detected
+Random window 3: [590s, 600s]
+     -> No SW detected
+Random window 4: [1019s, 1029s]
+     -> No SW detected
+Random window 5: [607s, 617s]
+     -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
+Random window 6: [982s, 992s]
+     -> No SW detected
+Random window 7: [1144s, 1154s]
+     -> No SW detected
+Random window 8: [1640s, 1650s]
+     -> Random SW:      -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
+Random window 9: [220s, 230s]
+     -> No SW detected
+Random window 10: [1655s, 1665s]
+     -> No SW detected
+Random window 11: [829s, 839s]
+     -> Random SW:      -32.9154 microV at 832.2995s;    9.44 microV at 832.6001s
+Random window 12: [744s, 754s]
+     -> No SW detected
+Random window 13: [752s, 762s]
+     -> No SW detected
+Random window 14: [530s, 540s]
+     -> No SW detected
+Random window 15: [2446s, 2456s]
+     -> No SW detected
+Random window 16: [2413s, 2423s]
+     -> No SW detected
+Random window 17: [2251s, 2261s]
+     -> No SW detected
+Random window 18: [2054s, 2064s]
+     -> No SW detected
+Random window 19: [578s, 588s]
+     -> No SW detected
+Random window 20: [1100s, 1110s]
+     -> No SW detected
+Random window 21: [621s, 631s]
+     -> No SW detected
+Random window 22: [1s, 6s]
+     -> No SW detected
+Random window 23: [1039s, 1049s]
+     -> No SW detected
+Random window 24: [2019s, 2029s]
+     -> No SW detected
+Random window 25: [1811s, 1821s]
+     -> No SW detected
+Random window 26: [1634s, 1644s]
+     -> Random SW:      -61.1011 microV at 1636.1218s;    15.2558 microV at 1636.822s
+                        -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
+Random window 27: [1297s, 1307s]
+     -> Random SW:      -39.4731 microV at 1298.1407s;    22.8209 microV at 1298.2342s
+                        -33.6033 microV at 1304.3441s;    29.61 microV at 1304.4145s
+                        -45.9985 microV at 1306.8479s;    15.1989 microV at 1307.4264s
+Random window 28: [905s, 915s]
+     -> No SW detected
+Random window 29: [1521s, 1531s]
+     -> No SW detected
+Random window 30: [2183s, 2193s]
+     -> No SW detected
+Random window 31: [2154s, 2164s]
+     -> Random SW:      -21.6863 microV at 2157.887s;    21.7768 microV at 2158.1138s
+Random window 32: [1696s, 1706s]
+     -> No SW detected
+Random window 33: [2096s, 2106s]
+     -> No SW detected
+Random window 34: [1879s, 1889s]
+     -> No SW detected
+Random window 35: [380s, 390s]
+     -> No SW detected
+Random window 36: [1479s, 1489s]
+     -> No SW detected
+Random window 37: [1059s, 1069s]
+     -> No SW detected
+Random window 38: [285s, 295s]
+     -> No SW detected
+Random window 39: [480s, 490s]
+     -> Random SW:      -76.183 microV at 483.4006s;    25.9607 microV at 483.6795s
+Random window 40: [638s, 648s]
+     -> No SW detected
+Random window 41: [2008s, 2018s]
+     -> No SW detected
+Random window 42: [1238s, 1248s]
+     -> Random SW:      -55.9206 microV at 1246.171s;    22.1633 microV at 1246.428s
+                        -27.9152 microV at 1247.0099s;    26.0728 microV at 1247.9892s
+Random window 43: [2063s, 2073s]
+     -> No SW detected
+Random window 44: [816s, 826s]
+     -> No SW detected
+Random window 45: [9s, 19s]
+     -> No SW detected
+Random window 46: [1663s, 1673s]
+     -> No SW detected
+Random window 47: [898s, 908s]
+     -> Random SW:      -41.4072 microV at 901.6517s;    55.7156 microV at 901.8142s
+Random window 48: [2440s, 2450s]
+     -> No SW detected
+Random window 49: [2391s, 2401s]
+     -> No SW detected
+Random window 50: [1177s, 1187s]
+     -> Random SW:      -30.3021 microV at 1177.1788s;    16.3286 microV at 1177.4912s
+Random window 51: [177s, 187s]
+     -> Random SW:      -25.4412 microV at 180.707s;    23.5292 microV at 180.8527s
+Random window 52: [2001s, 2011s]
+     -> No SW detected
+Random window 53: [2307s, 2317s]
+     -> No SW detected
+Random window 54: [2504s, 2514s]
+     -> No SW detected
+Random window 55: [244s, 254s]
+     -> No SW detected
+Random window 56: [1399s, 1409s]
+     -> No SW detected
+Random window 57: [1710s, 1720s]
+     -> No SW detected
+Random window 58: [2039s, 2049s]
+     -> No SW detected
+Random window 59: [2086s, 2096s]
+     -> No SW detected
+Random window 60: [1870s, 1880s]
+     -> Random SW:      -32.9927 microV at 1870.0378s;    25.4797 microV at 1870.4421s
+Random window 61: [2108s, 2118s]
+     -> No SW detected
+Random window 62: [1106s, 1116s]
+     -> No SW detected
+Random window 63: [1674s, 1684s]
+     -> No SW detected
+Random window 64: [396s, 406s]
+     -> No SW detected
+Random window 65: [271s, 281s]
+     -> Random SW:      -30.4862 microV at 273.1714s;    14.0898 microV at 273.5218s
+ 
+*********************************************************************************************************
+For a total of 65 operant actions,
+ - 33 operant actions show at least one BP.
+ - 27 operant actions show at least one P3.
+ - 13 of the 65 random windows show at least one SW (which is neither BP or P3).
+*********************************************************************************************************
+ 
+>> find_BP_P300_randSW_new(SA15_12_07_2013_0004_Ch11.times, SW_SA15_12_07_2013_0004_Ch3, SA15_12_07_2013_0004_Ch3.values)
+ 
+OA1: [34.3872s, 37.3873s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA2: [45.167s, 51.167s];  duration: 6.0001s
+     -> Possible BP:    -25.7507 microV at 42.4406s;    18.4057 microV at 42.8956s
+     -> Possible P3:    -61.2014 microV at 47.0466s;    14.4253 microV at 47.304s
+ 
+OA3: [66.2364s, 72.2364s];  duration: 6s
+     -> Possible BP:    -61.5574 microV at 63.7403s;    43.8359 microV at 64.1611s
+                        -32.1293 microV at 64.3137s;    16.6487 microV at 64.4891s
+     -> No P3 detected
+ 
+OA4: [75.0562s, 78.0563s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA5: [79.7461s, 85.7461s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA6: [90.2657s, 96.2658s];  duration: 6s
+     -> Possible BP:    -62.5872 microV at 86.2523s;    22.7496 microV at 86.8936s
+                        -26.1335 microV at 88.0956s;    14.3737 microV at 88.2262s
+                        -39.3718 microV at 89.9229s;    17.688 microV at 90.1749s
+     -> No P3 detected
+ 
+OA7: [104.0554s, 110.0554s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA8: [113.8952s, 119.8952s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA9: [136.6743s, 142.6743s];  duration: 6s
+     -> Possible BP:    -39.4241 microV at 132.2731s;    10.4197 microV at 132.4381s
+     -> No P3 detected
+ 
+OA10: [159.4237s, 165.4237s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -24.8753 microV at 160.6755s;    16.3448 microV at 160.8096s
+ 
+OA11: [206.2825s, 212.2825s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA12: [263.3702s, 269.3698s];  duration: 5.9997s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA13: [306.4487s, 312.4487s];  duration: 6s
+     -> Possible BP:    -26.7921 microV at 306.1832s;    19.7934 microV at 306.5325s
+     -> Possible P3:    -53.5985 microV at 307.2113s;    15.5685 microV at 307.5238s
+ 
+OA14: [317.8884s, 320.8885s];  duration: 3.0001s
+     -> No BP detected
+     -> Possible P3:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+ 
+OA15: [325.1782s, 328.1783s];  duration: 3.0001s
+     -> Possible BP:    -56.0754 microV at 321.1476s;    11.39 microV at 321.3374s
+     -> Possible P3:    -88.3469 microV at 325.3817s;    23.0984 microV at 325.6103s
+ 
+OA16: [350.2075s, 356.2075s];  duration: 6s
+     -> Possible BP:    -31.2366 microV at 349.9738s;    12.4349 microV at 350.5125s
+     -> No P3 detected
+ 
+OA17: [433.5854s, 439.5855s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -25.0582 microV at 434.1166s;    16.0514 microV at 434.2805s
+ 
+OA18: [456.4449s, 462.4449s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -49.4493 microV at 459.2622s;    57.1527 microV at 459.8127s
+                        -60.4832 microV at 461.3887s;    19.9011 microV at 461.6087s
+ 
+OA19: [473.5944s, 476.5945s];  duration: 3.0001s
+     -> Possible BP:    -30.4123 microV at 472.5639s;    13.9436 microV at 472.669s
+     -> Possible P3:    -32.1127 microV at 477.4708s;    15.4626 microV at 477.6369s
+ 
+OA20: [496.6538s, 502.6539s];  duration: 6.0001s
+     -> Possible BP:    -31.0809 microV at 495.2719s;    16.2218 microV at 496.0603s
+     -> Possible P3:    -39.1115 microV at 497.3354s;    14.6165 microV at 497.4857s
+ 
+OA21: [509.9035s, 515.9036s];  duration: 6s
+     -> Possible BP:    -52.0561 microV at 506.2188s;    14.5856 microV at 506.404s
+                        -75.1878 microV at 508.2776s;    12.4486 microV at 508.6217s
+     -> No P3 detected
+ 
+OA22: [556.4819s, 562.4819s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA23: [658.3889s, 664.3889s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA24: [710.8876s, 716.8875s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -34.9515 microV at 715.5094s;    12.3623 microV at 715.8291s
+ 
+OA25: [735.237s, 741.237s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA26: [777.0458s, 783.0459s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -69.9016 microV at 777.7525s;    11.0327 microV at 777.8783s
+ 
+OA27: [809.695s, 812.6951s];  duration: 3s
+     -> Possible BP:    -33.0951 microV at 806.2456s;    12.7162 microV at 806.4891s
+     -> No P3 detected
+ 
+OA28: [847.2341s, 853.2341s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -76.226 microV at 849.0393s;    27.9312 microV at 849.2189s
+ 
+OA29: [889.353s, 895.353s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA30: [927.2016s, 933.2016s];  duration: 6.0001s
+     -> Possible BP:    -63.5111 microV at 926.6051s;    21.8658 microV at 927.2658s
+     -> No P3 detected
+ 
+OA31: [937.6413s, 943.6413s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA32: [953.0609s, 959.0609s];  duration: 6s
+     -> Possible BP:    -40.0539 microV at 950.3338s;    20.9475 microV at 950.6009s
+                        -39.2904 microV at 951.1382s;    19.925 microV at 951.6799s
+                        -75.0197 microV at 952.0015s;    9.15 microV at 952.7084s
+                        -45.2025 microV at 952.423s;    35.3272 microV at 953.1178s
+     -> No P3 detected
+ 
+OA33: [1007.4995s, 1013.4995s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA34: [1078.207s, 1084.207s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA35: [1168.0746s, 1174.0746s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA36: [1203.2337s, 1209.2337s];  duration: 6s
+     -> Possible BP:    -25.0259 microV at 1201.8221s;    30.6113 microV at 1202.314s
+     -> No P3 detected
+ 
+OA37: [1259.4822s, 1265.4822s];  duration: 6s
+     -> Possible BP:    -75.4972 microV at 1259.3432s;    101.0015 microV at 1259.7519s
+     -> No P3 detected
+ 
+OA38: [1287.3115s, 1293.3116s];  duration: 6.0001s
+     -> Possible BP:    -39.9687 microV at 1287.0817s;    9.3748 microV at 1287.3298s
+     -> No P3 detected
+ 
+OA39: [1317.9308s, 1323.9307s];  duration: 5.9999s
+     -> Possible BP:    -33.9707 microV at 1313.9156s;    12.785 microV at 1314.9387s
+                        -91.3054 microV at 1314.7724s;    39.1061 microV at 1315.33s
+                        -21.3852 microV at 1317.8702s;    45.9192 microV at 1318.2486s
+     -> Possible P3:    -49.8872 microV at 1321.4178s;    13.8533 microV at 1322.0983s
+ 
+OA40: [1336.6402s, 1339.6403s];  duration: 3.0001s
+     -> Possible BP:    -36.8862 microV at 1332.7043s;    30.5859 microV at 1333.4139s
+                        -31.1113 microV at 1333.5205s;    18.217 microV at 1333.7913s
+                        -129.0422 microV at 1334.3318s;    17.3039 microV at 1334.5103s
+     -> No P3 detected
+ 
+OA41: [1352.3398s, 1358.3399s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA42: [1374.8492s, 1377.8494s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -36.5085 microV at 1375.191s;    77.1168 microV at 1375.5736s
+                        -47.4623 microV at 1375.9839s;    25.0335 microV at 1376.4178s
+ 
+OA43: [1383.1991s, 1389.1991s];  duration: 6s
+     -> Possible BP:    -59.596 microV at 1382.9692s;    30.8088 microV at 1383.7382s
+     -> Possible P3:    -76.1251 microV at 1383.9563s;    18.2503 microV at 1384.0859s
+ 
+OA44: [1446.4674s, 1452.4675s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA45: [1465.9169s, 1468.917s];  duration: 3.0001s
+     -> Possible BP:    -60.7608 microV at 1462.5284s;    18.8287 microV at 1462.9843s
+     -> No P3 detected
+ 
+OA46: [1505.2459s, 1511.246s];  duration: 6.0001s
+     -> Possible BP:    -112.1039 microV at 1503.4288s;    13.6703 microV at 1504.1534s
+     -> Possible P3:    -67.9453 microV at 1505.896s;    15.2643 microV at 1506.0327s
+ 
+OA47: [1551.6547s, 1557.6548s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA48: [1578.874s, 1584.874s];  duration: 6s
+     -> Possible BP:    -45.1788 microV at 1577.5633s;    19.8631 microV at 1577.8217s
+                        -30.7214 microV at 1578.3047s;    25.8454 microV at 1579.412s
+     -> Possible P3:    -43.7793 microV at 1579.6726s;    14.6523 microV at 1579.793s
+                        -62.1859 microV at 1580.8013s;    8.0555 microV at 1581.1237s
+ 
+OA49: [1609.6332s, 1615.6332s];  duration: 6s
+     -> No BP detected
+     -> Possible P3:    -66.0585 microV at 1610.4978s;    10.2767 microV at 1610.6189s
+ 
+OA50: [1736.64s, 1742.64s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA51: [1773.159s, 1779.1592s];  duration: 6.0001s
+     -> Possible BP:    -25.5263 microV at 1773.0731s;    21.5619 microV at 1773.5201s
+     -> Possible P3:    -44.2991 microV at 1773.8857s;    16.9224 microV at 1774.0478s
+                        -30.5738 microV at 1776.0838s;    13.463 microV at 1776.2226s
+                        -55.3961 microV at 1777.0409s;    19.6473 microV at 1777.2214s
+ 
+OA52: [1801.5519s, 1807.552s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -60.4792 microV at 1802.2296s;    15.5566 microV at 1802.3162s
+ 
+OA53: [1832.1311s, 1838.1312s];  duration: 6s
+     -> Possible BP:    -31.1634 microV at 1827.8893s;    11.8917 microV at 1828.0517s
+                        -30.0467 microV at 1831.819s;    16.8764 microV at 1831.9074s
+     -> Possible P3:    -40.8385 microV at 1832.5767s;    21.6972 microV at 1832.6601s
+ 
+OA54: [1855.0606s, 1861.0606s];  duration: 6s
+     -> Possible BP:    -30.2475 microV at 1854.953s;    31.4937 microV at 1855.3812s
+     -> Possible P3:    -107.8932 microV at 1855.5967s;    20.3683 microV at 1855.7781s
+ 
+OA55: [1904.0093s, 1910.0092s];  duration: 5.9999s
+     -> Possible BP:    -68.8161 microV at 1903.4123s;    23.1636 microV at 1904.0305s
+     -> No P3 detected
+ 
+OA56: [1936.1884s, 1942.1886s];  duration: 6.0001s
+     -> No BP detected
+     -> Possible P3:    -53.3666 microV at 1938.7516s;    19.6121 microV at 1939.0064s
+ 
+OA57: [1957.3979s, 1960.398s];  duration: 3.0001s
+     -> Possible BP:    -60.5076 microV at 1957.0412s;    10.5872 microV at 1957.3031s
+     -> No P3 detected
+ 
+OA58: [1974.3975s, 1980.3975s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA59: [2124.8236s, 2130.8237s];  duration: 6.0001s
+     -> Possible BP:    -52.2561 microV at 2123.7577s;    21.9746 microV at 2124.1826s
+     -> Possible P3:    -52.1291 microV at 2125.4693s;    16.4558 microV at 2125.6267s
+ 
+OA60: [2146.1131s, 2152.1131s];  duration: 6s
+     -> Possible BP:    -55.7922 microV at 2145.0433s;    62.9374 microV at 2146.1696s
+     -> No P3 detected
+ 
+OA61: [2171.3724s, 2177.3723s];  duration: 5.9999s
+     -> Possible BP:    -49.0558 microV at 2171.1369s;    7.7225 microV at 2171.4216s
+     -> No P3 detected
+ 
+OA62: [2212.6813s, 2218.6814s];  duration: 6.0001s
+     -> Possible BP:    -48.0547 microV at 2211.2957s;    1.8953 microV at 2211.419s
+                        -48.8472 microV at 2211.6986s;    22.669 microV at 2212.5428s
+     -> Possible P3:    -60.7054 microV at 2213.6211s;    21.8047 microV at 2213.7913s
+ 
+OA63: [2336.1977s, 2342.1977s];  duration: 6.0001s
+     -> Possible BP:    -33.7328 microV at 2332.0844s;    7.2371 microV at 2332.4432s
+                        -43.7416 microV at 2333.2337s;    28.275 microV at 2333.5327s
+                        -41.1812 microV at 2335.8405s;    11.6763 microV at 2336.1277s
+     -> Possible P3:    -62.3108 microV at 2337.1942s;    10.3345 microV at 2337.4059s
+ 
+OA64: [2466.8844s, 2472.8844s];  duration: 6s
+     -> Possible BP:    -43.4487 microV at 2465.9104s;    6.955 microV at 2466.1319s
+                        -43.2899 microV at 2466.7058s;    27.5084 microV at 2467.0745s
+     -> No P3 detected
+ 
+OA65: [2475.7741s, 2478.7743s];  duration: 3.0002s
+     -> No BP detected
+     -> Possible P3:    -35.8469 microV at 2479.2746s;    11.4187 microV at 2479.4996s
+ 
+*********************************************************************************************************
+ 
+Random window 1: [2500s, 2510s]
+     -> No SW detected
+Random window 2: [858s, 868s]
+     -> No SW detected
+Random window 3: [1673s, 1683s]
+     -> No SW detected
+Random window 4: [2437s, 2447s]
+     -> No SW detected
+Random window 5: [594s, 604s]
+     -> No SW detected
+Random window 6: [612s, 622s]
+     -> Random SW:      -29.2209 microV at 615.1953s;    17.0919 microV at 615.2659s
+Random window 7: [1035s, 1045s]
+     -> No SW detected
+Random window 8: [2392s, 2402s]
+     -> No SW detected
+Random window 9: [1119s, 1129s]
+     -> No SW detected
+Random window 10: [819s, 829s]
+     -> No SW detected
+Random window 11: [521s, 531s]
+     -> No SW detected
+Random window 12: [1145s, 1155s]
+     -> No SW detected
+Random window 13: [1104s, 1114s]
+     -> No SW detected
+Random window 14: [396s, 406s]
+     -> No SW detected
+Random window 15: [1296s, 1306s]
+     -> Random SW:      -39.4731 microV at 1298.1407s;    22.8209 microV at 1298.2342s
+                        -33.6033 microV at 1304.3441s;    29.61 microV at 1304.4145s
+Random window 16: [286s, 296s]
+     -> No SW detected
+Random window 17: [1755s, 1765s]
+     -> No SW detected
+Random window 18: [7s, 17s]
+     -> No SW detected
+Random window 19: [1687s, 1697s]
+     -> No SW detected
+Random window 20: [2191s, 2201s]
+     -> No SW detected
+Random window 21: [747s, 757s]
+     -> No SW detected
+Random window 22: [1407s, 1417s]
+     -> Random SW:      -24.8223 microV at 1413.1293s;    19.3748 microV at 1413.2703s
+Random window 23: [1680s, 1690s]
+     -> No SW detected
+Random window 24: [237s, 247s]
+     -> No SW detected
+Random window 25: [1531s, 1541s]
+     -> No SW detected
+Random window 26: [1916s, 1926s]
+     -> No SW detected
+Random window 27: [687s, 697s]
+     -> No SW detected
+Random window 28: [2277s, 2287s]
+     -> No SW detected
+Random window 29: [2486s, 2496s]
+     -> No SW detected
+Random window 30: [2269s, 2279s]
+     -> No SW detected
+Random window 31: [1521s, 1531s]
+     -> No SW detected
+Random window 32: [904s, 914s]
+     -> No SW detected
+Random window 33: [2071s, 2081s]
+     -> No SW detected
+Random window 34: [718s, 728s]
+     -> No SW detected
+Random window 35: [2423s, 2433s]
+     -> Random SW:      -22.134 microV at 2432.5381s;    26.5697 microV at 2432.6271s
+Random window 36: [1781s, 1791s]
+     -> No SW detected
+Random window 37: [1707s, 1717s]
+     -> No SW detected
+Random window 38: [576s, 586s]
+     -> No SW detected
+Random window 39: [360s, 370s]
+     -> Random SW:      -23.1803 microV at 365.9776s;    16.9484 microV at 366.2788s
+Random window 40: [864s, 874s]
+     -> No SW detected
+Random window 41: [2294s, 2304s]
+     -> Random SW:      -22.8703 microV at 2295.7989s;    20.0018 microV at 2295.8709s
+                        -21.5354 microV at 2301.1663s;    23.4832 microV at 2301.284s
+Random window 42: [2364s, 2374s]
+     -> No SW detected
+Random window 43: [2010s, 2020s]
+     -> No SW detected
+Random window 44: [2035s, 2045s]
+     -> No SW detected
+Random window 45: [676s, 686s]
+     -> No SW detected
+Random window 46: [1643s, 1653s]
+     -> Random SW:      -51.8735 microV at 1643.3815s;    17.9383 microV at 1643.7414s
+Random window 47: [2223s, 2233s]
+     -> Random SW:      -108.1337 microV at 2225.5151s;    24.9108 microV at 2225.729s
+Random window 48: [1137s, 1147s]
+     -> No SW detected
+Random window 49: [2517s, 2527s]
+     -> No SW detected
+Random window 50: [277s, 287s]
+     -> No SW detected
+Random window 51: [1016s, 1026s]
+     -> No SW detected
+Random window 52: [1478s, 1488s]
+     -> No SW detected
+Random window 53: [219s, 229s]
+     -> No SW detected
+Random window 54: [2042s, 2052s]
+     -> No SW detected
+Random window 55: [1626s, 1636s]
+     -> Random SW:      -55.0205 microV at 1626.0047s;    20.6959 microV at 1626.5665s
+                        -30.3206 microV at 1626.8465s;    15.5868 microV at 1627.113s
+Random window 56: [1514s, 1524s]
+     -> No SW detected
+Random window 57: [2244s, 2254s]
+     -> Random SW:      -87.7508 microV at 2248.7802s;    9.9643 microV at 2249.0376s
+                        -57.6787 microV at 2249.3349s;    31.5737 microV at 2250.1339s
+Random window 58: [2285s, 2295s]
+     -> No SW detected
+Random window 59: [2091s, 2101s]
+     -> No SW detected
+Random window 60: [977s, 987s]
+     -> Random SW:      -87.2664 microV at 978.7353s;    34.3984 microV at 979.1154s
+Random window 61: [1225s, 1235s]
+     -> No SW detected
+Random window 62: [2052s, 2062s]
+     -> No SW detected
+Random window 63: [381s, 391s]
+     -> No SW detected
+Random window 64: [402s, 412s]
+     -> Random SW:      -51.2047 microV at 410.5161s;    21.3591 microV at 410.7344s
+Random window 65: [828s, 838s]
+     -> Random SW:      -32.9154 microV at 832.2995s;    9.44 microV at 832.6001s
+ 
+*********************************************************************************************************
+For a total of 65 operant actions,
+ - 33 operant actions show at least one BP.
+ - 27 operant actions show at least one P3.
+ - 13 of the 65 random windows show at least one SW (which is neither BP or P3).
 *********************************************************************************************************
  
 >> 
