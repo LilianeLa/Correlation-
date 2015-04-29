@@ -62,15 +62,15 @@ SW11:    -33.6567 microV at 213.3353s;    16.1218 microV at 214.1358s
               III. DETECTION OF SLOW WAVES OCCURRING JUST BEFORE AND AFTER OPERANT ACTIONS               
 *********************************************************************************************************
  
-OA1 occurs at 26.103s
+OA1: [26.103s, 32.103s];  duration: 5.9999s
      -> No BP detected
      -> No P3 detected
  
-OA2 occurs at 71.1319s
+OA2: [71.1319s, 77.1319s];  duration: 5.9999s
      -> No BP detected
      -> No P3 detected
  
-OA3 occurs at 101.1506s
+OA3: [101.1506s, 107.1506s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
