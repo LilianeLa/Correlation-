@@ -1,4 +1,4 @@
->> principal(SA16_04_07_2013_0002_Ch3.values, ttl.times);
+>> SW = principal(SA16_04_07_2013_0002_Ch3.values, SA16_04_07_2013_0002_Ch11.times);
  
 *********************************************************************************************************
                                        I. DETECTION OF ARTIFACTS                                         
@@ -156,22 +156,22 @@ SW58:    -21.1157 microV at 326.5982s;    38.3571 microV at 327.147s
               III. DETECTION OF SLOW WAVES OCCURRING JUST BEFORE AND AFTER OPERANT ACTIONS               
 *********************************************************************************************************
  
-OA1 occurs at 8.7996s
+OA1: [8.7996s, 11.7997s];  duration: 3s
      -> No BP detected
      -> No P3 detected
  
-OA2 occurs at 216.0643s
+OA2: [216.0643s, 222.0643s];  duration: 5.9999s
      -> Possible BP:    -51.5383 microV at 212.4561s;    42.7652 microV at 213.4213s
      -> No P3 detected
  
+*********************************************************************************************************
  
-Random window 1: [256s, 266s]
-     -> Random SW:      -35.7987 microV at 260.7411s;    29.738 microV at 261.1995s
-Random window 2: [91s, 101s]
-     -> Random SW:      -42.2218 microV at 94.7447s;    3.6501 microV at 95.2929s
-                        -20.4983 microV at 95.781s;    23.1948 microV at 96.1345s
-                        -27.4634 microV at 96.4519s;    14.1013 microV at 96.7669s
-                        -23.8093 microV at 97.2998s;    33.1185 microV at 98.4318s
+Random window 1: [273s, 283s]
+     -> Random SW:      -39.5554 microV at 273.735s;    16.6751 microV at 274.3295s
+                        -44.3584 microV at 282.3175s;    10.7943 microV at 282.5352s
+Random window 2: [301s, 311s]
+     -> Random SW:      -28.6311 microV at 306.6225s;    37.2062 microV at 307.4115s
+                        -24.456 microV at 308.1968s;    19.8098 microV at 309.1017s
  
 *********************************************************************************************************
 For a total of 2 operant actions,
@@ -181,4 +181,3 @@ For a total of 2 operant actions,
 *********************************************************************************************************
  
 >> 
- 
