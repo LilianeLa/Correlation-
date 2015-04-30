@@ -879,110 +879,69 @@ SW35:    -21.0483 microV at 1599.7936s;    25.139 microV at 1600.8604s
 *********************************************************************************************************
               III. DETECTION OF SLOW WAVES OCCURRING JUST BEFORE AND AFTER OPERANT ACTIONS               
 *********************************************************************************************************
- 
-OA1 occurs at 73.0474s
+
+OA1: [73.0474s, 79.0473s];  duration: 5.9999s
      -> Possible BP:    -78.4762 microV at 70.6696s;    31.3539 microV at 71.2095s
      -> No P3 detected
  
-OA2 occurs at 94.4068s
+OA2: [94.4068s, 100.4068s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA3 occurs at 137.0757s
-     -> No BP detected
-     -> No P3 detected
- 
-OA4 occurs at 454.704s
+OA3: [454.704s, 460.704s];  duration: 6s
      -> Possible BP:    -77.3469 microV at 453.755s;    24.4166 microV at 454.6112s
      -> No P3 detected
  
-OA5 occurs at 646.191s
+OA4: [646.191s, 652.191s];  duration: 6s
      -> Possible BP:    -34.7361 microV at 643.566s;    6.4562 microV at 644.2603s
      -> No P3 detected
  
-OA6 occurs at 740.7517s
+OA5: [740.7517s, 746.7518s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA7 occurs at 786.7606s
+OA6: [786.7606s, 792.7606s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA8 occurs at 821.5397s
+OA7: [821.5397s, 827.5398s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA9 occurs at 846.777s
+OA8: [846.777s, 852.777s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA10 occurs at 1028.9726s
+OA9: [1313.9755s, 1319.9754s];  duration: 5.9999s
      -> No BP detected
      -> No P3 detected
- 
-OA11 occurs at 1063.2517s
-     -> No BP detected
-     -> No P3 detected
- 
-OA12 occurs at 1313.9755s
-     -> No BP detected
-     -> No P3 detected
- 
-OA13 occurs at 1425.6426s
-     -> Possible BP:    -21.8072 microV at 1424.7573s;    29.5643 microV at 1425.4816s
-     -> No P3 detected
- 
-OA14 occurs at 1526.5001s
-     -> No BP detected
-     -> No P3 detected
- 
-OA15 occurs at 1695.1161s
-     -> No BP detected
-     -> No P3 detected
- 
-OA16 occurs at 1709.6157s
-     -> No BP detected
-     -> No P3 detected
- 
- 
-Random window 1: [1620s, 1630s]
-     -> No SW detected
-Random window 2: [855s, 865s]
-     -> No SW detected
-Random window 3: [1353s, 1363s]
-     -> No SW detected
-Random window 4: [251s, 261s]
-     -> No SW detected
-Random window 5: [678s, 688s]
-     -> Random SW:      -26.4579 microV at 685.0404s;    43.1191 microV at 686.2848s
-Random window 6: [1556s, 1566s]
-     -> Random SW:      -22.7907 microV at 1561.383s;    25.7786 microV at 1562.5355s
-Random window 7: [1329s, 1339s]
-     -> No SW detected
-Random window 8: [1626s, 1636s]
-     -> No SW detected
-Random window 9: [1116s, 1126s]
-     -> No SW detected
-Random window 10: [41s, 51s]
-     -> No SW detected
-Random window 11: [1437s, 1447s]
-     -> Random SW:      -23.6648 microV at 1440.4513s;    43.8077 microV at 1440.6917s
-Random window 12: [1579s, 1589s]
-     -> No SW detected
-Random window 13: [1138s, 1148s]
-     -> No SW detected
-Random window 14: [1240s, 1250s]
-     -> No SW detected
-Random window 15: [1214s, 1224s]
-     -> No SW detected
-Random window 16: [583s, 593s]
-     -> No SW detected
  
 *********************************************************************************************************
-For a total of 16 operant actions,
- - 4 operant actions show at least one BP.
+ 
+Random window 1: [491s, 501s]
+     -> No SW detected
+Random window 2: [670s, 680s]
+     -> Random SW:      -23.5883 microV at 671.4563s;    19.9044 microV at 672.0085s
+Random window 3: [770s, 780s]
+     -> No SW detected
+Random window 4: [412s, 422s]
+     -> No SW detected
+Random window 5: [829s, 839s]
+     -> Random SW:      -24.2187 microV at 830.7605s;    18.8526 microV at 832.0871s
+Random window 6: [393s, 403s]
+     -> No SW detected
+Random window 7: [363s, 373s]
+     -> Random SW:      -29.7864 microV at 367.5095s;    18.747 microV at 367.7705s
+Random window 8: [243s, 253s]
+     -> No SW detected
+Random window 9: [310s, 320s]
+     -> Random SW:      -30.9659 microV at 312.5725s;    15.9626 microV at 313.5804s
+ 
+*********************************************************************************************************
+For a total of 9 operant actions,
+ - 3 operant actions show at least one BP.
  - No operant action shows at least one P3.
- - 3 of the 16 random windows show at least one SW (which is neither BP or P3).
+ - 4 of the 9 random windows show at least one SW (which is neither BP or P3).
 *********************************************************************************************************
  
 >> 
