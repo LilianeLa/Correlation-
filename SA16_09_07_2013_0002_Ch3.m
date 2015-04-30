@@ -1,5 +1,4 @@
->> clear all
->> SW = principal(SA16_09_07_2013_0002_Ch3.values, ttl.times);
+>> SW = principal(SA16_09_07_2013_0002_Ch3.values, SA16_09_07_2013_0002_Ch11.times);
  
 *********************************************************************************************************
                                        I. DETECTION OF ARTIFACTS                                         
@@ -594,18 +593,19 @@ SW166:    -25.4808 microV at 4019.2492s;    15.6426 microV at 4020.1455s
               III. DETECTION OF SLOW WAVES OCCURRING JUST BEFORE AND AFTER OPERANT ACTIONS               
 *********************************************************************************************************
  
-OA1 occurs at 196.3567s
+OA1: [196.3567s, 202.3567s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA2 occurs at 256.9751s
+OA2: [256.9751s, 262.9752s];  duration: 6s
      -> No BP detected
      -> Possible P3:    -27.8605 microV at 257.7471s;    37.3374 microV at 258.0581s
  
+*********************************************************************************************************
  
-Random window 1: [3207s, 3217s]
+Random window 1: [546s, 556s]
      -> No SW detected
-Random window 2: [1277s, 1287s]
+Random window 2: [3683s, 3693s]
      -> No SW detected
  
 *********************************************************************************************************
