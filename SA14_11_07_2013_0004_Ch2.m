@@ -71,7 +71,7 @@ OA2: [71.1319s, 77.1319s];  duration: 5.9999s
      -> No P3 detected
  
 OA3: [101.1506s, 107.1506s];  duration: 6s
-     -> No BP detected
+     -> No BP detected  
      -> No P3 detected
  
  
