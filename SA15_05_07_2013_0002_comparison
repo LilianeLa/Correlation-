@@ -1,0 +1,118 @@
+% def.minimal_duration_OA = 2.8;				% The algorithm will detect both 3 and 6 sec OAs 
+
+>> find_BP_P300_randSW_modifOA(SA15_05_07_2013_0002_Ch11.times, SW_SA15_05_07_2013_0002_Ch3, SA15_05_07_2013_0002_Ch3.values)
+ 
+OA1: [461.3758s, 467.3758s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA2: [1943.2861s, 1946.2862s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA3: [3301.8198s, 3307.8199s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA4: [5117.0021s, 5123.0021s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA5: [5124.8619s, 5127.862s];  duration: 3.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA6: [5139.7515s, 5145.7515s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA7: [5176.9405s, 5182.9406s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA8: [5195.0701s, 5201.0701s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+*********************************************************************************************************
+ 
+Random window 1: [3246s, 3256s]
+     -> No SW detected
+Random window 2: [511s, 521s]
+     -> No SW detected
+Random window 3: [1434s, 1444s]
+     -> No SW detected
+Random window 4: [2817s, 2827s]
+     -> No SW detected
+Random window 5: [4919s, 4929s]
+     -> No SW detected
+Random window 6: [4957s, 4967s]
+     -> No SW detected
+Random window 7: [817s, 827s]
+     -> No SW detected
+Random window 8: [4986s, 4996s]
+     -> No SW detected
+ 
+*********************************************************************************************************
+For a total of 8 operant actions,
+ - No operant action shows at least one BP.
+ - No operant action shows at least one P3.
+ - 0 of the 8 random windows shows at least one SW.
+*********************************************************************************************************
+ 
+>> 
+
+
+*********************************************************************************************************
+*********************************************************************************************************
+*********************************************************************************************************
+
+>> find_BP_P300_randSW_modifOA(SA15_05_07_2013_0002_Ch11.times, SW_SA15_05_07_2013_0002_Ch3, SA15_05_07_2013_0002_Ch3.values)
+ 
+OA1: [461.3758s, 467.3758s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA2: [3301.8198s, 3307.8199s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA3: [5117.0021s, 5123.0021s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA4: [5139.7515s, 5145.7515s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA5: [5176.9405s, 5182.9406s];  duration: 6.0001s
+     -> No BP detected
+     -> No P3 detected
+ 
+OA6: [5195.0701s, 5201.0701s];  duration: 6s
+     -> No BP detected
+     -> No P3 detected
+ 
+*********************************************************************************************************
+ 
+Random window 1: [4915s, 4925s]
+     -> No SW detected
+Random window 2: [2484s, 2494s]
+     -> No SW detected
+Random window 3: [4109s, 4119s]
+     -> No SW detected
+Random window 4: [735s, 745s]
+     -> No SW detected
+Random window 5: [2158s, 2168s]
+     -> No SW detected
+Random window 6: [4697s, 4707s]
+     -> No SW detected
+ 
+*********************************************************************************************************
+For a total of 6 operant actions,
+ - No operant action shows at least one BP.
+ - No operant action shows at least one P3.
+ - 0 of the 6 random windows shows at least one SW.
+*********************************************************************************************************
+ 
+>> 
