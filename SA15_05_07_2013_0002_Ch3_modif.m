@@ -524,63 +524,54 @@ SW23:    -35.713 microV at 4814.5752s;    10.0916 microV at 4814.9101s
               III. DETECTION OF SLOW WAVES OCCURRING JUST BEFORE AND AFTER OPERANT ACTIONS               
 *********************************************************************************************************
  
+>> clear al
+>> clear all
+>> find_BP_P300_randSW_modifOA(SA15_05_07_2013_0002_Ch11.times, SW_SA15_05_07_2013_0002_Ch3, SA15_05_07_2013_0002_Ch3.values)
+ 
 OA1: [461.3758s, 467.3758s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA2: [1943.2861s, 1946.2862s];  duration: 3.0001s
+OA2: [3301.8198s, 3307.8199s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA3: [3301.8198s, 3307.8199s];  duration: 6s
+OA3: [5117.0021s, 5123.0021s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA4: [5117.0021s, 5123.0021s];  duration: 6s
+OA4: [5139.7515s, 5145.7515s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
-OA5: [5124.8619s, 5127.862s];  duration: 3.0001s
+OA5: [5176.9405s, 5182.9406s];  duration: 6.0001s
      -> No BP detected
      -> No P3 detected
  
-OA6: [5139.7515s, 5145.7515s];  duration: 6s
-     -> No BP detected
-     -> No P3 detected
- 
-OA7: [5176.9405s, 5182.9406s];  duration: 6.0001s
-     -> No BP detected
-     -> No P3 detected
- 
-OA8: [5195.0701s, 5201.0701s];  duration: 6s
+OA6: [5195.0701s, 5201.0701s];  duration: 6s
      -> No BP detected
      -> No P3 detected
  
 *********************************************************************************************************
  
-Random window 1: [2057s, 2067s]
+Random window 1: [19s, 29s]
      -> No SW detected
-Random window 2: [1706s, 1716s]
+Random window 2: [3989s, 3999s]
      -> No SW detected
-Random window 3: [1176s, 1186s]
+Random window 3: [4206s, 4216s]
      -> No SW detected
-Random window 4: [4811s, 4821s]
-     -> Random SW:      -31.7788 microV at 4811.0965s;    16.016 microV at 4811.464s
-                        -35.713 microV at 4814.5752s;    10.0916 microV at 4814.9101s
-Random window 5: [3529s, 3539s]
+Random window 4: [4468s, 4478s]
      -> No SW detected
-Random window 6: [4943s, 4953s]
+Random window 5: [432s, 442s]
      -> No SW detected
-Random window 7: [2264s, 2274s]
-     -> No SW detected
-Random window 8: [4824s, 4834s]
+Random window 6: [2054s, 2064s]
      -> No SW detected
  
 *********************************************************************************************************
-For a total of 8 operant actions,
+For a total of 6 operant actions,
  - No operant action shows at least one BP.
  - No operant action shows at least one P3.
- - 1 of the 8 random windows shows at least one SW (which is neither BP or P3).
+ - 0 of the 6 random windows shows at least one SW.
 *********************************************************************************************************
  
 >> 
