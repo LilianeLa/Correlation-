@@ -67,19 +67,19 @@ SW11:    -32.2947 microV at 426.9006s;    23.8598 microV at 427.7444s
               III. DETECTION OF SLOW WAVES OCCURRING JUST BEFORE AND AFTER OPERANT ACTIONS               
 *********************************************************************************************************
  
-OA1 occurs at 350.0218s
+OA1: [350.0218s, 356.0218s];  duration: 6s
      -> No BP detected
-     -> Possible P3:    -81.4533 microV at 352.849s;    100.9783 microV at 354.0059s
-                        -70.8809 microV at 354.5781s;    39.7384 microV at 355.2668s
+     -> No P3 detected
  
+*********************************************************************************************************
  
-Random window 1: [359s, 369s]
+Random window 1: [298s, 308s]
      -> No SW detected
  
 *********************************************************************************************************
 There is only 1 operant action.
  - No operant action shows at least one BP.
- - 1 operant action shows at least one P3.
+ - No operant action shows at least one P3.
  - 0 of the 1 random windows shows at least one SW.
 *********************************************************************************************************
  
