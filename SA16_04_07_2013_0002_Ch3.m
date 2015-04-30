@@ -155,29 +155,23 @@ SW58:    -21.1157 microV at 326.5982s;    38.3571 microV at 327.147s
 *********************************************************************************************************
               III. DETECTION OF SLOW WAVES OCCURRING JUST BEFORE AND AFTER OPERANT ACTIONS               
 *********************************************************************************************************
- 
-OA1: [8.7996s, 11.7997s];  duration: 3s
-     -> No BP detected
-     -> No P3 detected
- 
-OA2: [216.0643s, 222.0643s];  duration: 5.9999s
+
+OA1: [216.0643s, 222.0643s];  duration: 5.9999s
      -> Possible BP:    -51.5383 microV at 212.4561s;    42.7652 microV at 213.4213s
      -> No P3 detected
  
 *********************************************************************************************************
  
-Random window 1: [273s, 283s]
-     -> Random SW:      -39.5554 microV at 273.735s;    16.6751 microV at 274.3295s
-                        -44.3584 microV at 282.3175s;    10.7943 microV at 282.5352s
-Random window 2: [301s, 311s]
-     -> Random SW:      -28.6311 microV at 306.6225s;    37.2062 microV at 307.4115s
-                        -24.456 microV at 308.1968s;    19.8098 microV at 309.1017s
+Random window 1: [118s, 128s]
+     -> Random SW:      -32.8783 microV at 121.9009s;    18.9436 microV at 122.1448s
+                        -20.2256 microV at 124.463s;    23.209 microV at 125.3432s
+                        -31.8994 microV at 126.533s;    18.4594 microV at 127.3547s
  
 *********************************************************************************************************
-For a total of 2 operant actions,
+There is only 1 operant action.
  - 1 operant action shows at least one BP.
  - No operant action shows at least one P3.
- - 2 of the 2 random windows show at least one SW (which is neither BP or P3).
+ - 1 of the 1 random windows shows at least one SW (which is neither BP or P3).
 *********************************************************************************************************
  
 >> 
